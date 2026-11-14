@@ -1,0 +1,871 @@
+Class recordings (1).m4a
+Duración: 02:46:50.944
+Fragmentos: 34
+
+[00:00:00.000 - 00:00:14.300] Un momento.
+[00:00:30.000 - 00:00:31.000] Gracias.
+[00:01:00.000 - 00:01:01.000] Gracias.
+[00:01:10.000 - 00:01:39.980] Thank you.
+[00:01:40.000 - 00:02:09.980] Thank you.
+[00:02:10.000 - 00:02:23.000] Good evening everyone.
+[00:02:23.000 - 00:02:40.920] With me the one who speaks to you I am Alex Javier Toma Castillo a systems sistemas en el curso de lenguaje de ciencia de datos El tema de hoy vamos a ver ingesta desde API REST Como ya me estaba
+[00:02:40.920 - 00:02:46.760] presentando, mi nombre es Ale Javier Tomaya Castillo, ingeniero de sistemas, egresado
+[00:02:46.760 - 00:02:58.120] de la UPC y también tengo más de ocho años ya de experiencia laboral en el sector público,
+[00:02:58.320 - 00:03:07.960] empresas privadas, empresas del sector público, instituciones del sector público. He trabajado
+[00:03:07.960 - 00:03:18.400] en Entedata, Inetum, Stefanini y en instituciones públicas como Ministerio de Vivienda, Ofopri,
+[00:03:18.400 - 00:03:24.420] Procuraduría, entre otros.
+[00:03:24.420 - 00:03:31.620] Mis hobbies es... me gusta jugar fútbol, leer libros, también me gusta bastante la
+[00:03:31.620 - 00:03:35.880] parte de ver videos de YouTube de tecnología.
+[00:03:37.960 - 00:03:53.320] y a ver si se pueden algunos pueden presentar m que nada los nombres de un COVID y la expectativa del curso Empezamos con Astrid
+[00:03:58.960 - 00:04:00.500] Buenas noches.
+[00:04:00.820 - 00:04:01.360] Buenas noches.
+[00:04:02.500 - 00:04:05.660] Compañeros, buenas noches. Bueno, yo soy administradora de profesión.
+[00:04:05.660 - 00:04:08.300] trabajo para
+[00:04:08.300 - 00:04:10.380] los sectores privados como el
+[00:04:10.380 - 00:04:10.720] BSP
+[00:04:10.720 - 00:04:14.240] mi hobby es
+[00:04:14.240 - 00:04:16.220] escuchar música, profesor, gracias
+[00:04:16.220 - 00:04:18.260] ya, ok
+[00:04:18.260 - 00:04:20.000] ¿a quién le dan aposta?
+[00:04:20.000 - 00:04:42.260] ¿Qué tal? Buenas noches con todos.
+[00:04:42.260 - 00:04:50.120] Sí, más que nada era presentarse
+[00:04:50.120 - 00:04:51.740] el tema de sus hobbies y
+[00:04:51.740 - 00:04:53.840] respetar con el curso
+[00:04:53.840 - 00:04:57.680] Bueno, yo soy Raúl Porras
+[00:04:57.680 - 00:05:00.000] esta es mi segunda carrera, la primera
+[00:05:00.000 - 00:05:08.960] y bueno, tengo bastantes expectativas en relación a aplicar toda esta carrera a nuevos conceptos
+[00:05:08.960 - 00:05:12.960] para lo que son procesos de transformación digital en salud. Gracias.
+[00:05:14.020 - 00:05:15.340] Ok, gracias.
+[00:05:22.420 - 00:05:23.600] Voy con Joel.
+[00:05:30.000 - 00:05:42.000] ¿Qué tal? Buenas noches, profesor. Mi nombre es Joel Cordero, trabajo como analista de navegación aérea para el Ministerio de Transportes
+[00:05:42.000 - 00:05:49.400] y hobbies, me gusta manejar bicicleta y ver películas. Buenas noches, un gusto.
+[00:05:50.260 - 00:05:51.400] Ok, gracias.
+[00:05:52.140 - 00:05:53.000] ¿Con Rosario?
+[00:05:53.000 - 00:05:53.060] ¿Con Rosario?
+[00:06:00.000 - 00:06:20.560] Ah buenas noches S escuch S solamente era para presentarte S nombre tu hobby y expectativa del curso S lo he escuchado bien
+[00:06:21.160 - 00:06:21.820] Ah, ok.
+[00:06:22.680 - 00:06:24.660] Mi nombre es Rosario.
+[00:06:24.660 - 00:06:32.000] Rosario, creo que dijo que iba a enseñarlo de APIs, creo.
+[00:06:33.320 - 00:06:36.100] El tema de hoy es el tema de APIs.
+[00:06:37.280 - 00:06:37.640] Ah, ya.
+[00:06:38.080 - 00:06:38.880] Ya, ok.
+[00:06:38.880 - 00:07:01.500] Bueno, yo trabajo de asistente de soporte técnico, hago home office y bueno, mis hobbies son ver series, ver películas, bicicletear, comer, me gusta comer.
+[00:07:01.500 - 00:07:11.800] Y bueno, las expectativas del curso, pues tengo las mejores expectativas para aprender la plena disposición.
+[00:07:13.380 - 00:07:14.460] Bueno, eso sería todo.
+[00:07:15.240 - 00:07:16.500] Ok, te agradezco.
+[00:07:22.420 - 00:07:41.840] Ya para empezar el tema a ver con Juan con Antonio Buenas noches profesor mi nombre es Juan Antonio Mendoza Luna como hobby me gusta jugar a f
+[00:07:42.860 - 00:07:52.960] también ver películas, sobre las expectativas del curso, quisiera seguir desarrollando sobre los temas
+[00:07:52.960 - 00:07:54.280] que hemos visto anteriormente
+[00:07:54.280 - 00:07:55.980] todo relacionado
+[00:07:55.980 - 00:07:58.500] al aprendizaje de datos
+[00:07:58.500 - 00:08:00.160] gracias
+[00:08:00.160 - 00:08:01.880] ok, gracias
+[00:08:01.880 - 00:08:04.960] y ya como nos vamos
+[00:08:04.960 - 00:08:06.780] conociendo ya un poco, ya como ya se han ido
+[00:08:06.780 - 00:08:07.840] conociendo sus compañeros
+[00:08:07.840 - 00:08:10.240] no sé si
+[00:08:10.240 - 00:08:12.920] de voluntario alguien puede ser delegado
+[00:08:12.920 - 00:08:13.280] del curso
+[00:08:22.960 - 00:08:27.040] ¿Quién puede ser?
+[00:08:31.040 - 00:08:33.920] O escojo al azar.
+[00:08:49.040 - 00:08:51.480] se propone como voluntario
+[00:09:00.360 - 00:09:04.280] Ya. Tenemos una lista de 19 participantes.
+[00:09:05.480 - 00:09:07.060] Voy a coger un número.
+[00:09:10.000 - 00:09:12.900] Voy a buscar el número 9.
+[00:09:40.000 - 00:09:50.000] Hola.
+[00:09:50.000 - 00:10:00.000] Hola, profe. Lamento que no participé un poquito antes, que el micrófono no me estaba respondiendo.
+[00:10:00.000 - 00:10:06.060] ahora no te preocupes si solamente hemos estado presentando algunos tampoco no todos
+[00:10:08.820 - 00:10:10.740] no estamos
+[00:10:12.760 - 00:10:20.640] si quieres participar normales solamente decir tu nombre tu joven expectativa del curso ok primero
+[00:10:20.640 - 00:10:27.780] mi nombre es darme el garrido pasa mis hobbies son escuchar música dibujar y también leer mis
+[00:10:27.780 - 00:10:33.360] expectativas del tema es que bueno me vaya bien y puedan al menos alcanzar las metas que yo quiero
+[00:10:35.780 - 00:10:42.360] ya que ya así como justo ahora estamos viendo el tema del tema de delegado
+[00:10:45.360 - 00:10:56.020] quién es carol giuseppe estado como no hay un voluntario escogió un número y el premio y el
+[00:10:56.020 - 00:11:01.140] el que ha salido seleccionado es Harold Giuseppe.
+[00:11:01.140 - 00:11:22.200] S para que seas delegado al concurso solamente para que de repente hagas un chat grupal de WhatsApp para tus compa si de repente hay alg tema que tengo que coordinar coordino contigo y t lo transmites a trav del chat a tu compa
+[00:11:23.020 - 00:11:26.320] Claro, sí, está bien, no hay problema, profesor.
+[00:11:26.380 - 00:11:31.600] En este caso, optaría por la posición de delegado.
+[00:11:31.920 - 00:11:33.740] Muy aparte de eso, bueno, presentarme.
+[00:11:33.820 - 00:11:34.500] Mi nombre es Harold.
+[00:11:35.500 - 00:11:38.960] Yo actualmente trabajo como asistente de planeamiento
+[00:11:38.960 - 00:11:40.680] en una empresa de sanidad.
+[00:11:41.700 - 00:11:44.640] Mi hobbit son, en este caso, tocar la guitarra,
+[00:11:45.220 - 00:11:47.640] me gusta el tema de la natación,
+[00:11:48.540 - 00:11:52.340] y bueno, mis expectativas sobre el curso es poder ampliar más mi conocimiento
+[00:11:52.340 - 00:11:54.540] y buscar una mejora continua dentro de todo esto.
+[00:11:56.180 - 00:11:57.740] Ok, muchas gracias.
+[00:11:58.320 - 00:11:58.940] Ya, ok.
+[00:11:59.280 - 00:12:01.900] Su compañero Harold queda como delegado del curso.
+[00:12:02.860 - 00:12:06.340] A través de él va, seguro, y él va a hacer un chat grupal,
+[00:12:06.340 - 00:12:07.320] y a través de
+[00:12:07.320 - 00:12:09.780] hacer el base de la comunicación
+[00:12:09.780 - 00:12:13.240] continuamos
+[00:12:13.240 - 00:12:20.580] sobre el tema de hoy
+[00:12:20.580 - 00:12:22.340] era
+[00:12:22.340 - 00:12:23.740] ingesta de API REST
+[00:12:23.740 - 00:12:35.780] como tema 1 logres aplicarte a t de conexi y autenticaci a fuentes de datos externas Voy a hacer un video
+[00:12:55.000 - 00:12:56.000] Gracias.
+[00:13:25.000 - 00:13:26.000] Gracias.
+[00:13:40.000 - 00:13:59.000] .
+[00:13:59.000 - 00:14:00.000] .
+[00:14:00.000 - 00:14:01.000] .
+[00:14:01.000 - 00:14:02.000] .
+[00:14:02.000 - 00:14:03.000] .
+[00:14:03.000 - 00:14:04.000] .
+[00:14:04.000 - 00:14:05.000] .
+[00:14:05.000 - 00:14:06.000] .
+[00:14:06.000 - 00:14:07.000] .
+[00:14:07.000 - 00:14:08.000] .
+[00:14:08.000 - 00:14:09.000] .
+[00:14:10.000 - 00:14:31.600] Thank you.
+[00:14:40.000 - 00:15:00.000] Thank you.
+[00:15:00.000 - 00:15:18.860] ¿Qué es el estándar de comunicación más común entre ordenadores a través de Internet?
+[00:15:19.540 - 00:15:21.520] ¿Qué es? ¿Por qué es tan popular?
+[00:15:21.900 - 00:15:22.980] Echemos un vistazo.
+[00:15:24.220 - 00:15:26.980] API significa Interfaz de Programación de Aplicaciones.
+[00:15:26.980 - 00:15:30.480] Es una forma en que dos ordenadores se comunican entre sí.
+[00:15:30.480 - 00:15:35.760] El estándar API común que utilizan la mayoría de las aplicaciones móviles y web para comunicarse
+[00:15:35.760 - 00:15:40.700] con los servidores se llama REST. Significa transferencia de estado representacional.
+[00:15:40.700 - 00:15:43.600] Es un trabalenguas. ¿Qué significa eso?
+[00:15:43.600 - 00:15:49.780] REST no es una especificación. Es un conjunto de reglas flexibles que ha sido el estándar común
+[00:15:49.780 - 00:15:55.900] para crear API web desde principios de la década de 2000. Una API que sigue el estándar REST se
+[00:15:55.900 - 00:16:02.800] denomina API RESTful. Algunos ejemplos de la vida real son Twilio, Stripe y Google Maps.
+[00:16:03.280 - 00:16:08.880] Echemos un vistazo a los conceptos básicos de REST. Una API RESTful organiza los recursos
+[00:16:08.880 - 00:16:24.100] en un conjunto de URI o identificadores uniformes de recursos Los URI diferencian diferentes tipos de recursos en un servidor Aqu hay algunos ejemplos Los recursos deben agruparse por sustantivo
+[00:16:24.100 - 00:16:29.920] y no por verbo. Una API para obtener todos los productos debe ser slash productos y no
+[00:16:29.920 - 00:16:35.100] slash obtener todos los productos. Un cliente interactúa con un recurso realizando una
+[00:16:35.100 - 00:16:42.360] solicitud al punto final del recurso a través de http. La solicitud tiene un formato muy específico,
+[00:16:42.360 - 00:16:49.400] como se muestra aquí. La línea contiene el URI del recurso al que nos gustaría acceder. El URI
+[00:16:49.400 - 00:16:54.720] va precedido de un verbo http que le indica al servidor lo que queremos hacer con el recurso.
+[00:16:54.720 - 00:17:01.560] Una solicitud POST significa que queremos crear un nuevo recurso. De nuevo, significa que queremos
+[00:17:01.560 - 00:17:06.600] leer los datos sobre un recurso existente. Una solicitud PUT sirve para actualizar un
+[00:17:06.600 - 00:17:11.220] recurso existente. Una solicitud DELETE sirve para eliminar un recurso existente.
+[00:17:11.220 - 00:17:15.660] Es posible que hayas oído el acrónimo CRUD. Esto es lo que significa.
+[00:17:15.660 - 00:17:21.360] En el cuerpo de estas solicitudes, podría haber un cuerpo de solicitud HTTP opcional
+[00:17:21.360 - 00:17:38.320] que contenga una carga personalizada de datos normalmente codificada en JSON El servidor recibe una solicitud la procesa y da formato a un resultado en una respuesta La primera l de la respuesta contiene el c de estado HTTP para indicar al
+[00:17:38.320 - 00:17:44.120] cliente qué ha ocurrido con la solicitud. Ahora bien, una API RESTFOLD bien implementada devuelve
+[00:17:44.120 - 00:17:49.420] códigos de estado HTTP adecuados. Los códigos de nivel 200 significan que la solicitud se ha
+[00:17:49.420 - 00:17:53.980] realizado correctamente. Los códigos de nivel 400 significan que algo ha ido mal con nuestra
+[00:17:53.980 - 00:17:59.480] solicitud. Por ejemplo, la solicitud contiene una sintaxis incorrecta. En el nivel 500, significa
+[00:17:59.480 - 00:18:04.120] que algo se ha ejecutado mal en el nivel del servidor. Por ejemplo, el servicio no estaba
+[00:18:04.120 - 00:18:10.420] disponible. Un cliente que se comporta correctamente podría optar por reintentar una solicitud fallida
+[00:18:10.420 - 00:18:16.280] con un código de estado de nivel 500. Dijimos que podría optar por reintentar porque algunas
+[00:18:16.280 - 00:18:22.080] acciones no son potentes y requieren un cuidado adicional al reintentar. Cuando una API es potente,
+[00:18:22.440 - 00:18:24.500] realizar varias solicitudes idénticas
+[00:18:24.500 - 00:18:27.460] tiene el mismo efecto que realizar una única solicitud.
+[00:18:28.040 - 00:18:30.640] Este no suele ser el caso de una solicitud posterior
+[00:18:30.640 - 00:18:32.160] para crear un nuevo recurso.
+[00:18:32.720 - 00:18:34.460] El cuerpo de la respuesta es opcional
+[00:18:34.460 - 00:18:36.860] y podría contener la carga útil de datos
+[00:18:36.860 - 00:18:39.020] y suele estar formateado en JSON.
+[00:18:40.600 - 00:18:56.220] Hay un atributo fundamental de REST que merece la pena analizar m a fondo Una implementaci de REST debe ser sin estado Esto significa que las dos partes no necesitan almacenar ninguna informaci entre s y que cada solicitud y respuesta es independiente de todas las dem
+[00:18:57.080 - 00:19:01.560] Esto da lugar a aplicaciones web que son fáciles de escalar y tienen un buen comportamiento.
+[00:19:02.660 - 00:19:07.060] Hay dos puntos finales que analizar para completar una API REST de buen comportamiento.
+[00:19:07.060 - 00:19:13.100] Si un punto final de API devuelve una gran cantidad de datos, usa la paginación.
+[00:19:13.920 - 00:19:17.860] Un esquema de paginación común usa limit y offset como parámetros.
+[00:19:18.700 - 00:19:19.820] Aquí tienes un ejemplo.
+[00:19:21.000 - 00:19:25.440] Si no se especifican, el servidor debe asumir valores predeterminados razonables.
+[00:19:26.400 - 00:19:29.900] Por último, el control de versiones de una API es muy importante.
+[00:19:30.400 - 00:19:35.520] El control de versiones permite que una implementación proporcione compatibilidad con versiones anteriores,
+[00:19:35.960 - 00:19:40.800] de modo que si introducimos cambios importantes de una versión a otra, los consumidores tengan
+[00:19:40.800 - 00:19:45.560] tiempo suficiente para pasar a la siguiente versión. Hay muchas formas de controlar las
+[00:19:45.560 - 00:19:52.960] versiones de una API. La más sencilla es anteponer la versión al recurso en el URI. Por ejemplo, esta.
+[00:19:55.520 - 00:20:00.000] API REST es sencilla y eficaz cuando se aplica de forma sensata. Puede que no
+[00:20:00.000 - 00:20:05.020] sea la mejor opción para todas las empresas, pero es sencilla y lo suficientemente buena,
+[00:20:05.460 - 00:20:12.420] y por eso se utiliza tanto. Hay otras opciones de API populares como GraphQL y GRPC. Las
+[00:20:12.420 - 00:20:15.140] analizaremos y compararemos en videos independientes.
+[00:20:30.000 - 00:20:41.600] sobre el video
+[00:20:41.600 - 00:20:43.820] que conceptos
+[00:20:43.820 - 00:20:45.780] que podemos
+[00:20:45.780 - 00:20:49.000] de que tratar el video
+[00:20:49.000 - 00:20:50.240] que conceptos nuevos
+[00:20:50.240 - 00:20:52.200] o de repente han escuchado
+[00:20:52.200 - 00:20:55.400] api red
+[00:20:55.400 - 00:20:57.640] o red full
+[00:20:57.640 - 00:21:01.980] ¿Quién me puede comentar sobre el video?
+[00:21:10.000 - 00:21:29.420] ¿Quién me puede comentar sobre el video?
+[00:21:29.420 - 00:21:36.840] ¿Ya? ¿La comunicación?
+[00:21:40.000 - 00:21:45.880] y y esa comunicación a través de que lo hacen
+[00:21:47.940 - 00:21:51.780] a la versión de un api en una red
+[00:21:55.040 - 00:22:01.560] y esa comunicación que me lo tiene o cuál es su tiempo respuesta que código de
+[00:22:01.560 - 00:22:04.920] tiempo respuesta tiene
+[00:22:04.920 - 00:22:16.020] hay varios métodos no hay varias hay una comunicación pero solamente será lectura
+[00:22:16.020 - 00:22:26.000] o tambi escritura como manejamos esa que se menciona en el v Gracias Gracias
+[00:22:55.000 - 00:23:07.200] hay una comunicación y esa comunicación hay varios métodos, método head, lectura, read,
+[00:23:07.200 - 00:23:24.380] método post, select, claro, ahí el famoso crux, create, read, eliminar,
+[00:23:25.000 - 00:23:27.000] y actualizarse.
+[00:23:27.000 - 00:23:52.000] El protocolo es http La autenticaci ya que
+[00:24:10.000 - 00:24:11.000] Gracias.
+[00:24:40.000 - 00:25:00.000] Ya, sí. También el tema de la autenticación. Mientras vamos a ir avanzando en esta parte, vamos a ir...
+[00:25:00.000 - 00:25:05.720] Ahora uno de esos temas que han visto en el video, el tema de la autentificación.
+[00:25:08.300 - 00:25:10.640] Vamos avanzando en esta parte.
+[00:25:18.200 - 00:25:27.680] Ya, dice, ¿cómo Netflix, Spotify, Facebook, TikTok, obtienen información constantemente mediante API?
+[00:25:27.680 - 00:25:32.120] ¿Cómo puede un ingeniero de datos capturar esa información y prepararla para análisis masivo?
+[00:25:38.120 - 00:25:42.680] Claro, acá vemos un poco de repente saliendo un poco más allá de...
+[00:25:57.680 - 00:26:08.220] Un momento, están pidiendo los datos del delegado.
+[00:26:08.320 - 00:26:08.860] A ver, un momento.
+[00:26:14.360 - 00:26:18.620] Ya un minuto Est pidiendo los datos del delegado a menos de un momento
+[00:26:40.000 - 00:26:54.040] Nuevo momento.
+[00:26:54.040 - 00:27:01.900] Nuevo momento.
+[00:27:10.000 - 00:27:11.000] Gracias.
+[00:27:25.000 - 00:27:54.980] Thank you.
+[00:27:55.000 - 00:28:24.980] Thank you.
+[00:28:25.000 - 00:28:42.900] Ya Ya
+[00:28:52.700 - 00:28:54.580] Sí, claro, el tema
+[00:28:54.580 - 00:28:56.860] ya acá de repente viene un poco
+[00:28:56.860 - 00:28:58.540] para, ¿cómo pueden generar
+[00:28:58.540 - 00:29:00.240] actuales de información para la pandemia?
+[00:29:00.620 - 00:29:04.780] De repente ya, claro,
+[00:29:04.900 - 00:29:06.840] ellos ya traen,
+[00:29:06.940 - 00:29:08.760] como dicen, preparan mediante
+[00:29:08.760 - 00:29:09.160] APIs
+[00:29:09.160 - 00:29:15.440] un poco el video también muestra el tema de la paginación
+[00:29:15.440 - 00:29:19.480] muestran de repente
+[00:29:19.480 - 00:29:22.620] van preparando la información
+[00:29:22.620 - 00:29:26.140] entrando a la parte técnica de repente
+[00:29:26.140 - 00:29:32.800] el tema de paginación
+[00:29:32.800 - 00:29:34.460] pero el tema de ingeniería de datos
+[00:29:34.460 - 00:29:35.900] ya como que ellos
+[00:29:35.900 - 00:29:38.100] al hacer análisis masivos
+[00:29:38.100 - 00:29:46.040] dependiendo de repente como muestreos no agarra una muestra de data
+[00:29:46.040 - 00:29:53.780] y claro de repente de lo que preparamos puede ser un api en un api que tiene de
+[00:29:53.780 - 00:30:00.000] repente una información de nuestro de datos
+[00:30:00.000 - 00:30:03.080] esto lo vamos a ir viendo
+[00:30:05.760 - 00:30:10.760] contra momento
+[00:30:30.000 - 00:30:31.000] Gracias.
+[00:31:00.000 - 00:31:01.000] Gracias.
+[00:31:10.000 - 00:31:39.980] Thank you.
+[00:31:40.000 - 00:32:09.980] Thank you.
+[00:32:10.000 - 00:32:45.740] I going to go ahead and start pueden entrar a este enlace ah pueden
+[00:32:45.740 - 00:32:47.700] vamos a ir agregando
+[00:32:47.700 - 00:32:49.220] no hay idea buena o idea mala
+[00:32:49.220 - 00:32:51.500] más que nada ver
+[00:32:51.500 - 00:32:53.440] las ideas que uno tiene
+[00:32:53.440 - 00:32:55.960] sobre estos conceptos API Red, autenticación,
+[00:32:56.600 - 00:32:57.280] automato JSON.
+[00:33:02.180 - 00:33:08.120] Por favor, ahí ingresen a la pizarra, al whiteboard.
+[00:33:11.060 - 00:33:12.980] ¿Me confirman si pueden editar?
+[00:33:15.320 - 00:33:15.900] ¿Pueden escribir?
+[00:33:21.560 - 00:33:23.120] Sí, ok, gracias.
+[00:33:23.440 - 00:33:29.440] si se puede ya ahora si hay como digo no hay idea buena o idea mala más que nada
+[00:33:29.440 - 00:33:34.680] es el de lo que ustedes crean conveniente sobre ese concepto
+[00:33:34.680 - 00:33:39.580] e idea pueden tener sobre ese concepto pero vamos un minuto mientras vamos
+[00:33:39.580 - 00:33:42.220] realizando el ejercicio de ejercicio
+[00:34:10.000 - 00:34:11.000] Gracias.
+[00:34:40.000 - 00:34:41.000] Gracias.
+[00:35:00.000 - 00:35:00.620] you
+[00:35:30.000 - 00:35:30.620] you
+[00:36:00.000 - 00:36:00.620] you
+[00:36:10.000 - 00:36:10.620] you
+[00:36:40.000 - 00:36:40.620] you
+[00:37:10.000 - 00:37:10.620] you
+[00:37:25.000 - 00:37:25.620] you
+[00:37:55.000 - 00:37:55.620] you
+[00:38:25.000 - 00:38:25.620] you
+[00:38:40.000 - 00:38:40.620] you
+[00:39:10.000 - 00:39:10.620] you
+[00:39:40.000 - 00:39:40.620] you
+[00:40:00.000 - 00:40:00.620] you
+[00:40:30.000 - 00:40:30.620] you
+[00:41:00.000 - 00:41:00.620] you
+[00:41:10.000 - 00:41:10.620] you
+[00:41:40.000 - 00:41:40.620] you
+[00:42:10.000 - 00:42:10.620] you
+[00:42:25.000 - 00:42:25.620] you
+[00:42:55.000 - 00:42:55.620] you
+[00:43:25.000 - 00:43:25.620] you
+[00:43:40.000 - 00:43:40.620] you
+[00:44:10.000 - 00:44:10.620] you
+[00:44:40.000 - 00:44:40.620] you
+[00:45:00.000 - 00:45:00.620] you
+[00:45:30.000 - 00:45:30.620] you
+[00:46:00.000 - 00:46:00.620] you
+[00:46:10.000 - 00:46:10.620] you
+[00:46:40.000 - 00:46:40.620] you
+[00:47:10.000 - 00:47:10.620] you
+[00:47:25.000 - 00:47:25.620] you
+[00:47:55.000 - 00:47:55.620] you
+[00:48:25.000 - 00:48:25.620] you
+[00:48:40.000 - 00:48:40.620] you
+[00:49:10.000 - 00:49:10.620] you
+[00:49:40.000 - 00:49:40.620] you
+[00:50:00.000 - 00:50:00.620] you
+[00:50:30.000 - 00:50:30.620] you
+[00:51:00.000 - 00:51:00.620] you
+[00:51:10.000 - 00:51:10.620] you
+[00:51:40.000 - 00:51:40.620] you
+[00:52:10.000 - 00:52:10.620] you
+[00:52:25.000 - 00:52:25.620] you
+[00:52:55.000 - 00:52:55.620] you
+[00:53:25.000 - 00:53:25.620] you
+[00:53:40.000 - 00:53:41.000] Gracias.
+[00:54:10.000 - 00:54:12.000] Ya.
+[00:54:40.000 - 00:54:41.000] Gracias.
+[00:55:00.000 - 00:55:00.620] you
+[00:55:30.000 - 00:55:30.620] you
+[00:56:00.000 - 00:56:00.620] you
+[00:56:10.000 - 00:56:11.000] Gracias.
+[00:56:40.000 - 00:56:46.760] disculpar y ahora si vamos a continuar con lo que estamos viendo en el tema de
+[00:56:46.760 - 00:56:51.120] api res veo que ha agregado
+[00:56:54.000 - 00:56:57.840] es un medio de comunicación que le permite interactuar e intercambiar datos
+[00:56:57.840 - 00:57:02.340] entre los sistemas en un método de http actualizar de
+[00:57:02.340 - 00:57:05.880] borrar la comunicación entre servidores sirve para que aplicaciones se
+[00:57:05.880 - 00:57:10.260] comuniquen entre sí medio de comunicación que permiten a las
+[00:57:10.260 - 00:57:14.520] aplicaciones compartir información entre siguiendo
+[00:57:14.520 - 00:57:21.780] conjuntos reglas puente de interés de interacción de los sistemas servicio web
+[00:57:21.780 - 00:57:33.380] que expone recursos un momento
+[00:57:55.000 - 00:58:24.980] Продолжение следует...
+[00:58:25.000 - 00:58:28.000] дает выделить данные на другие системы.
+[00:58:28.000 - 00:58:31.000] Пирес позволяет коммуницировать
+[00:58:31.000 - 00:58:33.000] информацию между двумя
+[00:58:33.000 - 00:58:35.000] приложениями через
+[00:58:35.000 - 00:58:37.000] интернет-адаптацию к протоколу
+[00:58:37.000 - 00:58:40.000] метода http как get, post,
+[00:58:40.000 - 00:58:51.820] pad delete para el interfaz intercambio de datos entre dos aplicaciones permite consultar intercambiar informaci en diferentes aplicaciones
+[00:58:54.800 - 00:58:57.440] claro
+[00:58:57.560 - 00:59:03.100] como se lo han dicho es para
+[00:59:04.800 - 00:59:08.860] para que permite la comunicación entre diferentes aplicaciones pero en sí no es
+[00:59:08.860 - 00:59:14.680] una interfaz es ahí si no es más que nada es un se puede decir es un conjunto de reglas
+[00:59:18.140 - 00:59:20.060] son para construir servicios web
+[00:59:21.800 - 00:59:25.120] y esos servicios son los que se permiten la comunicación entre
+[00:59:25.120 - 00:59:26.740] las diferentes aplicaciones del protocolo
+[00:59:26.740 - 00:59:41.340] y los métodos que ya utilizados el protocolo que se usa en el http y los métodos que ya
+[00:59:41.340 - 00:59:50.220] ustedes hemos estado mencionando más que nada para el tema de leer los datos el post para
+[00:59:50.220 - 01:00:00.000] crear para el tema de crey create crear el pad para para actualizar
+[01:00:00.000 - 01:00:03.600] y en él es para eliminarse
+[01:00:12.240 - 01:00:16.320] claro es lo que sí es más que nada es para él
+[01:00:16.320 - 01:00:19.880] el intercambio de información
+[01:00:20.520 - 01:00:25.720] que se pueda más que nada que se comuniquen entre dos
+[01:00:25.720 - 01:00:30.820] aplicaciones a través del protocolo http
+[01:00:31.160 - 01:00:35.380] ya está bien está bien que tema de autenticación a ver un modo saber los
+[01:00:35.380 - 01:00:41.380] conceptos que han puesto verificar la identidad antes de dar acceso valida que
+[01:00:41.380 - 01:00:47.000] el usuario o clave se correcta
+[01:00:47.800 - 01:00:51.580] proceso para identificar la identidad de quien hace la petición de un sistema
+[01:00:51.580 - 01:00:55.900] antes de darle acceso a los recursos garantiza que todos los usuarios
+[01:00:55.900 - 01:01:01.440] autorizados puedan consultar o modificar base de datos sensibles
+[01:01:01.440 - 01:01:07.180] proceso de verificar la identidad de un cliente o usuario antes de permitirle
+[01:01:07.180 - 01:01:24.840] acceder o manipular recursos sistema de seguridad que pide el servicio a la verificaci que realmente tienen permiso para pedir o modificar informaci verificaci de identidad en un usuario proceso que permite
+[01:01:24.840 - 01:01:32.040] verificar la identidad de un usuario aplicación para comprobar que realmente es quien dice ser
+[01:01:32.040 - 01:01:40.200] es un mecanismo que permite reconocer e identificar una identidad para conceder accesos.
+[01:01:41.060 - 01:01:47.040] La autentificación permite comprobar la identidad de un usuario antes de darle acceso a un sistema o aplicación.
+[01:01:48.560 - 01:01:52.080] Permite identificar quién está accediendo a una API y proteger la información.
+[01:01:52.080 - 01:02:02.460] mayormente el tema de autenticación es el tema que el sistema va a identificar la identidad
+[01:02:02.460 - 01:02:13.900] de un usuario antes de conceder los accesos no es el tema de autenticación
+[01:02:13.900 - 01:02:20.400] más que nada para dar el acceso a los a los employees
+[01:02:22.080 - 01:02:42.940] claro y en tema de los m en el tema de los apis van a seguro ya han escuchado o seguro ya han trabajado con la par de token jason web tokens jwt m consejos jwt
+[01:02:42.940 - 01:02:46.940] claro ahí el tema es
+[01:02:49.520 - 01:02:53.440] claro el cliente va a enviar en las cabeceras en los headers enviar las
+[01:02:53.440 - 01:02:56.620] peticiones los toques no
+[01:02:57.000 - 01:03:02.040] los api case también el wow
+[01:03:02.040 - 01:03:06.420] 2 es un estándar de autorización muy usado
+[01:03:06.420 - 01:03:08.760] si no no
+[01:03:09.500 - 01:03:14.160] mayormente para el tema de google o github
+[01:03:16.840 - 01:03:22.320] eso sí lo vamos a ir viendo el formato jason es un formato ligero para
+[01:03:22.320 - 01:03:24.000] intercambiar datos organizados
+[01:03:24.000 - 01:03:25.440] pares claves, valor,
+[01:03:26.440 - 01:03:28.640] formato de datos semiestructurados
+[01:03:28.640 - 01:03:30.480] para intercambiar datos entre sistemas.
+[01:03:34.460 - 01:03:36.480] Está diseñado para ser de fácil
+[01:03:36.480 - 01:03:38.560] entendimiento y es compatible con
+[01:03:38.560 - 01:03:50.160] casi cualquier lenguaje de programaci Nos van a representar datos utilizando pares de claves valor
+[01:03:50.160 - 01:03:57.020] para el intercambio de datos con estructura pares por utilizado para
+[01:03:57.020 - 01:04:02.260] intercambio de datos no es un formato ligero para intercambio
+[01:04:02.260 - 01:04:04.760] de datos no
+[01:04:04.760 - 01:04:09.280] de estructura tenemos objetos a raíz listas
+[01:04:09.280 - 01:04:13.300] pero ya vamos a ir viendo él
+[01:04:13.300 - 01:04:17.520] y el formato jason como
+[01:04:19.780 - 01:04:24.880] ya vamos continuando
+[01:04:28.980 - 01:04:32.680] en el tema de material
+[01:04:32.680 - 01:04:44.440] Seguro ya le van a estar habilitando el Blackboard o de repente alguno ya tiene acceso al Blackboard.
+[01:04:44.440 - 01:04:46.040] Igual tienen que revisar todo el material.
+[01:04:46.040 - 01:04:47.040] Gracias.
+[01:05:00.000 - 01:05:20.140] Un minuto.
+[01:05:20.140 - 01:05:20.200] Un minuto.
+[01:05:25.840 - 01:05:27.460] Un minuto que me están pidiendo.
+[01:05:27.460 - 01:05:29.460] ¿Listo?
+[01:05:29.460 - 01:05:30.020] ¿Listo?
+[01:05:57.460 - 01:05:58.460] Gracias.
+[01:06:10.000 - 01:06:11.000] Gracias.
+[01:06:40.000 - 01:06:41.000] Gracias.
+[01:07:10.000 - 01:07:16.760] ya hemos visto que las peticiones se hacen a través del protocolo http o https
+[01:07:16.760 - 01:07:20.400] vamos a tener el
+[01:07:22.240 - 01:07:39.360] el tema de la estructura la url la cabecera el header eso lo vamos a ir sirviendo en la parte en las partes pr no pierdes a ver
+[01:07:55.000 - 01:08:15.280] Ya.
+[01:08:15.280 - 01:08:15.320] Ya.
+[01:08:17.320 - 01:08:19.200] Los estados.
+[01:08:19.840 - 01:08:22.940] Los estados que manejan ese 200.
+[01:08:25.000 - 01:08:31.840] A ver si puedo, un momento.
+[01:08:40.000 - 01:09:02.860] podemos acá ver un poco gráficamente
+[01:09:02.860 - 01:09:07.420] acá en tema de
+[01:09:07.420 - 01:09:16.660] el método head y repuestas 200 no y le va a devolver un formato JSON
+[01:09:16.660 - 01:09:26.600] y el tema cuando hay errores claro le devuelve el código 400, 409 o 404 no
+[01:09:26.600 - 01:09:31.420] con ese error el servidor ya es 500, 599 no
+[01:09:31.420 - 01:09:48.100] los métodos es el tema de head puede ser un método post, pack o delete
+[01:09:48.100 - 01:09:49.100] podemos ir revisando
+[01:09:49.100 - 01:09:53.920] el recurso
+[01:10:00.000 - 01:10:05.000] Ya para el tema de...
+[01:10:09.000 - 01:10:11.780] De autenticaciones, ¿no?
+[01:10:30.000 - 01:10:52.100] Bueno, en el tema de la autentificación de token y OU.
+[01:11:00.000 - 01:11:03.120] A ver, vamos a ver si podemos tener un ejemplo gráfico.
+[01:11:10.000 - 01:11:39.980] Thank you.
+[01:11:40.000 - 01:11:56.500] The issue of the touch, we will continue to see in the practical part, the issue of authentication.
+[01:11:56.500 - 01:12:15.780] The issue of extraction, we will always do with the issue of
+[01:12:15.780 - 01:12:21.640] Fetch or Axios.
+[01:12:26.500 - 01:12:35.800] normalization And the issue of data storage is the most important normalizaci y el tema del almacenamiento de datos es el tema de parque
+[01:12:35.800 - 01:12:36.680] o otro
+[01:12:36.680 - 01:12:39.520] volumen de datos, ahí si ya
+[01:12:39.520 - 01:12:42.000] manejan el tema de Big Data, Data Lake
+[01:12:42.000 - 01:12:42.500] o
+[01:12:42.500 - 01:12:46.300] vamos a hacer texto plano
+[01:12:46.300 - 01:12:47.280] JSON o CSV
+[01:12:47.280 - 01:12:50.740] parque orientado a columnas
+[01:12:50.740 - 01:12:52.260] almacenando datos
+[01:12:52.260 - 01:12:53.320] agrupados por columnas
+[01:12:53.320 - 01:13:01.420] el parque y ladro orientado a filas pacheadro es lo que vamos a ir conociendo
+[01:13:16.920 - 01:13:17.480] todo
+[01:13:23.320 - 01:13:31.900] A ver, ya que hemos estado ya un poco
+[01:13:31.900 - 01:13:34.740] viendo unos nuevos conceptos
+[01:13:34.740 - 01:13:38.760] ¿Qué se entiende por API?
+[01:13:42.840 - 01:13:44.820] puede decir qu se entiende por API puede decir qu se entiende por APE
+[01:13:50.200 - 01:13:50.600] ¿Sí?
+[01:13:53.660 - 01:13:54.940] ¿Quién que se entiende por APE?
+[01:14:10.000 - 01:14:19.180] aplicar y yo por la interfaz no de programación de aplicaciones
+[01:14:19.180 - 01:14:24.760] claro es un conjunto de reglas no para qué
+[01:14:24.760 - 01:14:29.060] diferentes sistemas se puedan comunicar entre sí no
+[01:14:29.060 - 01:14:46.040] ¿Quién ha utilizado alguna API?
+[01:14:46.040 - 01:14:59.040] En su tema laboral alguien ha trabajado con APIs de servicio externo, mayormente en el sector público trabajan con APIs del sector público.
+[01:14:59.060 - 01:15:00.000] entonces
+[01:15:00.000 - 01:15:02.540] reñir
+[01:15:24.120 - 01:15:26.560] sí
+[01:15:26.560 - 01:15:32.540] Sí, seguro ya algunos han visto algunas APIs con autentificación.
+[01:15:35.520 - 01:15:37.980] ¿Qué formato de intercambio de datos conocen?
+[01:15:40.920 - 01:15:41.780] ¿Quién me puede decir?
+[01:15:47.920 - 01:15:49.640] ¿Quién me puede comentar eso?
+[01:15:49.640 - 01:16:17.600] No se preocupe
+[01:16:23.020 - 01:16:23.820] Sí.
+[01:16:25.520 - 01:16:26.880] ¿Qué formatos?
+[01:16:40.000 - 01:16:46.340] claro hay jason, 4xml, el yamel y el csv
+[01:16:46.340 - 01:16:50.320] con diferente jason y una tabla relacional
+[01:17:02.320 - 01:17:04.820] claro, el jason tiene
+[01:17:04.820 - 01:17:08.820] una estructura flexible y jerárquica
+[01:17:08.820 - 01:17:14.920] no me ente objeto no es para el tema de la comunicación entre clientes servidor
+[01:17:14.920 - 01:17:21.240] de los apis y una tabla o tener relacional
+[01:17:21.240 - 01:17:38.520] claramente es para la base de datos relacionales no ya ya voy a pasar ac
+[01:17:38.520 - 01:17:42.680] vamos a ir a
+[01:17:42.680 - 01:17:45.560] Carl Jason
+[01:17:45.560 - 01:17:48.740] ya
+[01:17:48.740 - 01:17:49.800] ya
+[01:17:55.000 - 01:17:56.000] Gracias.
+[01:18:25.000 - 01:18:37.000] pueden ir ingresando al cajón con una dinámica
+[01:18:37.000 - 01:19:03.920] dentro de eso a ver damos unos minutos supongo que ya nos van ingresando
+[01:19:03.920 - 01:19:33.900] ¡Gracias por ver el video!
+[01:19:33.920 - 01:20:00.000] ¡Suscríbete al canal!
+[01:20:00.000 - 01:20:10.240] Un minuto más y empezamos.
+[01:20:10.240 - 01:20:40.220] ¡Gracias por ver el video!
+[01:20:40.240 - 01:20:47.500] en la lista somos más de 20 acá somos solamente 8
+[01:20:50.160 - 01:20:54.800] también voy a estar viendo la participación de cada alumno que están participando
+[01:21:10.240 - 01:21:20.120] Un nombre normal Y un beso
+[01:21:20.120 - 01:21:22.120] ん
+[01:21:22.120 - 01:21:24.120] ん
+[01:21:24.120 - 01:21:26.120] ん
+[01:21:26.120 - 01:21:28.120] ん
+[01:21:28.120 - 01:21:30.120] ん
+[01:21:30.120 - 01:21:32.120] ん
+[01:21:40.000 - 01:22:09.980] それではまた。
+[01:22:10.000 - 01:22:54.980] Teksting av Nicolai Winther
+[01:22:55.000 - 01:23:24.980] Teksting av Nicolai Winther
+[01:23:25.000 - 01:24:03.320] Undertexter av Nicolai Winther vamos a empezar
+[01:24:03.320 - 01:24:19.000] atento por favor
+[01:24:19.000 - 01:24:24.200] que es una API REST
+[01:24:24.200 - 01:24:28.200] una base de datos relacional un protocolo de correo electrónico una interfaz que permite
+[01:24:28.200 - 01:24:37.940] la comunicación entre aplicaciones o un lenguaje de programación?
+[01:24:37.940 - 01:24:46.040] Es una interfaz que permite la comunicación entre aplicaciones para HTTP.
+[01:24:46.040 - 01:25:00.000] que método de hdp se utiliza comúnmente para obtener información en la app post, head,
+[01:25:00.000 - 01:25:08.820] si la mayoría ha respondido get
+[01:25:08.820 - 01:25:18.720] nilson luis y nayeli
+[01:25:18.720 - 01:25:26.840] cuál es el siguiente formato es el más utilizado para intercambiar datos en api res
+[01:25:26.840 - 01:25:39.680] xml, json, sdb o json
+[01:25:39.680 - 01:25:50.680] vamos a ver el podio
+[01:25:56.840 - 01:26:03.840] nelson, luis, nina y ali
+[01:26:03.840 - 01:26:04.840] 4
+[01:26:04.840 - 01:26:20.200] elementos utilizados normalmente pueden indicar solicitudes de medidas de tokens url query parameter header de utilizaci o cookie de la header
+[01:26:20.200 - 01:26:35.760] Luisaman, Nilson y Adair.
+[01:26:38.480 - 01:26:41.260] ¿Cuál es el principal propósito de OU 2.0?
+[01:26:41.260 - 01:26:49.500] comprimir datos JSON, crear base de datos, gestionar autorización segura entre aplicaciones,
+[01:26:49.500 - 01:26:55.900] convertir JSON a CSV, gestionar autorización segura entre aplicaciones.
+[01:26:59.860 - 01:27:02.300] Luis Samba, Nilsson y Alair.
+[01:27:06.020 - 01:27:07.700] Vamos para la pregunta 6.
+[01:27:07.700 - 01:27:10.640] ¿Qué función de pandas
+[01:27:10.640 - 01:27:12.680] Permite normalizar el truco de JSON anidadas?
+[01:27:14.180 - 01:27:14.780] JSON
+[01:27:14.780 - 01:27:16.700] Erse, JSON Normalize
+[01:27:16.700 - 01:27:17.300] O Concal
+[01:27:17.300 - 01:27:22.000] Es un tema técnico
+[01:27:22.000 - 01:27:37.760] Igual JSON Normalize Igual JSON Normalize Igual JSON Normalize Igual JSON Normalize jason normalize pues luis se mantiene ah al ir carol pregunta 7
+[01:27:37.760 - 01:27:42.300] el siguiente formato está utilizado para big data y análisis de alto rendimiento
+[01:27:42.300 - 01:27:47.500] xd jason xml
+[01:27:55.000 - 01:27:56.600] en la parque
+[01:27:56.600 - 01:28:02.540] Carol
+[01:28:02.540 - 01:28:06.300] Luis, Carol y Adair
+[01:28:06.300 - 01:28:11.020] ¿Qué ventaja tiene el formato parquet
+[01:28:11.020 - 01:28:11.800] frente a CSV?
+[01:28:13.460 - 01:28:14.860] ¿Cual es el tamaño del racionamiento?
+[01:28:14.980 - 01:28:17.000] ¿Compresión eficiente y lectura rápida
+[01:28:17.000 - 01:28:17.880] de columnas?
+[01:28:18.400 - 01:28:21.260] ¿Requiere menos herramientas o solo almacena texto?
+[01:28:23.340 - 01:28:24.220] Muy bien
+[01:28:24.220 - 01:28:28.540] compresión eficiente y lectura rápida de columna
+[01:28:29.500 - 01:28:34.620] Luis, ¿tama se mantiene? ¿dejaron de leer?
+[01:28:36.300 - 01:28:56.380] Sinapi alg c HTTP qu significa exitosa no encontrados autorizado de dedicaci o rol del servidor Claro la mayor ha puesto no autorizado o dedicaci inv
+[01:28:56.380 - 01:29:02.420] Rizama, Aldair y Jaron.
+[01:29:02.420 - 01:29:05.220] La pregunta 10.
+[01:29:05.220 - 01:29:08.360] ¿Cuál es el flujo correcto de una ingesta de datos desde un API?
+[01:29:10.760 - 01:29:14.660] Almacenar, consumir, analizar, consumir, extraer, normalizar, almacenar
+[01:29:14.660 - 01:29:19.440] O analizar, consumir, eliminar, normalizar, consumir y almacenar
+[01:29:19.440 - 01:29:25.940] La mayoría marcó el consumir, extraer, normalizar y almacenar
+[01:29:25.940 - 01:29:29.100] Vamos a ver el podio
+[01:29:29.100 - 01:29:45.500] Josué, Valdair, Luis ¿no?
+[01:29:45.500 - 01:29:47.680] Además también hicieron bien.
+[01:30:00.000 - 01:30:27.860] Vamos a hacer el tema de desarrollo.
+[01:30:27.860 - 01:30:30.900] damos unos 10 minutos
+[01:30:30.900 - 01:30:32.520] para tomar un
+[01:30:32.520 - 01:30:33.320] vaso de agua
+[01:30:33.320 - 01:30:35.460] y regresamos en
+[01:30:35.460 - 01:30:40.520] a las 8.45
+[01:30:40.520 - 01:30:41.280] regresamos
+[01:30:57.860 - 01:30:58.860] Gracias.
+[01:31:10.000 - 01:31:12.200] 10 minutos de descanto.
+[01:31:12.700 - 01:31:12.840] Ok.
+[01:31:14.140 - 01:31:15.000] Porque tome un vaso de agua.
+[01:31:40.000 - 01:31:41.000] Gracias.
+[01:32:10.000 - 01:32:11.000] Gracias.
+[01:32:25.000 - 01:32:25.620] you
+[01:32:55.000 - 01:32:55.620] you
+[01:33:25.000 - 01:33:25.620] you
+[01:33:40.000 - 01:33:40.620] you
+[01:34:10.000 - 01:34:10.620] you
+[01:34:40.000 - 01:34:40.620] you
+[01:35:00.000 - 01:35:00.620] you
+[01:35:30.000 - 01:35:30.620] you
+[01:36:00.000 - 01:36:00.620] you
+[01:36:10.000 - 01:36:10.620] you
+[01:36:40.000 - 01:36:40.620] you
+[01:37:10.000 - 01:37:10.620] you
+[01:37:25.000 - 01:37:25.620] you
+[01:37:55.000 - 01:37:55.620] you
+[01:38:25.000 - 01:38:25.620] you
+[01:38:40.000 - 01:38:40.620] you
+[01:39:10.000 - 01:39:10.620] you
+[01:39:40.000 - 01:39:40.620] you
+[01:40:00.000 - 01:40:00.620] you
+[01:40:30.000 - 01:40:30.620] you
+[01:41:00.000 - 01:41:00.620] you
+[01:41:10.000 - 01:41:10.620] you
+[01:41:40.000 - 01:41:40.620] you
+[01:42:10.000 - 01:42:10.620] you
+[01:42:25.000 - 01:42:25.620] you
+[01:42:55.000 - 01:42:55.620] you
+[01:43:25.000 - 01:43:25.620] you
+[01:43:40.000 - 01:43:41.000] Gracias.
+[01:44:10.000 - 01:44:21.500] Vamos a ir viendo.
+[01:44:21.500 - 01:44:21.580] Vamos a ir viendo.
+[01:44:23.580 - 01:44:24.300] Regresando.
+[01:44:40.000 - 01:44:41.000] Gracias.
+[01:45:00.000 - 01:45:00.620] you
+[01:45:30.000 - 01:45:59.980] Thank you.
+[01:46:00.000 - 01:46:12.060] Thank you you
+[01:46:40.000 - 01:47:09.980] Thank you.
+[01:47:10.000 - 01:47:48.000] Thank you Vamos a ir a
+[01:47:48.000 - 01:47:51.000] Vamos a revisar el código, a ver...
+[01:47:55.000 - 01:47:56.000] Gracias.
+[01:48:25.000 - 01:48:35.820] Vamos a ver Python.
+[01:48:46.500 - 01:48:50.580] Lo tengo ya instalado lo tienen que instalar en la extensi
+[01:49:10.000 - 01:49:38.080] Acá yo voy a crear una carpeta.
+[01:49:41.000 - 01:49:42.000] Acá me voy a crear una carpetita.
+[01:49:48.000 - 01:49:49.000] Un clase, bueno.
+[01:49:59.000 - 01:50:00.000] Voy a crear una carpetita.
+[01:50:00.000 - 01:50:02.000] carpeta
+[01:50:02.120 - 01:50:07.160] o también abrirlo por el visual estudio
+[01:50:07.160 - 01:50:12.320] no pueden abrir también hay diversas formas abrir las formas
+[01:50:12.320 - 01:50:15.240] la que he abierto
+[01:50:30.000 - 01:50:38.080] Bueno, a ver acá en la carpeta.
+[01:51:00.000 - 01:51:01.000] Gracias.
+[01:51:10.000 - 01:51:10.620] you
+[01:51:40.000 - 01:52:05.760] We're going to try here.
+[01:52:10.000 - 01:52:18.300] Yes, sir.
+[01:52:25.000 - 01:52:54.980] Thank you.
+[01:52:55.000 - 01:53:24.980] Thank you.
+[01:53:25.000 - 01:54:07.500] Yeah well that it I going to set that up on Python vamos a ver vamos a instalarlo en python
+[01:54:07.500 - 01:54:10.500] página oficial de python
+[01:54:26.560 - 01:54:29.180] e
+[01:54:29.180 - 01:54:39.620] me confirman todos tienen instalado python
+[01:54:39.620 - 01:54:50.020] si todos tienen y no tienen instalado python
+[01:54:50.020 - 01:54:53.260] ya
+[01:54:53.260 - 01:54:54.260] Gracias.
+[01:55:00.000 - 01:55:02.000] y
+[01:55:02.000 - 01:55:29.500] la que todavía tiene instalado python
+[01:55:29.500 - 01:55:30.540] con
+[01:55:30.540 - 01:55:32.540] No.
+[01:55:32.540 - 01:55:34.540] No.
+[01:56:00.540 - 01:56:01.540] Gracias.
+[01:56:10.000 - 01:56:19.780] como tiene instalado
+[01:56:19.780 - 01:56:22.180] todos tienen instalado python
+[01:56:22.180 - 01:56:23.800] solamente es una aclaración
+[01:56:23.800 - 01:56:24.180] cuando ya
+[01:56:24.180 - 01:56:27.320] ahora que se descargan el
+[01:56:27.320 - 01:56:28.360] instalador
+[01:56:28.360 - 01:56:31.680] solamente ya en la parte cuando están
+[01:56:31.680 - 01:56:32.320] instalando
+[01:56:32.320 - 01:56:33.980] ahí tienen que agregar
+[01:56:33.980 - 01:56:37.600] Python a patch
+[01:56:37.600 - 01:56:42.640] en esta parte creo que es
+[01:56:42.640 - 01:56:46.480] voy a ejecutar el ensalador
+[01:56:46.480 - 01:57:02.080] y ya está
+[01:57:07.600 - 01:57:22.500] ya
+[01:57:22.500 - 01:57:31.960] en la p oficial se pueden ir descargando pueden instalar en caso de los que no tienen
+[01:57:45.040 - 01:57:47.560] Vamos a ir viendo el tema de la actividad.
+[01:57:55.000 - 01:57:56.000] Gracias.
+[01:58:25.000 - 01:58:31.000] Ya, vamos a crear acá un...
+[01:58:40.000 - 01:59:03.960] Ahora va subiendo una API pública.
+[01:59:10.000 - 01:59:30.220] Ya tengo una API, vamos a ver.
+[01:59:40.000 - 01:59:41.000] Gracias.
+[02:00:00.000 - 02:00:00.620] you
+[02:00:30.000 - 02:00:59.980] Thank you.
+[02:01:00.000 - 02:01:20.060] tiene un tema de una pieza de armario noto
+[02:01:40.000 - 02:01:41.000] Gracias.
+[02:02:10.000 - 02:02:11.000] Gracias.
+[02:02:25.000 - 02:02:54.980] Thank you.
+[02:02:55.000 - 02:03:24.980] Yeah, let's see.
+[02:03:25.000 - 02:03:30.000] We have here an external service.
+[02:03:30.000 - 02:03:35.000] This is the Pokémon series.
+[02:03:35.000 - 02:03:38.000] We have put it here and here it does not return.
+[02:03:38.000 - 02:03:51.860] Here is a head method Here we are going to look for the detail of this character Pikachu objeto o ac vamos a buscar el detalle de este personaje no nos devuelve un
+[02:03:51.860 - 02:03:59.520] jason para formato jason acá hay varios formatos xl yamel yomal
+[02:04:01.660 - 02:04:04.580] xml
+[02:04:04.760 - 02:04:08.780] jason es en esa parte
+[02:04:08.780 - 02:04:10.780] no vuelve todo eso no
+[02:04:10.780 - 02:04:12.980] el nombre
+[02:04:12.980 - 02:04:16.740] ya vamos a ver
+[02:04:16.740 - 02:04:18.160] como consumimos el servicio
+[02:04:38.780 - 02:04:44.940] tenemos la url
+[02:04:44.940 - 02:04:48.520] y la pija
+[02:04:57.640 - 02:04:58.240] copiamos
+[02:04:58.240 - 02:04:58.500] el
+[02:04:58.500 - 02:04:59.740] url
+[02:04:59.740 - 02:05:00.000] y
+[02:05:00.000 - 02:05:29.980] Thank you.
+[02:05:30.000 - 02:05:32.000] request
+[02:05:34.320 - 02:05:36.320] We have an import
+[02:05:39.080 - 02:05:42.940] One library import request
+[02:05:50.000 - 02:05:52.000] and
+[02:05:52.000 - 02:05:54.000] RL
+[02:05:54.000 - 02:06:09.000] We are building the service of an API.
+[02:06:09.000 - 02:06:30.220] sheet is equal to 200 y respond es igual a 200 data de pokemon
+[02:06:30.220 - 02:06:36.380] response
+[02:06:36.380 - 02:06:38.000] y ahí se nos
+[02:06:38.000 - 02:06:56.880] si es 200 no va a traer lo que casi es 200 no está trayendo este este este jason
+[02:06:56.880 - 02:06:57.880] si no es
+[02:06:57.880 - 02:07:02.920] bien
+[02:07:08.000 - 02:07:09.000] Gracias.
+[02:07:25.000 - 02:07:25.620] you
+[02:07:55.000 - 02:08:24.980] Thank you.
+[02:08:25.000 - 02:08:40.000] There's an error.
+[02:08:40.000 - 02:08:50.240] I just put that respond
+[02:09:10.000 - 02:09:12.000] Я как-то не обошел.
+[02:09:12.000 - 02:09:13.760] Номер, ну.
+[02:09:40.000 - 02:10:00.000] Продолжение следует...
+[02:10:00.000 - 02:10:29.980] Thank you.
+[02:10:30.000 - 02:10:59.980] Here we put the name.
+[02:11:00.000 - 02:11:10.000] .
+[02:11:10.000 - 02:11:20.000] ah sale no
+[02:11:20.000 - 02:11:28.000] vamos a sacar también el peso no?
+[02:11:28.000 - 02:11:40.000] ahora podemos sacar con el peso como es acá es way
+[02:11:40.000 - 02:11:42.180] peso way
+[02:11:42.180 - 02:11:50.900] esto para los acabo
+[02:11:58.000 - 02:12:22.000] Ahora vamos a ver.
+[02:12:28.000 - 02:12:34.600] ya no trae el peso tambi no
+[02:12:36.280 - 02:12:37.760] o sea, si se está conectando
+[02:12:37.760 - 02:12:39.660] ya, esta es nuestra URL API
+[02:12:39.660 - 02:12:45.920] acá hace el import request
+[02:12:45.920 - 02:12:47.880] la URL API
+[02:12:47.880 - 02:12:50.300] respond request, obtengo la URL
+[02:12:50.300 - 02:12:52.460] y si me trae
+[02:12:52.460 - 02:12:53.000] 200
+[02:12:53.000 - 02:13:01.840] capturó el formato JSON, dataPokémon, y acá pongo el nombre de la variable,
+[02:13:01.840 - 02:13:14.840] de la variable, de los elementos, dicho, el JSON, name, y el peso,
+[02:13:14.840 - 02:13:28.480] y así podemos obtener el nombre, el peso, las habilidades en sí
+[02:13:28.480 - 02:13:36.180] a ver qué pasa si lo pongo acá
+[02:13:36.180 - 02:13:38.780] Pokémon, Pokémon
+[02:13:38.780 - 02:13:52.000] qu pasar a ver ah error al consumir un error 400
+[02:13:52.000 - 02:14:03.000] ¿todos llegaron ahí?
+[02:14:10.000 - 02:14:16.060] me confirman si todos llegaron ahí, si todos están consumiendo el servicio
+[02:14:19.760 - 02:14:23.280] es un servicio externo no?
+[02:14:23.280 - 02:14:28.600] si? alguien tiene algún problema o dificultad?
+[02:14:29.360 - 02:14:32.900] en el entorno de python
+[02:14:32.900 - 02:14:41.460] seguro ya lo tienen configurado también el postman el postman deberían también tener
+[02:14:41.460 - 02:14:46.620] configurado para que puedan allí se dan cuenta del postman es una herramienta muy útil para
+[02:14:46.620 - 02:14:53.680] el tema de los servicios el tema de los apps acá te da los métodos puedes sacar el url
+[02:14:53.680 - 02:14:58.600] y te da el jason
+[02:15:00.000 - 02:15:05.360] si todos no hay ningún inconveniente
+[02:15:05.360 - 02:15:10.320] me confirma por favor
+[02:15:10.320 - 02:15:21.820] ok, ok
+[02:15:21.820 - 02:15:25.380] yo he tenido un problema
+[02:15:25.380 - 02:15:26.300] en el momento de
+[02:15:26.300 - 02:15:27.780] correr
+[02:15:27.780 - 02:15:35.380] que no encuentra el módulo request
+[02:15:35.380 - 02:15:38.980] pero lo he importado como ha puesto en la pantalla
+[02:15:38.980 - 02:15:47.660] ¿Tienes instalado la versión de Python?
+[02:15:48.340 - 02:15:48.960] ¿Has comprobado?
+[02:15:51.420 - 02:15:57.100] Sí, tengo la 3.12 si no me equivoco
+[02:15:57.780 - 02:16:21.400] tengo la 3 ya voy a compartir mi c en el chat
+[02:16:21.400 - 02:16:24.080] corre mi código, corre el código que te voy a compartir
+[02:16:24.080 - 02:16:25.120] y si
+[02:16:25.120 - 02:16:27.980] corre bien o si sale
+[02:16:27.980 - 02:16:30.240] el mismo error del request para revisarlo
+[02:16:30.240 - 02:16:32.340] ahí te pasé el código
+[02:16:32.340 - 02:16:33.100] en el chat
+[02:16:33.100 - 02:16:35.880] corre tal cual y si sale bien
+[02:16:35.880 - 02:16:37.660] de repente por ahí un tema de
+[02:16:37.660 - 02:16:39.840] una sintaxis de repente
+[02:16:39.840 - 02:16:43.140] de algún carácter.
+[02:16:59.640 - 02:17:01.420] ¿Sigue saliendo el tema del recuerdo?
+[02:17:03.420 - 02:17:04.700] Se está ordenando,
+[02:17:04.820 - 02:17:06.600] solo que el código se me ha copiado
+[02:17:06.600 - 02:17:07.340] en una sola línea.
+[02:17:07.340 - 02:17:10.240] bueno, pues si eso es lo que vi en el chat
+[02:17:10.240 - 02:17:11.800] creo que sacó yo como
+[02:17:11.800 - 02:17:12.540] como texto
+[02:17:25.000 - 02:17:37.640] y me sigue
+[02:17:37.640 - 02:17:41.180] me sigue saliendo el mismo mensaje
+[02:17:41.180 - 02:17:42.960] a ver, ese mensaje
+[02:17:42.960 - 02:17:43.740] mandame por chat
+[02:17:43.740 - 02:17:46.500] un pantallazo
+[02:17:46.500 - 02:17:48.880] un pantallazo o mandame por chat
+[02:17:48.880 - 02:17:51.760] un mensaje
+[02:17:55.000 - 02:17:56.000] Gracias.
+[02:18:25.000 - 02:18:26.000] Gracias.
+[02:18:40.000 - 02:18:58.000] ahora toque instalar entonces si tienes que hacer esta parte control control leñe ahora
+[02:18:58.000 - 02:19:00.540] terminal
+[02:19:01.280 - 02:19:08.820] en esta la propia pit install recuerdo
+[02:19:17.720 - 02:19:22.940] tiene que estar en sí
+[02:19:22.940 - 02:19:28.220] falta grau y se está diciendo release 24 a la versión
+[02:19:28.220 - 02:19:30.940] en 16 3
+[02:19:31.820 - 02:19:39.560] ahora si funciona y se las del pit así si en mi caso está instalado seguro ya
+[02:19:39.560 - 02:19:44.120] como el estado interactuando
+[02:19:44.120 - 02:19:50.480] porque ya tiene que seguir con el tipo que ha querido consulta que tengan
+[02:19:50.480 - 02:20:00.000] la idea es que avancemos todo y todos podemos como dice apoyaron no
+[02:20:00.000 - 02:20:07.340] bien si si si otro alumno de mi igual le pasa y ya sabe cuál es él
+[02:20:07.340 - 02:20:12.320] como dice la solución avanzamos
+[02:20:30.000 - 02:20:35.960] ya hemos consumido un API externo, un API pública
+[02:20:35.960 - 02:20:42.100] hemos agarrado este API de esta serie de Pokémon
+[02:20:42.100 - 02:20:47.980] ya, ya tenemos ya el consumo del API
+[02:20:47.980 - 02:20:49.340] ahora vamos a ir a
+[02:20:49.340 - 02:20:51.080] habíamos
+[02:20:51.080 - 02:20:55.400] nuestra parte
+[02:21:00.000 - 02:21:00.600] No.
+[02:21:10.000 - 02:21:10.620] you
+[02:21:40.000 - 02:22:09.980] Thank you.
+[02:22:10.000 - 02:22:54.980] Let see part two Thank you
+[02:22:55.000 - 02:22:55.620] you
+[02:23:25.000 - 02:23:38.340] I'm going to try another part.
+[02:23:40.000 - 02:24:09.980] Thank you.
+[02:24:10.000 - 02:24:39.980] Thank you.
+[02:24:40.000 - 02:25:00.000] Thank you.
+[02:25:00.000 - 02:25:02.000] you
+[02:25:30.000 - 02:25:32.060] you
+[02:26:00.000 - 02:26:02.000] I don't know.
+[02:26:10.000 - 02:26:10.620] you
+[02:26:40.000 - 02:27:07.600] We're going to put in a token.
+[02:27:07.600 - 02:27:27.060] Thank you you
+[02:27:55.000 - 02:27:55.620] you
+[02:28:25.000 - 02:29:05.260] Thank you Voy a caer el token
+[02:29:05.260 - 02:29:06.260] No.
+[02:29:35.260 - 02:29:36.260] Gracias.
+[02:30:00.000 - 02:30:29.980] Thank you.
+[02:30:30.000 - 02:30:59.980] Thank you.
+[02:31:00.000 - 02:31:12.060] Thank you you
+[02:31:40.000 - 02:32:09.980] Thank you.
+[02:32:10.000 - 02:32:12.060] you
+[02:32:23.060 - 02:32:27.060] you you you
+[02:32:55.000 - 02:33:24.980] Thank you.
+[02:33:25.000 - 02:34:06.180] Thank you y aqu vemos en tema de una pieza no devuelve un toque pero ac en el tema de su detalle de su
+[02:34:06.180 - 02:34:08.720] usuario
+[02:34:08.720 - 02:34:16.780] cuando tenemos un líder
+[02:34:16.780 - 02:34:21.400] no puede traer
+[02:34:21.400 - 02:34:28.820] porque no está funcionando el virus
+[02:34:28.820 - 02:34:46.200] es que a veces
+[02:34:46.200 - 02:34:49.660] no va a pedir el XAPK
+[02:34:49.660 - 02:34:51.220] o si no le pide un BIRS
+[02:34:51.220 - 02:34:51.740] tradicional
+[02:34:58.820 - 02:34:59.820] Gracias.
+[02:35:00.000 - 02:35:04.880] y siempre el tema de autenticaciones no vamos a ver en python
+[02:35:04.880 - 02:35:14.040] esto para más que nada es la parte de
+[02:35:14.040 - 02:35:20.720] que ustedes vean que acá
+[02:35:20.720 - 02:35:31.040] le pasamos en el body pasamos dos parámetros mi password las que ingresan a la tiene un toque
+[02:35:32.420 - 02:35:35.760] pero acá esa parte no está usando el ver toque de
+[02:35:35.760 - 02:35:40.400] tradicional de usando en la cabecera como es así nos trae 200 no
+[02:35:50.720 - 02:35:51.720] Gracias.
+[02:36:10.000 - 02:36:10.620] you
+[02:36:40.000 - 02:37:09.980] Thank you.
+[02:37:10.000 - 02:37:12.060] you
+[02:37:13.380 - 02:37:15.440] you
+[02:37:24.600 - 02:37:29.000] you you
+[02:37:55.000 - 02:37:56.000] Gracias.
+[02:38:25.000 - 02:38:26.000] Gracias.
+[02:38:40.000 - 02:38:40.620] you
+[02:39:10.000 - 02:39:12.060] you
+[02:39:13.220 - 02:39:15.320] you
+[02:39:19.900 - 02:39:21.960] you
+[02:39:23.820 - 02:39:25.880] you
+[02:39:28.220 - 02:39:30.280] you
+[02:39:34.480 - 02:39:36.540] you
+[02:39:40.000 - 02:40:00.000] Thank you.
+[02:40:00.000 - 02:40:29.980] Thank you.
+[02:40:30.000 - 02:40:59.980] Thank you.
+[02:41:00.000 - 02:41:36.440] Thank you Est probando algunos servicios
+[02:41:36.440 - 02:41:37.540] el tema del
+[02:41:37.540 - 02:41:38.920] del VIR
+[02:41:38.920 - 02:41:40.020] no lo
+[02:41:40.020 - 02:41:45.180] no lo está
+[02:41:45.180 - 02:41:53.080] no lo está
+[02:42:06.440 - 02:42:07.440] Gracias.
+[02:42:25.000 - 02:42:54.980] Thank you.
+[02:42:55.000 - 02:42:58.000] or
+[02:43:05.160 - 02:43:09.680] I would not be missing the issue of the authentication that
+[02:43:09.680 - 02:43:14.280] approving with a service
+[02:43:17.320 - 02:43:22.500] but it is not coming from a part
+[02:43:25.000 - 02:43:40.620] Thank you you
+[02:44:10.000 - 02:44:10.620] you
+[02:44:40.000 - 02:44:43.720] Yeah, no, I think I can.
+[02:44:43.720 - 02:44:46.000] This is a really sister.
+[02:44:46.000 - 02:44:47.000] No, no, I don't know.
+[02:44:47.000 - 02:44:49.000] When I was, I was in the mail passport.
+[02:44:49.000 - 02:44:51.000] It's already done talking, but I'll call you.
+[02:44:51.000 - 02:44:52.000] I'll talk to you.
+[02:44:52.000 - 02:44:53.000] No, no, I'm not.
+[02:44:53.000 - 02:44:54.000] I'm not.
+[02:44:54.000 - 02:44:55.000] Yeah.
+[02:44:55.000 - 02:44:56.000] Yeah.
+[02:44:56.000 - 02:44:57.000] Okay.
+[02:44:57.000 - 02:44:58.000] Yeah.
+[02:44:58.000 - 02:44:59.000] Yeah.
+[02:44:59.000 - 02:45:00.000] Yeah.
+[02:45:00.000 - 02:45:07.880] eso quedaría pendiente para la próxima clase tenemos viendo la parte de
+[02:45:08.000 - 02:45:13.620] la autenticación y normalización en jason y la parte de almacenamiento
+[02:45:13.620 - 02:45:17.240] vamos a estar ahí revisando
+[02:45:20.180 - 02:45:26.900] como visto que el tema de trabajar con la propuesta jason anidadas tenemos que
+[02:45:26.900 - 02:45:34.520] ver realmente el formato con la herramienta de postman
+[02:45:34.520 - 02:45:42.620] en los formatos que que uno va viendo se pueden entender
+[02:45:42.840 - 02:45:48.100] porque para que por qué tu vida vamos a realizar este tema de parquet
+[02:45:48.100 - 02:45:53.400] trabaja aportado frente del mecanismo de autenticación y aplicamos el proceso
+[02:45:53.400 - 02:46:01.900] torneos data en general o sirviendo y el tema de bailar no
+[02:46:03.640 - 02:46:09.440] la parís cerrando la clase sesión de hoy no se siente alguna consulta duda
+[02:46:09.440 - 02:46:12.400] la conclusión sería que la que representa una de las principales fuentes
+[02:46:12.400 - 02:46:15.760] de datos en los ecosistemas modernos la capacidad de edificar se trae
+[02:46:15.760 - 02:46:21.240] transformada y armacional información eficiente formato como parte de la
+[02:46:21.240 - 02:46:27.020] habilidad fundamental para cualquier ingeniero de datos y especialistas
+[02:46:29.000 - 02:46:32.860] no sé si tienen una consulta duda
+[02:46:39.340 - 02:46:46.140] si vamos a ir retomando el tema él en la próxima semana retomamos la parte
+[02:46:46.140 - 02:46:48.620] práctica
+
+SHA-256 del audio: aea045915d3113ae6181656d9e9f09d58409790ce917ec643c132e543927bf6e

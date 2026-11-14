@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+
+# Grabaciones de audio y video
+*.[mM]4[aAvV]
+*.[mM][pP][34]
+*.[wW][aA][vV]
+*.[wW][eE][bB][mM]
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.[aA][vV][iI]
+*.[aA][aA][cC]
+*.[fF][lL][aA][cC]
+*.[oO][gG][gG]
+*.[oO][pP][uU][sS]
+*.[wW][mM][avAV]
+*.[mM][pP][eE][gG]
+*.[mM][pP][gG]
+*.[3][gG][pP]
