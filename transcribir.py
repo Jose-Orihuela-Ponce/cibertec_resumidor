@@ -23,6 +23,16 @@ SAMPLE_RATE = 16_000
 CHUNK_FRAMES = SAMPLE_RATE * 300
 MIN_FRAMES = SAMPLE_RATE // 100
 AUDIO_DIGEST_LABEL = "SHA-256 del audio: "
+PROJECT_ROOT = Path(__file__).resolve().parent
+INBOX = PROJECT_ROOT / "audios"
+COURSES = (
+    "Gestión de procesos de negocio",
+    "Lenguaje de ciencia de datos 2",
+    "Gestión de servicios de TI",
+)
+MEDIA_EXTENSIONS = frozenset(
+    ".m4a .m4v .mp3 .mp4 .wav .webm .mov .mkv .avi .aac .flac .ogg .wma .wmv .mpeg .mpg .3gp".split()
+)
 
 
 def api_key():
@@ -70,6 +80,13 @@ def lock_recording(state):
 
 
 def save(path, content):
+    if os.name == "nt":
+        # The temporary filename can push a course checkpoint past MAX_PATH.
+        absolute = str(path.resolve())
+        if absolute.startswith("\\\\"):
+            path = Path("\\\\?\\UNC\\" + absolute[2:])
+        else:
+            path = Path("\\\\?\\" + absolute)
     temp = path.with_name(f".{path.name}.{uuid4().hex}.tmp")
     try:
         temp.write_text(content, encoding="utf-8", newline="\n")
@@ -156,7 +173,7 @@ def timed_segments(part):
 
 def completed_transcript(audio, digest):
     marker = (AUDIO_DIGEST_LABEL + digest).encode("ascii")
-    folders = dict.fromkeys((audio.parent, Path(__file__).resolve().parent / "audios"))
+    folders = dict.fromkeys((audio.parent, INBOX, *(PROJECT_ROOT / course for course in COURSES)))
     for folder in folders:
         for transcript in folder.glob("*.txt"):
             try:
@@ -170,6 +187,25 @@ def completed_transcript(audio, digest):
     return None
 
 
+def check_media_tools():
+    for tool in ("ffmpeg", "ffprobe"):
+        if not shutil.which(tool):
+            raise ValueError(f"Agrega {tool} al PATH.")
+
+
+def audio_from_inbox():
+    candidates = sorted(
+        path for path in INBOX.iterdir()
+        if path.is_file() and path.suffix.lower() in MEDIA_EXTENSIONS
+    ) if INBOX.is_dir() else []
+    if not candidates:
+        raise ValueError("Coloca una grabación en audios o indica su ruta.")
+    if len(candidates) > 1:
+        names = "\n".join(f"  {path.name}" for path in candidates)
+        raise ValueError(f"Hay varias grabaciones en audios. Indica la ruta de la que quieres transcribir.\n{names}")
+    return candidates[0]
+
+
 def transcribe(audio, language, preview_only):
     original_stat = audio.stat()
     with audio.open("rb") as original:
@@ -179,9 +215,7 @@ def transcribe(audio, language, preview_only):
         print(f"Esta grabación ya se transcribió. Usa el TXT existente: {existing}")
         return
 
-    for tool in ("ffmpeg", "ffprobe"):
-        if not shutil.which(tool):
-            raise ValueError(f"Agrega {tool} al PATH.")
+    check_media_tools()
     if not run_media_tool("ffprobe", "-v", "error", "-select_streams", "a:0", "-show_entries",
                           "stream=index", "-of", "csv=p=0", str(audio)).strip():
         raise ValueError("El archivo no contiene una pista de audio.")
@@ -275,14 +309,20 @@ def process_parts(audio, wav, total_frames, total_parts, checkpoints, chunk, dig
 
 def main():
     parser = argparse.ArgumentParser(description="Transcribe una grabación local con Groq.")
-    parser.add_argument("audio", type=Path, help="Ruta del archivo de audio")
+    parser.add_argument("audio", nargs="?", type=Path, help="Ruta de la grabación. Si se omite, busca un único archivo en audios.")
+    parser.add_argument("--verificar", action="store_true", help="Comprueba FFmpeg, ffprobe y la presencia de la clave sin enviar audio.")
     parser.add_argument("--idioma", help="Código ISO de dos letras, por ejemplo es. Se detecta si se omite.")
     parser.add_argument("--primer-fragmento", action="store_true", help="Procesa solo el primer fragmento para revisión")
     args = parser.parse_args()
     if args.idioma and not re.fullmatch(r"[a-z]{2}", args.idioma):
         parser.error("--idioma debe tener dos letras minúsculas, por ejemplo es.")
     try:
-        audio = args.audio.expanduser().resolve(strict=True)
+        if args.verificar:
+            check_media_tools()
+            api_key()
+            print("FFmpeg, ffprobe y GROQ_API_KEY están configurados.")
+            return 0
+        audio = (args.audio or audio_from_inbox()).expanduser().resolve(strict=True)
         if not audio.is_file():
             raise ValueError("La ruta debe apuntar a un archivo de audio.")
         transcribe(audio, args.idioma, args.primer_fragmento)

@@ -1,0 +1,1859 @@
+Class recordings (1).mp3
+Duración: 02:39:03.509
+Fragmentos: 32
+
+[00:00:00.000 - 00:00:07.120] ustedes no me di cuenta de que carreras son
+[00:00:07.120 - 00:00:09.300] acá lo veo rápido
+[00:00:09.300 - 00:00:15.580] computación informática
+[00:00:15.580 - 00:00:17.100] acá estamos
+[00:00:17.100 - 00:00:18.280] acá hay una
+[00:00:18.280 - 00:00:21.600] tenemos computación informática
+[00:00:21.600 - 00:00:24.740] tenemos administración de redes
+[00:00:24.740 - 00:00:27.340] ingeniería de sistemas
+[00:00:27.340 - 00:00:31.480] Ingeniería de Ciencia de Datos
+[00:00:31.480 - 00:00:34.180] Ingeniería de Ciberseguridad
+[00:00:34.180 - 00:00:37.560] Arquitectura de Datos Empresariales
+[00:00:40.560 - 00:00:43.520] Sí, estamos mezclados, ¿no?
+[00:00:43.520 - 00:00:44.760] De varias carreras
+[00:00:44.760 - 00:00:48.120] Netamente estamos mezclados de varias carreras
+[00:00:48.120 - 00:00:49.800] Porque este curso
+[00:00:49.800 - 00:00:52.260] Igual que el que sigue este curso
+[00:00:52.260 - 00:00:54.760] Este es un curso que es
+[00:00:54.760 - 00:01:01.900] digamos un previo a la gestión de proyectos, a la gestión de proyectos tecnológicos.
+[00:01:03.060 - 00:01:05.720] ¿Alguno de ustedes ya les enseñaba algún curso anterior?
+[00:01:07.220 - 00:01:24.620] A ver voy a ver ac rapidito la lista de ustedes ya nombres que si me suenan
+[00:01:24.620 - 00:01:24.720] bueno
+[00:01:24.720 - 00:01:26.900] bueno
+[00:01:40.000 - 00:02:09.980] ¿Qué es lo que se llama?
+[00:02:10.000 - 00:02:12.200] grande, pero solamente estamos activos, hay
+[00:02:12.200 - 00:02:13.200] 18 nomás.
+[00:02:21.320 - 00:02:24.440] No, de la lista, hay 18 en lista y hay
+[00:02:24.440 - 00:02:36.780] 35 inactivos De los 35 inactivos hay gente creo que s creo conocerlos
+[00:02:36.780 - 00:02:39.100] que les ha llevado
+[00:02:39.100 - 00:02:40.140] algún curso conmigo
+[00:02:40.140 - 00:02:46.640] bien, igual, como les repito
+[00:02:46.640 - 00:02:48.660] la primera clase siempre
+[00:02:48.660 - 00:02:50.280] iniciamos con una introducción
+[00:02:50.280 - 00:02:52.820] hablar del tema, por ejemplo
+[00:02:52.820 - 00:02:54.900] ustedes han escuchado hablar de
+[00:02:54.900 - 00:02:55.300] ITIL
+[00:02:55.300 - 00:02:58.960] que es ITIL, la han escuchado
+[00:02:58.960 - 00:03:00.640] por ahí de repente, algunos de los que
+[00:03:00.640 - 00:03:01.900] como somos de tecnología
+[00:03:01.900 - 00:03:04.260] son cursos, este curso es
+[00:03:04.260 - 00:03:06.440] netamente para toda la carrera de tecnología
+[00:03:06.440 - 00:03:07.100] entonces
+[00:03:07.100 - 00:03:10.280] por ahí han escuchado
+[00:03:10.280 - 00:03:12.100] de repente alguien en el trabajo
+[00:03:12.100 - 00:03:13.880] están aplicando estos
+[00:03:13.880 - 00:03:16.220] este tipo de metodologías
+[00:03:16.220 - 00:03:17.520] ITIL
+[00:03:17.520 - 00:03:20.180] ...
+[00:03:24.900 - 00:03:31.040] No la había escuchado, muy bien
+[00:03:31.040 - 00:03:36.300] Se han escuchado
+[00:03:36.300 - 00:03:39.500] Ya
+[00:03:39.500 - 00:03:50.780] Claro no todos estamos en el mismo En el trabajo que se dediquen a hacer soporte t Heldep Servicedec alguien
+[00:03:50.780 - 00:03:55.180] los Heldeps incluso pueden ser de manera
+[00:03:55.180 - 00:03:56.900] online
+[00:03:56.900 - 00:04:00.760] José Francisco, hermosa
+[00:04:00.760 - 00:04:01.560] José Francisco
+[00:04:01.560 - 00:04:05.260] te dedicas al rubro de Heldeps
+[00:04:05.260 - 00:04:05.860] o Servicedec
+[00:04:05.860 - 00:04:09.820] o solo has escuchado el
+[00:04:10.000 - 00:04:19.920] El término ITIL. Soporte técnico. Muy bien. Pero ¿qué nivel? ¿Uno o dos?
+[00:04:19.920 - 00:04:35.140] muy bien
+[00:04:35.140 - 00:04:37.100] nivel 1 mayormente atiende
+[00:04:37.100 - 00:04:38.780] directamente a los usuarios
+[00:04:38.780 - 00:04:40.460] temas de no
+[00:04:40.460 - 00:04:43.900] prende temas de configuraciones
+[00:04:43.900 - 00:04:47.400] nivel 2 ya es otro nivel un poco más
+[00:04:47.400 - 00:04:48.020] avanzado
+[00:04:48.020 - 00:04:59.120] y en tu trabajo o donde trabajas
+[00:05:00.000 - 00:05:03.580] aplican metodologías como ITIL, COVID,
+[00:05:30.000 - 00:05:43.780] Claro, la gestión de incidentes, maneja lo que son tickets, ¿no? De atención, los tickets de atención.
+[00:05:43.780 - 00:06:19.700] Muy bien para seguir hablando sobre y vamos viendo algo a ver de repente por ah nos ayuda
+[00:06:40.000 - 00:06:57.780] Bienvenidos a IDGTV y Computer World University.
+[00:06:58.120 - 00:07:02.180] Hoy estoy de celebración porque tengo conmigo a Javier Pérez,
+[00:07:02.720 - 00:07:05.800] buen amigo, profesional, famoso además.
+[00:07:06.520 - 00:07:07.660] Ahora hablaremos de ello.
+[00:07:07.780 - 00:07:10.780] Y bueno, un experto y apasionado, voy a decir también,
+[00:07:10.960 - 00:07:15.440] en la gestión del servicio, del gobierno, de las tecnologías de la información.
+[00:07:15.840 - 00:07:19.500] La verdad que necesitaría todo el tiempo de esta entrevista para hacer su presentación.
+[00:07:19.960 - 00:07:23.820] Pero hoy en particular queremos también hablar del premio Harold Weiss,
+[00:07:24.060 - 00:07:36.200] que recibi perm que lo muestre a la audiencia otorgado por ISACA y adem es un premio un reconocimiento internacional Javier muchas gracias por acompa
+[00:07:36.360 - 00:07:41.760] Muchas gracias a ti y a IDG Televisión por dejarme venir y hablar de mi pasión.
+[00:07:42.240 - 00:07:43.880] Sí, sí, estamos encantados.
+[00:07:44.220 - 00:07:50.900] La verdad que, si te parece, primero cuéntanos del premio Harold Weiss, que la verdad es el primer español que recibe este premio.
+[00:07:50.900 - 00:08:10.460] Sí, ha sido un premio que me llena de satisfacción, el premio que me ha otorgado Isaac, Isaac Internacional, que como bien dices es el Harold Weiss, es para de alguna forma reconocer el trabajo, la trayectoria en gobierno de tecnologías de la información y es un premio que nunca en sus 30 años de historia había recibido ningún español.
+[00:08:10.460 - 00:08:13.360] además es un premio que no se otorga anualmente
+[00:08:13.360 - 00:08:15.280] porque solo se otorga cuando se evidencian
+[00:08:15.280 - 00:08:17.180] logros por encima de la norma, la verdad es que
+[00:08:17.180 - 00:08:19.060] me lo comunicaron en abril, lo he tenido que
+[00:08:19.060 - 00:08:21.380] aguantar prácticamente en secreto hasta junio que me lo dieron
+[00:08:21.380 - 00:08:22.880] que ha sido lo más duro también
+[00:08:22.880 - 00:08:25.280] y vamos, es un premio que
+[00:08:25.280 - 00:08:27.260] realmente me llena de dicha porque
+[00:08:27.260 - 00:08:29.280] como digo, es un premio a una
+[00:08:29.280 - 00:08:31.280] trayectoria, a un trabajo en un área
+[00:08:31.280 - 00:08:33.020] que sabes bien que me apasiona
+[00:08:33.020 - 00:08:34.240] y que desde luego, pues bueno
+[00:08:34.240 - 00:08:37.280] el traerlo para España y ser el
+[00:08:37.280 - 00:08:39.460] primer español también me llena pues sin duda
+[00:08:39.460 - 00:08:50.520] de satisfacci S s pues much enhorabuenas La verdad que estamos todos igualmente contentos por este premio Vamos a ayudarle a la audiencia a reconocer algunas definiciones si te parece
+[00:08:50.540 - 00:08:50.880] Muy bien.
+[00:08:51.120 - 00:08:58.520] Empecemos con esa de gobierno de TI, que es en la que te han reconocido y que hoy, este año, eres el hombre del momento a nivel mundial.
+[00:08:59.720 - 00:09:09.720] Bien, para entender gobierno de TI hay que entender un modelo de madurez basado en los sistemas de información, que si bien durante muchísimo tiempo han sido gestionados adecuadamente,
+[00:09:10.000 - 00:09:24.800] Llega el momento, por su impacto en cada uno de los negocios, desde luego no podemos imaginar una administración pública o una empresa sin tecnologías de la información, pues bueno, llegado a este punto de penetración de las tecnologías en las empresas y las organizaciones,
+[00:09:24.800 - 00:09:33.280] gobierno es un modelo de madurez que viene a dejar o incorporar en el consejo de administración a la parte de tecnología
+[00:09:33.280 - 00:09:41.520] para que las decisiones estratégicas del conjunto de la organización vayan de alguna forma apoyadas por esta tecnología
+[00:09:41.520 - 00:09:45.680] yo siempre pongo el mismo ejemplo entendiendo al negocio como un paciente
+[00:09:45.680 - 00:09:51.520] siempre digo que gestionar las tecnologías de informaciones recetar lo que nos pide el paciente
+[00:09:51.520 - 00:09:54.060] porque muchas veces desde los departamentos de tecnologías
+[00:09:54.060 - 00:09:56.400] de la información hemos tenido que gestionar
+[00:09:56.400 - 00:09:58.020] adecuadamente unas infraestructuras
+[00:09:58.020 - 00:10:00.000] unos aplicativos que nos han venido
+[00:10:00.000 - 00:10:03.180] ...que nos han venido dados desde el Consejo de Administración o que nos han venido impuestos.
+[00:10:03.620 - 00:10:26.600] Gobierno es más allá, gobierno sí que es recetar lo que necesita el paciente, o sea, influir, intervenir, participar de las decisiones estratégicas en cuanto a la tecnología que permiten en definitiva a una empresa ser gobernada pensando en la tecnología y cómo la tecnología va a ayudarle al desarrollo de su actividad profesional, comercial o de cara a la ciudadanía.
+[00:10:26.600 - 00:10:47.680] Bueno, yo creo que está muy bien explicado y además en términos de negocio. Además tú eres asesor, coach de la Unión Europea también y asesoras y ayudas a empresas medianas, pequeñas, algunas de ellas además han ganado premios muy laureadas. Esto, o sea, que es una realidad, o sea, se puede aplicar y no es tan difícil de aplicar.
+[00:10:47.680 - 00:11:25.060] Por supuesto que no ya digo que es un punto de vista estrat y el gobierno de tecnolog de la informaci muchas veces viene en el ADN de empresas tecnol incluso de emprendedores me atrever a decir que s que quieren que forme parte del decisorio de ese consejo de administraci en el caso de un emprendedor queda muy alto decir pero s del de decisi de las compa ese punto de vista tecnol responsable que no sea en la adopci temprana de tecnolog o a lo loco sino que est basada tambi en riesgos que est basada en seguridad y que permita como digo a las empresas un uso de las tecnolog de la informaci
+[00:11:25.400 - 00:11:31.580] Yo creo que todos estamos de acuerdo que a estas alturas del siglo XXI las tecnologías o frenan o aceleran la actividad empresarial,
+[00:11:31.900 - 00:11:39.040] pero no pasan inadvertidas. Cualquier empresa, por pequeña que sea, si quiere mejorar sus procesos, si quiere alcanzar nuevos mercados,
+[00:11:39.040 - 00:11:50.660] si quiere conseguir mejores proveedores va a tener que hacer un uso de la tecnología y desde luego en su ámbito de relación, sea tecnológica o no, va a tener ese punto de intersección.
+[00:11:51.220 - 00:12:02.100] El participar, hacer partícipe en el órgano estratégico de la organización, del organismo público, de la compañía, a personas que tengan ese criterio, ese punto de vista de riesgos,
+[00:12:02.100 - 00:12:05.800] de experiencia de seguridad en el uso de las tecnologías de la información,
+[00:12:06.200 - 00:12:10.100] puede hacerles llevar a cambiar el modelo de negocio, aprovechar nuevos mercados,
+[00:12:10.580 - 00:12:15.720] aprovechar nuevas oportunidades, en definitiva, a que la tecnología se alinee
+[00:12:15.720 - 00:12:19.420] con los objetivos estratégicos de la organización y no viceversa,
+[00:12:19.480 - 00:12:21.300] que lamentablemente pasan muchas ocasiones.
+[00:12:21.300 - 00:12:36.180] S much veces Y bueno esto no tenemos que inventarlo ya est inventado Hacemos este tirar de algunas metodolog buenas pr de hecho aqu en este mismo plat hemos tenido tambi amigos en com como Rams
+[00:12:36.180 - 00:12:40.840] que nos ha explicado también efectivamente las certificaciones, por ejemplo, de la Dixaca,
+[00:12:40.960 - 00:12:45.380] hemos hablado de las de TIL. Yo te voy a hacer la siguiente pregunta, por ejemplo, empezamos
+[00:12:45.380 - 00:12:49.360] con la parte de gestión del servicio, gobierno de las TIs, COVID o TIL.
+[00:12:50.360 - 00:12:53.900] Bueno, yo te diría antibiótico o analgésico.
+[00:12:54.320 - 00:12:54.980] Muy bien.
+[00:12:55.220 - 00:12:56.900] Cada cosa sirve para lo que sirve.
+[00:12:57.340 - 00:13:02.340] Y TIL es un marco de gestión excepcional que ayuda a esa gestión de las tecnologías,
+[00:13:02.500 - 00:13:05.920] de la información basadas en el ciclo de vida del servicio, del cual soy un enamorado.
+[00:13:05.980 - 00:13:08.420] Yo soy itílico perdido, todo el mundo lo sabe.
+[00:13:09.060 - 00:13:10.820] Pero COVID es otra cosa.
+[00:13:11.240 - 00:13:15.660] COVID es un marco de negocio para el gobierno de las tecnologías de la información.
+[00:13:15.660 - 00:13:50.020] Y desde luego te voy a decir una cosa Marlon que la gente no se da cuenta puede haber gesti sin gobierno pero no puede haber gobierno sin gesti Entonces una vez tenemos ese grado de madurez en el que gestionamos adecuadamente las tecnolog y hemos sido capaces de demostrar en valor en idioma de negocio todo lo que nuestro departamento puede hacer ganar o perder acelerar o frenar a la organizaci lo m normal es que en ese modelo de madurez la organizaci nos diga sube queremos que participes igual que est la gente de
+[00:13:50.020 - 00:13:54.580] producción, el financiero, que esté el tecnólogo ahí en el consejo de administración y para
+[00:13:54.580 - 00:14:01.720] ello ITIL sigue teniéndose que aplicar, pero ya da paso a un marco de gobierno que de alguna
+[00:14:01.720 - 00:14:06.400] forma nos permita gobernar y gestionar las tecnologías de la información en toda la
+[00:14:06.400 - 00:14:13.540] compañía. COVID es la herramienta que permite de una manera muchísimo más contrastada y en esta
+[00:14:13.540 - 00:14:20.200] nueva versión COVID-5 ya da, vamos, absolutamente de la A a la Z, todas las claves para gobernar
+[00:14:20.200 - 00:14:27.480] adecuadamente una organización. Muy bien, me encanta el enfoque, efectivamente son para apoyarse.
+[00:14:28.080 - 00:14:32.540] Ahora vamos a pasar a la otra parte, tú también les ayudas con el proyecto y gestionar el proyecto
+[00:14:32.540 - 00:14:36.580] es muy importante para mantener en control todo aquello que tenemos que controlar.
+[00:14:37.260 - 00:14:43.440] Y ahora, por ejemplo, tenemos Prince2, tenemos PMI, se habla de Agile también.
+[00:14:43.900 - 00:14:45.500] Entonces, hay que decidir entre uno y otro.
+[00:14:45.800 - 00:14:50.160] Lo mismo. Cada certificación, cada base de conocimiento, cada método,
+[00:14:50.760 - 00:14:57.700] sirve para una determinada circunstancia o para dar una solución en la empresa.
+[00:14:58.260 - 00:15:00.000] Si bien el PMVoc, que es una base de conocimiento,
+[00:15:00.000 - 00:15:04.960] de conocimiento que me parece que es la biblia hoy día para la gestión de proyectos realmente
+[00:15:04.960 - 00:15:09.800] como base de conocimiento que es tampoco permite la aplicación de un método digamos que yo veo en
+[00:15:09.800 - 00:15:15.340] la gestión de proyectos gestión dirección de proyectos veo tres niveles un nivel de dirección
+[00:15:15.340 - 00:15:20.780] de proyectos un nivel de gestión de proyectos y un nivel de ejecución de proyectos donde se situaría
+[00:15:20.780 - 00:15:27.160] la persona responsable de dirigir los proyectos que normalmente se va a encargar de aspectos muy
+[00:15:27.160 - 00:15:31.960] importantes como son contratación de recursos humanos, contratación con proveedores, etc.
+[00:15:32.200 - 00:15:35.560] Ahí sí que encaja esa base de conocimiento tremenda que es PMBOK.
+[00:15:35.780 - 00:15:40.420] Pero no nos engañemos, en la PYME española no se dirigen proyectos, se gestionan proyectos.
+[00:15:41.220 - 00:15:46.900] Podríamos decir que la definición no oficial de un PMP podría ser
+[00:15:46.900 - 00:15:54.380] toma, chopo a cientos mil millones de euros, hazme el Burj Khalifa, el metro de Tokio, el canal de Panamá
+[00:15:54.380 - 00:15:59.660] y no me molestes con tus cosas, es el todopoderoso director de proyectos.
+[00:15:59.900 - 00:16:02.720] Está muy bien y para eso aplica perfectamente PMBOK,
+[00:16:02.980 - 00:16:05.980] pero en la PYME española, incluso me atrevería a decir en la gran empresa
+[00:16:05.980 - 00:16:25.500] y en la administraci p lo que s que existe es dar unas atribuciones m limitadas m concretas al equipo y hablarle de proyectos de otra envergadura menor con unos plazos con unas calidades con unas tolerancias que encajan mejor en un m como
+[00:16:25.500 - 00:16:31.040] puede ser PRIMS2. Y todos los paquetes de trabajo que de alguna forma se llevan a cabo a lo largo
+[00:16:31.040 - 00:16:36.480] de la vida del proyecto en la capa de entrega a los equipos de desarrollo, ahí es donde encajan
+[00:16:36.480 - 00:16:41.500] perfectamente las metodologías ágiles porque sobre todo tienen el objetivo puesto en satisfacción
+[00:16:41.500 - 00:16:47.920] del cliente, precio y plazo. Pero pierden un poco la óptica de negocio que sí que engloba Prince2
+[00:16:47.920 - 00:16:55.760] y que por supuesto tiene o obtiene mucha más respuesta en PMP. Simplemente te voy a poner un detalle.
+[00:16:56.220 - 00:17:00.880] Muchas veces cuando voy a una empresa que requiere la consultoría o requiere el coaching o el mentoring
+[00:17:00.880 - 00:17:08.800] que yo ofrezco dentro de lo que son mis actividades profesionales, me pregunta, le digo, ¿qué quieres?
+[00:17:08.880 - 00:17:16.380] ¿Tener un director de proyectos que de alguna forma establezca todas las pautas, controle toda la ejecución de proyectos dentro del ámbito de la organización
+[00:17:16.380 - 00:17:23.480] y aplique algún método porque PMP no es un método, el PMBOK, perdón, es una base de conocimiento?
+[00:17:23.480 - 00:17:37.200] o quieres que aquellos departamentos que llevan a cabo proyectos los lleven a cabo a trav de un m contrastado Normalmente la respuesta de los empresarios es intentar que la gente de marketing lleve los
+[00:17:37.200 - 00:17:42.100] proyectos de nuevos catálogos con un método contrastado, que la gente que a lo mejor hace
+[00:17:42.100 - 00:17:48.260] ferias internacionales las haga en base a un método también universal totalmente contrastado,
+[00:17:48.260 - 00:17:58.420] predecible y que eso sí, si se genera esa cultura de todo el mundo en la empresa llevando proyectos a través de métodos contrastados,
+[00:17:58.960 - 00:18:05.980] ponerle una capa por encima de dirección de proyectos que establezca el vínculo de lecciones aprendidas entre todos los proyectos,
+[00:18:06.420 - 00:18:14.440] mapas de riesgos para todos los proyectos, o sea que yo creo que la empresa hoy más necesita que la gente que lleve a cabo proyectos
+[00:18:14.440 - 00:18:28.060] las lleve de manera metódica, con métodos como puede ser Prince2, que tienen el punto de vista de negocio, de beneficios y que vaya adoptando otras metodologías en función de sus grados de avance o madurez.
+[00:18:28.420 - 00:18:49.560] Fant de hecho has dicho dos cosas que me han gustado mucho la primera efectivamente ya est inventado entonces vamos a usar lo que ya adem ha sido probado y la segunda lo has aplicado en Apime y justo con esto me gustar cerrar Por ejemplo tambi te he visto asesorar a emprendedores que est partiendo casi desde cero creando todo desde nada
+[00:18:50.020 - 00:18:51.840] ¿Esto no les queda muy grande? Por ejemplo,
+[00:18:51.960 - 00:18:53.760] si tenemos algún emprendedor o alguien
+[00:18:53.760 - 00:18:55.660] de la audiencia estaba pensando en emprender,
+[00:18:55.760 - 00:18:57.200] ¿esto no es demasiado para mí?
+[00:18:57.460 - 00:18:59.340] ¿La experiencia le viene a alguien grande?
+[00:18:59.880 - 00:19:01.760] Las bases de conocimiento, los métodos,
+[00:19:02.180 - 00:19:03.220] no nos puede venir grande.
+[00:19:03.220 - 00:19:05.140] Lo que nos tiene que venir grande
+[00:19:05.140 - 00:19:06.740] es intentar inventar la rueda.
+[00:19:07.100 - 00:19:08.940] Yo creo que a los emprendedores,
+[00:19:08.940 - 00:19:19.780] sobre todo lo que les digo es utiliza las metodologías, las bases de conocimiento, lo bueno que tienen para adquirir experiencia en vena y poder desarrollar muchísimo más rápido.
+[00:19:20.100 - 00:19:28.780] Una de mis funciones en el entorno, en el ecosistema emprendedor es gestionar las ideas como proyectos para convertir esos proyectos en negocios rentables.
+[00:19:29.280 - 00:19:36.980] Y desde luego te podría decir que muchos de ellos no saben que estamos aplicando metodologías, pero sí que lo estamos haciendo porque lo que evito es el retrabajo,
+[00:19:36.980 - 00:19:43.520] el no aprender desde la experiencia, el no tener roles y responsabilidades absolutamente definidos al inicio del proyecto.
+[00:19:43.960 - 00:19:47.600] Yo creo que debemos de aprender de esta experiencia y de lo que hay hoy día en la industria,
+[00:19:47.740 - 00:19:51.780] ha funcionado, funciona y seguro funcionará para acoger aquello que nos aplica.
+[00:19:52.020 - 00:19:56.320] Y es más, te diré, en algún proyecto emprendedor, que además tú sabes que ha obtenido algún premio,
+[00:19:56.760 - 00:19:59.880] estoy incluso aplicando COVID, pero sin decirlo al emprendedor.
+[00:20:00.000 - 00:20:04.580] ¿Por qué? Porque en este marco de gobierno y con el convencimiento de que tenemos que tender a ello,
+[00:20:05.380 - 00:20:11.980] podremos aplicar gestión de proyectos, aplicar gestión de riesgos, aplicar gestión de operaciones
+[00:20:11.980 - 00:20:19.340] bajo un entorno común, bajo un marco de gobierno que nos permita crecer mucho más contrastadamente
+[00:20:19.340 - 00:20:25.620] o por lo menos con menor incertidumbre que es el gran riesgo de los proyectos emprendedores.
+[00:20:25.620 - 00:20:29.700] Efectivamente. Muy bien, bueno, como habéis visto también Javier es profesor.
+[00:20:29.700 - 00:20:30.200] Sí.
+[00:20:34.920 - 00:20:40.480] Bien. Va por ahí la idea. Vamos entendiendo lo que es ETIL.
+[00:20:42.260 - 00:20:52.200] ETIL viene a ser, por ejemplo, cómo gestiono yo mis servicios de tecnologías dentro de mi...
+[00:20:55.620 - 00:21:03.320] por ejemplo
+[00:21:03.320 - 00:21:05.360] un incidente
+[00:21:05.360 - 00:21:08.800] ¿qué ocurre cuando hay un incidente?
+[00:21:08.840 - 00:21:16.320] por ejemplo planes de contingencia saben qu ha pasado ayer ayer ha sido el problema de Outlook de Microsoft
+[00:21:26.340 - 00:21:28.300] Muy bien. Sí saben lo que ha pasado,
+[00:21:28.500 - 00:21:29.980] ¿no? Hubo una caída a nivel
+[00:21:29.980 - 00:21:30.600] mundial.
+[00:21:31.860 - 00:21:33.880] Los servicios, tanto
+[00:21:33.880 - 00:21:35.160] como Microsoft 365
+[00:21:35.160 - 00:21:37.900] y otros servicios de Microsoft
+[00:21:37.900 - 00:21:38.840] como Outlook,
+[00:21:40.000 - 00:21:43.700] se vieron afectados por esta caída.
+[00:21:44.560 - 00:21:46.060] Ese fue un incidente.
+[00:21:47.600 - 00:21:52.320] Los incidentes ocurren en el momento menos esperado.
+[00:21:52.320 - 00:21:58.680] Un incidente es algo no planificado, un evento no planificado,
+[00:21:59.100 - 00:22:06.180] que resultó tal vez por alguna transacción, por algún motivo.
+[00:22:06.180 - 00:22:09.420] por ejemplo de repente
+[00:22:09.420 - 00:22:10.700] ha sido una migración
+[00:22:10.700 - 00:22:13.280] a una versión más actual
+[00:22:13.280 - 00:22:16.640] y puede ser que
+[00:22:16.640 - 00:22:17.040] haya
+[00:22:17.040 - 00:22:19.040] sufrido una caída
+[00:22:19.040 - 00:22:20.440] de otros sistemas
+[00:22:20.440 - 00:22:21.600] o de otros servicios
+[00:22:21.600 - 00:22:24.540] ahora y cuando hablamos de
+[00:22:24.540 - 00:22:37.180] del incidente de Microsoft recuerda que estas empresas tienen todo implantado
+[00:22:40.560 - 00:22:45.880] Es decir, tienen todo planificado, ya están preparados para este tipo de casos.
+[00:22:46.680 - 00:22:51.740] Pero aún así les afectó totalmente. ¿Cuánto tiempo dura para restablecer el servicio?
+[00:22:51.740 - 00:22:53.200] ¿Tienen idea?
+[00:22:54.380 - 00:22:56.300] 8 horas o menos
+[00:22:56.300 - 00:22:59.780] Un día entero
+[00:22:59.780 - 00:23:00.400] ¿Sí, no?
+[00:23:01.400 - 00:23:03.560] Para un restablecimiento total
+[00:23:03.560 - 00:23:06.060] El restablecimiento ha sido progresivo
+[00:23:06.060 - 00:23:06.240] ¿No?
+[00:23:16.980 - 00:23:19.280] Claro, ha sido restablecido
+[00:23:19.280 - 00:23:21.240] De manera progresiva
+[00:23:21.740 - 00:23:26.100] Y ahora, cuando hablamos de esos temas, ¿y el plan de contingencia dónde queda?
+[00:23:31.180 - 00:23:36.140] Eso es parte del plan de contingencia. Lo que ha sucedido es parte del plan de contingencia.
+[00:23:38.500 - 00:23:49.000] El restablecimiento de los procesos cr lo m pronto posible de una manera progresiva
+[00:23:52.500 - 00:23:54.560] Un plan de contingencia
+[00:23:54.560 - 00:23:56.960] dice lo que tienes que hacer
+[00:23:56.960 - 00:23:57.920] o cómo actuar
+[00:23:57.920 - 00:24:01.100] ante una ruptura
+[00:24:01.100 - 00:24:03.000] de un servicio crítico
+[00:24:03.000 - 00:24:04.140] por una interrupción.
+[00:24:06.700 - 00:24:07.760] No sé, de repente
+[00:24:07.760 - 00:24:09.640] sus servidores han caído
+[00:24:09.640 - 00:24:11.540] deberían tener
+[00:24:11.540 - 00:24:13.040] servidores de respaldo
+[00:24:13.040 - 00:24:15.440] la idea
+[00:24:15.440 - 00:24:16.560] es de que
+[00:24:16.560 - 00:24:19.320] a una interrupción
+[00:24:19.320 - 00:24:21.940] tener una respuesta, ese es el plan de contingencia
+[00:24:21.940 - 00:24:23.540] que se les pide a las
+[00:24:23.540 - 00:24:24.200] empresas
+[00:24:24.200 - 00:24:27.020] a los temas de
+[00:24:27.020 - 00:24:29.240] trabajo en tecnología, por ejemplo
+[00:24:29.240 - 00:24:31.000] si yo tengo
+[00:24:31.000 - 00:24:33.780] equipamiento que está conectado
+[00:24:33.780 - 00:24:35.220] a las 24 horas del día
+[00:24:35.220 - 00:24:38.080] respondiendo
+[00:24:38.080 - 00:24:40.100] transacciones, haciendo transacciones
+[00:24:40.100 - 00:24:44.260] la caída de uno de estos
+[00:24:44.260 - 00:24:46.640] equipos ocasiona de que
+[00:24:46.640 - 00:24:50.320] se pierda el servicio
+[00:24:50.320 - 00:24:51.860] momentáneamente
+[00:24:51.860 - 00:24:54.080] en ITIL
+[00:24:54.080 - 00:24:55.380] se piensa
+[00:24:55.380 - 00:24:56.940] en ITIL se dice
+[00:24:56.940 - 00:25:00.000] de que los incidentes
+[00:25:00.000 - 00:25:02.220] o la gestión de incidentes que se trabaja en ITIL
+[00:25:02.220 - 00:25:06.000] se dice o se piensa
+[00:25:06.000 - 00:25:07.600] de que los incidentes
+[00:25:07.600 - 00:25:09.920] son eventos que ocurren
+[00:25:09.920 - 00:25:11.900] sin estar programados o
+[00:25:11.900 - 00:25:13.620] aparecen de la nada.
+[00:25:14.420 - 00:25:16.240] Son eventos que ocurren
+[00:25:16.240 - 00:25:18.000] sin haberlo
+[00:25:18.880 - 00:25:19.660] previsto.
+[00:25:20.540 - 00:25:21.900] La idea de ITIL
+[00:25:21.900 - 00:25:24.060] o de alguna gestión, alguna metodología
+[00:25:24.060 - 00:25:26.000] de servicios, no es que
+[00:25:26.000 - 00:25:28.100] desaparezcan estos eventos, porque no se
+[00:25:28.100 - 00:25:29.880] lo puede hacer, no se les puede desaparecer.
+[00:25:30.000 - 00:25:39.560] se puede mitigar, se les puede, digamos, hacer de que el impacto que ocurra sea lo menos negativo hacia la empresa.
+[00:25:40.940 - 00:25:49.080] Ejemplo de ello, si yo trabajo en el área de recursos humanos y a mi costado está el área de contabilidad,
+[00:25:51.340 - 00:25:58.160] digamos que la impresora de recursos humanos se ve interrumpida y ya no imprime.
+[00:26:00.000 - 00:26:20.320] Soluci alternativa hay un t de la soluci alternativa se le llama workaround es el workaround Ser imprimir en la oficina m cercana Es decir si dentro de mi el incidente ocurre y determina
+[00:26:20.320 - 00:26:21.880] o por el incidente que ocurrió
+[00:26:21.880 - 00:26:24.000] no podemos hacer impresiones,
+[00:26:24.080 - 00:26:24.480] por ejemplo.
+[00:26:25.580 - 00:26:27.840] La idea es imprimir en un área
+[00:26:27.840 - 00:26:29.740] más cercana para darle solución
+[00:26:29.740 - 00:26:31.960] al incidente
+[00:26:31.960 - 00:26:32.720] que ha ocurrido.
+[00:26:34.020 - 00:26:36.000] Ese sería nuestro plan de contingencia, ¿no?
+[00:26:36.560 - 00:26:37.280] Responder
+[00:26:37.280 - 00:26:39.680] a un incidente crítico
+[00:26:39.680 - 00:26:46.120] lógicamente después de ello ya el
+[00:26:46.120 - 00:26:48.700] workaround debe analizarse
+[00:26:48.700 - 00:26:50.880] tiene que darse la solución al incidente
+[00:26:50.880 - 00:26:51.500] ¿si se entiende?
+[00:27:09.680 - 00:27:14.220] Entonces, ITIL contempla todo lo que se tiene que hacer o desarrollar
+[00:27:14.220 - 00:27:18.780] cuando nosotros trabajamos en ambientes de tecnología, dando servicios,
+[00:27:19.680 - 00:27:23.000] y sobre todo viéndole del lado del cliente, ¿no?
+[00:27:23.000 - 00:27:35.400] Que el cliente se vea realizado que el cliente tome valor porque aqu se habla bastante de la palabra valor cuando hablamos de la gesti de servicios
+[00:27:35.400 - 00:27:36.760] gestión de proyectos
+[00:27:36.760 - 00:27:39.260] hablamos bastante de la palabra
+[00:27:39.260 - 00:27:40.900] valor, aporte de valor
+[00:27:40.900 - 00:27:43.540] crecimiento de valor, dar valor
+[00:27:43.540 - 00:27:45.500] cuando uno da valor a algo
+[00:27:45.500 - 00:27:47.420] es porque le es útil, le es
+[00:27:47.420 - 00:27:49.460] necesario o le es principalmente
+[00:27:49.460 - 00:27:50.380] usable
+[00:27:50.380 - 00:27:53.380] esa es la idea cuando generamos
+[00:27:53.380 - 00:27:53.720] valor
+[00:27:53.720 - 00:28:03.500] entonces
+[00:28:03.500 - 00:28:05.080] ¿qué fundamentos vemos?
+[00:28:05.240 - 00:28:07.160] las organizaciones
+[00:28:07.160 - 00:28:10.420] dependen cada vez más
+[00:28:10.420 - 00:28:10.980] de TI
+[00:28:10.980 - 00:28:14.800] para lograr sus objetivos corporativos
+[00:28:14.800 - 00:28:18.420] por esto es necesaria
+[00:28:18.420 - 00:28:20.700] una adecuada gestión
+[00:28:20.700 - 00:28:22.920] de TI que dirija la provisión
+[00:28:23.780 - 00:28:30.220] el soporte de los servicios TI adaptados a las necesidades de la organización.
+[00:28:34.940 - 00:28:39.940] Dentro de un organigrama de una organización básica, por ejemplo,
+[00:28:40.060 - 00:28:55.780] tenemos la gerencia general que es la cabeza de toda la organizaci tenemos las como sistemas recursos humanos operaciones ventas finanzas entonces por ejemplo solamente en el
+[00:28:55.780 - 00:29:04.120] área de sistemas tenemos modalidad interna cuando la modalidad interna es propia de la empresa
+[00:29:04.120 - 00:29:16.620] Tenemos modalidad terciarizada. Cuando hablamos de modalidad terciarizada nos referimos a lo que es outsourcing. ¿Han escuchado hablar la palabra outsourcing?
+[00:29:16.620 - 00:29:32.500] Si no han escuchado la palabra
+[00:29:32.500 - 00:29:33.960] Ousuar, si no han escuchado, pero
+[00:29:33.960 - 00:29:36.480] Si han escuchado la palabra service, ¿no?
+[00:29:44.940 - 00:29:46.300] Tercialización, muy bien
+[00:29:46.300 - 00:29:49.840] outsourcing es
+[00:29:49.840 - 00:29:51.240] tercerizado
+[00:29:51.240 - 00:29:53.840] claro, outsourcing
+[00:29:53.840 - 00:29:55.420] es lo que se denomina
+[00:29:55.420 - 00:29:57.780] tercerizar pero en lo que
+[00:29:57.780 - 00:29:58.440] es tecnología
+[00:30:00.000 - 00:30:20.020] arrendamiento de equipamiento tecnológico, por ejemplo, las empresas en la actualidad no compran tecnología, no compran computadoras, no compran impresoras, no contratan personal, digamos, para las áreas de tecnología.
+[00:30:20.020 - 00:30:28.060] van hacia el outsourcing y hacen arrendamiento tanto de infraestructura como de personas, ¿no?
+[00:30:28.480 - 00:30:30.640] Entonces, en el área de sistemas, ¿qué encontramos?
+[00:30:30.900 - 00:30:34.060] Encontramos el área de soporte, programadores.
+[00:30:35.300 - 00:30:36.820] ¿Y qué es lo que ocurre?
+[00:30:36.940 - 00:30:41.860] Mayormente estas áreas son terciarizadas o en todo caso outsourcing.
+[00:30:42.020 - 00:30:42.660] Miren, vamos a ver.
+[00:30:43.320 - 00:30:45.380] Tal vez tenemos por acá algo de outsourcing.
+[00:30:45.600 - 00:30:46.080] A ver.
+[00:30:50.020 - 00:30:51.020] Gracias.
+[00:31:10.000 - 00:31:11.000] Gracias.
+[00:31:40.000 - 00:31:46.960] No encuentro algo que sea entendible.
+[00:32:10.000 - 00:32:12.760] Hola, soy Fernando Guerra, Gerente General de Grupo FG.
+[00:32:13.000 - 00:32:18.040] Y ahora conoceremos en detalle cómo funciona el arrendamiento tecnológico FG.
+[00:32:27.980 - 00:32:38.280] A lo largo de estos nueve a que venimos liderando conversaciones de negocio con nuestros clientes hemos detectado un desaf com y que tiene que ver con la restricci presupuestaria
+[00:32:38.680 - 00:32:44.100] Es cierto, para invertir en tecnología dentro de una organización se requiere de importantes desembolsos.
+[00:32:44.540 - 00:32:51.220] Es ahí que la propuesta de Grupo FG con el arrendamiento tecnológico ha sido una excelente alternativa para ellos.
+[00:32:51.220 - 00:33:16.220] ¿Y cómo funciona? Nuestro cliente que expresa su necesidad y expectativa. Grupo FG que junto a su staff de profesionales diseña la mejor solución basado en esa expectativa. Una vez consensuada esa solución y aprobada, buscamos la participación de una arrendadora especializada en tecnología que le va a garantizar la mejor solución a nivel financiero para nuestro cliente.
+[00:33:16.220 - 00:33:23.980] Cerrado el ciclo, se procede a la firma de un contrato que puede ser por 3 años, 4 hasta 5 años.
+[00:33:24.760 - 00:33:27.860] En Grupo FG tenemos 3 modalidades de arrendamiento tecnológico.
+[00:33:28.260 - 00:33:32.720] El arrendamiento Plus, el arrendamiento estándar y el arrendamiento Express.
+[00:33:33.300 - 00:33:37.840] Dependiendo de su necesidad y de su expectativa puede adoptar cualquiera de esos modelos.
+[00:33:38.700 - 00:33:56.700] qu sucede al final del contrato Usted puede expresar su necesidad de comprarlos y con un valor residual se quede en propiedad de esos equipos Puede ampliar el plazo a 12 o 24 meses m o decidir renovar
+[00:33:56.700 - 00:34:02.100] el contrato por un periodo adicional, donde usted impulsaría la renovación tecnológica
+[00:34:02.100 - 00:34:03.380] dentro de su organización.
+[00:34:03.380 - 00:34:15.900] Es importante que tengas en cuenta lo siguiente, una vez que Grupo FG instala su solución
+[00:34:15.900 - 00:34:20.620] y usted da su conformidad, 30 días después recién comienza a pagar la primera cuota
+[00:34:20.620 - 00:34:26.940] de su arrendamiento. También cabe destacar que contamos con el respaldo de los principales
+[00:34:26.940 - 00:34:32.920] fabricantes de tecnología, junto a ellos podemos garantizarle la mejor solución, el
+[00:34:32.920 - 00:34:38.500] mejor precio y la sostenibilidad de toda esa plataforma durante todo el periodo contractual.
+[00:34:38.500 - 00:34:45.800] Contamos dentro de Grupo FG con una plataforma de servicios postventa que le puede garantizar
+[00:34:45.800 - 00:34:52.600] la continuidad operativa de su plataforma. En pocas palabras, sus usuarios y su empresa
+[00:34:52.600 - 00:35:00.000] nunca va a dejar de operar. Para mayor información visita nuestra
+[00:35:00.000 - 00:35:05.360] página web o escríbenos un email para que un asesor de Grupo FG te contacte en breve.
+[00:35:06.040 - 00:35:11.000] Y recuerda, en Grupo FG somos especialistas del norte para todo el norte.
+[00:35:30.000 - 00:35:35.400] Por escrito, prestación sourcing.
+[00:35:43.300 - 00:35:45.020] Bienvenidos una vez más a mi canal.
+[00:35:45.260 - 00:35:47.140] Para los que son nuevos, mi nombre es Susi.
+[00:35:47.340 - 00:35:51.080] El tema de esta semana, como se habrán dado cuenta por el título del video,
+[00:35:51.480 - 00:35:52.700] hablaremos del outsourcing.
+[00:35:53.100 - 00:35:56.300] Es un término que se ha ido popularizando últimamente,
+[00:35:56.720 - 00:35:58.700] pero en realidad tiene mucho tiempo de existir.
+[00:35:58.700 - 00:36:02.200] y ahora que está en boca de todos es que surgen muchas dudas.
+[00:36:02.740 - 00:36:06.920] ¿Cuándo surgió? ¿Cómo funciona? ¿Es bueno o malo?
+[00:36:07.020 - 00:36:17.420] fue primero el huevo o la gallina Y muchas dudas m Haces otro chiste como ese y te vas de aqu As que en este video conoceremos m acerca de esto
+[00:36:22.280 - 00:36:27.320] Partimos del hecho que el outsourcing es una palabra proveniente del inglés. Su traducción
+[00:36:27.320 - 00:36:33.520] literal es out, fuera y source, fuente y se conoce en México comúnmente como subcontratación,
+[00:36:33.820 - 00:36:38.920] externalización de la mercadotecnia o la tercerización. Para fines prácticos y para
+[00:36:38.920 - 00:36:44.060] Para no repetir estas palabras durante todo el video, usaré únicamente el término outsourcing,
+[00:36:44.060 - 00:36:46.780] pero sepan que es lo mismo.
+[00:36:46.780 - 00:36:51.560] Así que se considera como proceso de outsourcing a cualquier externalización de actividades
+[00:36:51.560 - 00:36:58.520] de la empresa, ya fuesen estas desarrolladas o no previamente dentro de la misma.
+[00:36:58.520 - 00:37:03.200] Que en castellano es cuando una empresa contrata los servicios de un tercero para desempeñar
+[00:37:03.200 - 00:37:07.100] una o varias tareas específicas por un periodo de tiempo determinado.
+[00:37:07.100 - 00:37:13.580] Cloudsourcing nace en la década de los años 40 en Estados Unidos, coincidiendo con la finalización de la Segunda Guerra Mundial,
+[00:37:14.000 - 00:37:19.780] pero no fue hasta la década de los años 70 cuando empezó a resultar verdaderamente importante para las empresas,
+[00:37:20.260 - 00:37:23.980] sobre todo gracias al área de la información tecnológica de las mismas.
+[00:37:24.080 - 00:37:38.240] Desde la d de los 90 esta corriente ha aumentado de manera exponencial coincidiendo con la revoluci inform y las tecnolog de la comunicaci La globalizaci la carrera por la rentabilidad
+[00:37:38.240 - 00:37:43.180] y la competencia de ofrecer productos a un menor precio han forzado a los corporativos
+[00:37:43.180 - 00:37:48.540] de las empresas a buscar el balance adecuado entre la producción, recorte de costos y
+[00:37:48.540 - 00:37:52.640] número de empleados, por lo cual se enfocan en la búsqueda de proveedores para la adquisición
+[00:37:52.640 - 00:37:57.180] de materiales a menor precio y la reducción de mano de obra mediante la contratación
+[00:37:57.180 - 00:38:02.740] de empleados de tiempo parcial o utilización de empleados en otros países por medio del outsourcing.
+[00:38:07.640 - 00:38:13.140] Las empresas pueden delegar tareas en diferentes niveles, tareas de un solo trabajador, tareas
+[00:38:13.140 - 00:38:18.220] especializadas o procesos enteros, así que el outsourcing se puede clasificar de la siguiente
+[00:38:18.220 - 00:38:23.480] manera. El offshoring consiste en la contratación de servicios ubicados en otros países con mano
+[00:38:23.480 - 00:38:29.140] de obra más barata, es lo que se conoce como deslocalización. Ejemplos de esta modalidad los
+[00:38:29.140 - 00:38:33.320] encontramos en los servicios de telemarketing de algunas compañías y en muchos productos
+[00:38:33.320 - 00:38:39.100] manufacturados. In-house se rupiera los servicios que se prestan dentro de la empresa que los
+[00:38:39.100 - 00:38:50.680] contrata por ejemplo en el sector hotelero se emplea para la limpieza de pisos la restauraci o los servicios wellness El outsourcing upside hace referencia a servicios que se llevan a cabo en las instalaciones
+[00:38:50.680 - 00:38:56.000] de la empresa subcontratada. Este sería el caso de las agencias de marketing que elaboran las
+[00:38:56.000 - 00:39:01.760] estrategias e implementan las acciones desde sus propias instalaciones. La facilidad de poder
+[00:39:01.760 - 00:39:07.360] trabajar a distancia es una gran ventaja para la empresa contratante que no necesita habilitar un
+[00:39:07.360 - 00:39:13.600] espacio específico en sus propias oficinas. El co-sourcing consiste en compartir responsabilidades
+[00:39:13.600 - 00:39:18.720] y riesgos en la prestación de servicios. Creo que es muy obvio que sí.
+[00:39:23.560 - 00:39:28.960] Estos puntos que voy a mencionar hacen referencia viéndolo desde el lado empresarial. El modelo
+[00:39:28.960 - 00:39:33.620] de outsourcing bien planteado implica una serie de beneficios muy importantes para las empresas
+[00:39:33.620 - 00:39:37.780] en las que se aplica, como en la mejora y optimización de los productos,
+[00:39:38.200 - 00:39:41.760] ahorro económico, flexibilidad y capacidad de adaptación.
+[00:39:42.060 - 00:39:44.880] ¡Dominar el mundo! ¡Dile que queremos dominar el mundo!
+[00:39:45.120 - 00:39:48.440] Del mismo modo que el outsourcing implica una serie de beneficios,
+[00:39:48.640 - 00:39:53.320] es también conveniente conocer cuáles son las consecuencias o puntos negativos del mismo,
+[00:39:53.720 - 00:39:57.600] como que existe una mayor vulnerabilidad a la filtración de información,
+[00:39:58.240 - 00:40:00.000] también una comunicación deficiente,
+[00:40:00.000 - 00:40:06.780] lo cual puede llevar a malos entendidos, baja calidad en los servicios, retrasos en la entrega de productos o servicios.
+[00:40:10.400 - 00:40:12.540] Desde 2012 en México,
+[00:40:14.380 - 00:40:17.900] el outsourcing se regula en la Ley Federal del Trabajo.
+[00:40:18.300 - 00:40:24.440] Por desgracia, algunas empresas abusan de esta figura, así que debemos estar atentos a la forma en que se presenta.
+[00:40:24.880 - 00:40:27.800] El outsourcing legal garantiza las siguientes cosas.
+[00:40:27.800 - 00:40:39.260] Un contrato por escrito, prestaciones mínimas de ley, o sea, vacaciones, prima vacacional, aguinaldo, reparto de utilidades, prima de antigüedad y liquidación al terminar la relación laboral.
+[00:40:39.380 - 00:40:51.640] Servicios de seguridad social como atención en el IMSS, pago de incapacidades y licencias por maternidad, acceso de guarderías y otras actividades que brindan dichas instituciones a través de sus centros deportivos y recreativos.
+[00:40:51.840 - 00:40:53.720] ahorro para el retiro o de pensión
+[00:40:53.720 - 00:40:56.020] a través de una FORE, derecho de adquirir
+[00:40:56.020 - 00:40:57.960] un crédito para la compra de vivienda
+[00:40:57.960 - 00:40:59.660] mediante el Infonavit.
+[00:41:04.940 - 00:41:06.620] Mientras que las organizaciones
+[00:41:06.620 - 00:41:08.080] que recurren al outsourcing
+[00:41:08.080 - 00:41:23.960] ilegal por lo general hacen lo siguiente Hacen firmar al empleado acuerdos para incumplir sus obligaciones laborales incumplen con las prestaciones m de ley y de los servicios de seguridad social registran al trabajador ante el IMSS SAT e Infonavit con un salario menor al real para
+[00:41:23.960 - 00:41:29.260] evadir las cuotas obrero patronales, impuestos y liquidaciones. No cubren las aportaciones
+[00:41:29.260 - 00:41:34.420] regulares del Seguro Social e Infonavit, lo que afecta el acceso del trabajador al servicio
+[00:41:34.420 - 00:41:39.660] médico, ahorro para el retiro y acceso a una pensión. Recurren a simulaciones para evadir
+[00:41:39.660 - 00:41:41.740] el pago de impuestos y obtener beneficios
+[00:41:41.740 - 00:41:43.680] mediante el cumplimiento de sus obligaciones
+[00:41:43.680 - 00:41:45.520] fiscales. El IMSS ha habilitado
+[00:41:45.520 - 00:41:47.380] un sitio web para denunciar el outsourcing
+[00:41:47.380 - 00:41:49.440] ilegal y puedes hacerlo en la siguiente
+[00:41:49.440 - 00:41:50.060] dirección.
+[00:41:50.520 - 00:41:53.860] www.imss.gov.mx
+[00:41:53.860 - 00:41:54.940] diagonal outsourcing
+[00:41:54.940 - 00:41:57.500] Bien, acá se está yendo
+[00:41:57.500 - 00:41:59.060] muy allá. Entonces,
+[00:41:59.380 - 00:42:00.240] vamos a ver la idea.
+[00:42:01.060 - 00:42:02.620] Tenemos la idea del outsourcing,
+[00:42:04.120 - 00:42:05.400] el tema de
+[00:42:05.400 - 00:42:07.280] el capital que
+[00:42:07.280 - 00:42:09.100] se emplea para
+[00:42:09.100 - 00:42:12.840] para los recursos
+[00:42:12.840 - 00:42:16.260] para los recursos tecnológicos
+[00:42:16.260 - 00:42:17.920] o la infraestructura tecnológica
+[00:42:17.920 - 00:42:22.520] ¿no? es un fuerte capital para ello
+[00:42:22.520 - 00:42:24.320] entonces esto lo dejan a manos de
+[00:42:24.320 - 00:42:35.160] de otra persona que se encarga de la parte de las plataformas tecnol es que no solamente es
+[00:42:35.160 - 00:42:37.320] no solamente es
+[00:42:37.320 - 00:42:39.240] este, comprar equipos
+[00:42:39.240 - 00:42:42.720] no es que la empresa no pueda
+[00:42:42.720 - 00:42:44.720] comprarlos tampoco
+[00:42:44.720 - 00:42:48.720] mire yo tengo acá un
+[00:42:48.720 - 00:42:49.580] les voy a enseñar
+[00:42:49.580 - 00:42:52.620] el iceberg de lobsourcing
+[00:42:55.000 - 00:42:56.000] Gracias.
+[00:43:25.000 - 00:43:36.000] dice ¿no? ¿cuánto le cuesta realmente a una empresa
+[00:43:36.000 - 00:43:57.000] tener su propio equipo de TI o sea antes de pensar en la compra de infraestructura tecnol lo que es computadoras impresoras lo que es servidores hay que pensar antes de las compras porque
+[00:43:57.000 - 00:44:01.780] nosotros nos enfocamos netamente en este modo. ¿Por qué la empresa no compra antes de estar
+[00:44:01.780 - 00:44:05.940] alquilando? Porque el alquiler le manda un costo, ¿no? El alquiler no es nada barato.
+[00:44:05.940 - 00:44:09.140] entonces si teniendo las posibilidades
+[00:44:09.140 - 00:44:10.160] ¿por qué no comprar?
+[00:44:13.020 - 00:44:14.360] porque vuelvo a repetir
+[00:44:14.360 - 00:44:16.580] el alquiler tiene un costo considerable
+[00:44:16.580 - 00:44:20.200] entonces dice ¿cuánto le cuesta a la empresa
+[00:44:20.200 - 00:44:21.740] tener su equipo de TI?
+[00:44:21.860 - 00:44:24.380] porque para que tengas de tu propio
+[00:44:24.380 - 00:44:26.300] recurso como de la propia
+[00:44:26.300 - 00:44:26.720] empresa
+[00:44:26.720 - 00:44:30.000] vas a tener que tener un equipo de TI
+[00:44:30.000 - 00:44:32.220] no sólo
+[00:44:32.220 - 00:44:34.600] se paga el sueldo del personal
+[00:44:34.600 - 00:44:37.860] también se asumen los beneficios laborales
+[00:44:37.860 - 00:44:40.920] lo que son equipos
+[00:44:40.920 - 00:44:42.220] lo que estamos hablando de equipos
+[00:44:42.220 - 00:44:44.840] licencias también para los equipos
+[00:44:44.840 - 00:44:46.720] infraestructura
+[00:44:46.720 - 00:44:49.080] seguridad, capacitación
+[00:44:49.080 - 00:44:53.140] el costo real es mucho mayor
+[00:44:53.140 - 00:44:54.720] que la suma de todos los salarios
+[00:44:54.720 - 00:44:57.180] no nos fijemos solamente en salarios
+[00:44:57.180 - 00:44:58.080] nos estamos fijando
+[00:44:58.080 - 00:45:00.000] ya en otras partes
+[00:45:00.000 - 00:45:28.000] aquí está
+[00:45:28.000 - 00:45:30.220] el iceberg de la outsourcing
+[00:45:30.220 - 00:45:30.520] mira
+[00:45:30.520 - 00:45:34.260] lo que es adquisición
+[00:45:34.260 - 00:45:36.100] de hardware, es decir, la compra
+[00:45:36.100 - 00:45:37.780] de hardware, solo
+[00:45:37.780 - 00:45:40.580] representa el 30%
+[00:45:40.580 - 00:45:42.240] del
+[00:45:42.240 - 00:45:43.080] costo total
+[00:45:43.080 - 00:45:47.400] costo de adquisición
+[00:45:47.400 - 00:45:49.800] si nosotros lo vemos por el lado
+[00:45:49.800 - 00:45:51.880] de la empresa
+[00:45:51.880 - 00:45:53.660] no decir, no, porque no lo compro mejor
+[00:45:53.660 - 00:45:54.840] este equipamiento
+[00:45:54.840 - 00:45:57.920] solamente pensar en el costo de los equipos
+[00:45:57.920 - 00:46:00.080] es pensar en el 30%
+[00:46:00.080 - 00:46:00.700] nada más
+[00:46:00.700 - 00:46:03.280] falta un 70%
+[00:46:03.280 - 00:46:06.320] ese 70% está en la capacitación
+[00:46:06.320 - 00:46:07.000] del personal
+[00:46:07.000 - 00:46:08.880] la instalación
+[00:46:08.880 - 00:46:21.120] la operaci el soporte la administraci de activos los retiros de activos obsoletos y otros detalles m que ac no figuran
+[00:46:21.900 - 00:46:26.220] Vacaciones del personal, licencias por enfermedad, licencias por maternidad.
+[00:46:26.880 - 00:46:34.060] Eso te demanda a tener otro personal en reserva para cubrir todas esas cosas.
+[00:46:34.380 - 00:46:36.900] Si me dejo entender, ¿alguien tiene alguna pregunta?
+[00:46:40.000 - 00:46:59.860] No hay preguntas.
+[00:47:10.000 - 00:47:35.780] bien entonces entendida esa parte S entonces cuando nosotros veamos el tema del outsourcing o del por ejemplo
+[00:47:36.920 - 00:47:41.000] ¿le conviene más a la empresa tener recursos técnicos propios
+[00:47:41.000 - 00:47:42.140] o técnicos de externo?
+[00:47:44.700 - 00:47:46.520] Claro, o sea, claro, licencias,
+[00:47:46.520 - 00:47:48.360] de software, tú vas a adquirir software,
+[00:47:48.500 - 00:47:49.580] pero más que todo las licencias.
+[00:47:51.760 - 00:47:53.900] En cambio, cuando haces outsourcing,
+[00:47:53.900 - 00:47:56.540] ¿qué hace la empresa que te da el outsourcing?
+[00:47:57.340 - 00:47:59.380] viene con el equipamiento
+[00:47:59.380 - 00:48:01.740] trae su personal
+[00:48:01.740 - 00:48:05.360] y
+[00:48:05.360 - 00:48:08.240] ellos se encargan de la parte
+[00:48:08.240 - 00:48:10.020] de la parte tecnológica
+[00:48:17.020 - 00:48:18.300] ¿ustedes, nadie de ustedes
+[00:48:18.300 - 00:48:19.800] ha trabajado
+[00:48:19.800 - 00:48:22.680] o trabajan por ejemplo
+[00:48:22.680 - 00:48:23.480] para una empresa
+[00:48:23.480 - 00:48:24.780] para las empresas.
+[00:48:25.460 - 00:48:26.820] A ver, acá están las empresas que he visto.
+[00:48:27.060 - 00:48:28.960] Ahorita les digo a ver cuáles son las empresas que...
+[00:48:37.700 - 00:48:38.820] Arrendamiento de TI.
+[00:48:39.440 - 00:48:52.140] Estamos hablando de equipos de c comunicaciones soluciones de CCTV outsourcing de impresi incluso otras impresoras servidores storage e infraestructura
+[00:48:53.880 - 00:48:58.020] Cuando hablamos de TI, muchas empresas hacen la cuenta así.
+[00:48:59.080 - 00:49:01.720] El sueldo de un técnico en soporte.
+[00:49:03.800 - 00:49:07.120] El costo real va mucho más allá del sueldo.
+[00:49:07.120 - 00:49:09.980] de acuerdo con datos publicados
+[00:49:09.980 - 00:49:12.380] el sueldo promedio de un técnico en soporte
+[00:49:12.380 - 00:49:13.780] está entre los 1.400
+[00:49:13.780 - 00:49:16.520] y 1.500 soles
+[00:49:16.520 - 00:49:17.520] mensuales
+[00:49:17.520 - 00:49:20.100] ¿qué les parece el sueldo?
+[00:49:20.180 - 00:49:21.120] ¿muy poco o está bien?
+[00:49:23.860 - 00:49:25.320] el sueldo va a depender
+[00:49:25.320 - 00:49:26.980] bajito ¿no?
+[00:49:28.420 - 00:49:30.200] bueno, este es un valor promedio
+[00:49:30.200 - 00:49:31.960] o sea, tampoco no es muy alto
+[00:49:31.960 - 00:49:34.000] ni muy bajo, es un valor promedio
+[00:49:34.000 - 00:49:37.320] tal vez en Lima
+[00:49:37.320 - 00:49:39.760] el costo de vida es mucho más
+[00:49:39.760 - 00:49:41.820] creo que este sueldo no
+[00:49:41.820 - 00:49:42.540] serviría
+[00:49:42.540 - 00:49:55.620] si pues es un sueldo promedio nada más
+[00:49:55.620 - 00:49:57.340] ojo y estamos hablando de
+[00:49:57.340 - 00:50:00.000] estamos hablando
+[00:50:00.000 - 00:50:06.060] hablando de solamente un técnico en soporte, nada más, sin otra responsabilidad.
+[00:50:07.480 - 00:50:10.940] Ahora el sueldo va a depender de la responsabilidad de las que asumes también.
+[00:50:15.440 - 00:50:18.360] La mayoría es de Lima, también hay provincias. ¿Qué provincias hay a ver?
+[00:50:19.800 - 00:50:21.540] Hay de provincias también. ¿Qué provincias hay?
+[00:50:24.540 - 00:50:25.360] Solamente Lima.
+[00:50:30.000 - 00:50:40.100] claro, muy bien, así es correcto
+[00:50:40.100 - 00:50:41.620] se va disparando, muy bien
+[00:50:41.620 - 00:50:47.100] todos son de Lima entonces
+[00:50:47.100 - 00:50:58.100] en Lima el costo de vida es mucho más amplio
+[00:51:00.000 - 00:51:06.140] las distancias
+[00:51:06.140 - 00:51:07.460] para movilizarse también
+[00:51:07.460 - 00:51:21.460] les cuento que yo soy de Trujillo me encuentro en las Chimbote Chimbote est cerca tambi casi tambi creo que es la misma El mismo est de trabajo tambi en Chimbote
+[00:51:22.020 - 00:51:26.280] En Trujillo el estándar de vida es un poco más bajo que en Lima, pues.
+[00:51:26.360 - 00:51:27.680] Lima es mucho más amplio.
+[00:51:29.580 - 00:51:34.400] El costo es mucho más elevado. Taxis, pasajes, ¿no?
+[00:51:35.600 - 00:51:37.740] Gastos, ¿no? Entonces...
+[00:51:37.740 - 00:51:40.680] Pero más o menos así es el costo, digamos, inicialmente, ¿no?
+[00:51:41.840 - 00:51:48.660] Entonces, ¿solamente usted cree que tiene que ver en esta parte nomás del sueldo para los trabajadores?
+[00:51:48.900 - 00:51:52.240] No, pues ahí vienen otras cosas más adicionales.
+[00:51:56.960 - 00:52:00.660] Claro, lógico, ya es cuestión ya de...
+[00:52:00.660 - 00:52:03.600] A esto hay que sumar prestaciones, herramientas...
+[00:52:03.600 - 00:52:08.880] mire, escúcheme, estamos hablando de un sueldo básico para un empleado que recién inicia, 1.500.
+[00:52:08.880 - 00:52:19.020] A esto hay que sumarle herramientas, prestaciones, licencias, capacitación, infraestructura, vacaciones, reemplazos.
+[00:52:19.880 - 00:52:22.840] Porque si se va de vacaciones, tiene que haber alguien que lo reemplace.
+[00:52:23.460 - 00:52:37.760] Si va de licencia de maternidad tiene que haber alguien que lo reemplace Licencia de salud tambi alguien que lo reemplace Entonces sobre todo la necesidad de contar con m de un perfil especializado cuando el servicio o soporte se complica
+[00:52:38.300 - 00:52:43.040] Porque una sola persona difícilmente puede ser todo al mismo tiempo.
+[00:52:43.920 - 00:52:46.440] Soporte de usuarios, especialistas en hardware,
+[00:52:47.020 - 00:52:50.600] administrador de redes, experto en software y licenciamiento,
+[00:52:50.600 - 00:52:54.580] responsable de infraestructura, soporte
+[00:52:54.580 - 00:52:56.060] antiincidencia, especialista en
+[00:52:56.060 - 00:52:58.860] ciberseguridad y aquí es donde muchas
+[00:52:58.860 - 00:53:00.660] empresas comienzan a preguntarse
+[00:53:00.660 - 00:53:03.940] ¿necesito tener un departamento completo
+[00:53:03.940 - 00:53:07.800] de TI en nómina o necesito tener acceso
+[00:53:07.800 - 00:53:09.500] a un equipo especializado cuando mi
+[00:53:09.500 - 00:53:12.120] operación lo requiera? O sea, ¿realmente
+[00:53:12.120 - 00:53:13.740] lo necesitan tener todos los días en
+[00:53:13.740 - 00:53:16.020] nómina toda esta gente o realmente
+[00:53:16.020 - 00:53:17.920] cuando se lo requieran nada más a una
+[00:53:17.920 - 00:53:19.640] parte? Lógicamente hay que haber gente
+[00:53:19.640 - 00:53:22.940] que en nómina casi todo el tiempo, ¿no?
+[00:53:22.980 - 00:53:26.720] Pero, o solamente cuando se lo requiera nada más,
+[00:53:27.020 - 00:53:28.100] ese también es otro punto.
+[00:53:29.580 - 00:53:31.280] Estas son las empresas líderes que hay.
+[00:53:36.700 - 00:53:59.200] Enitidata Encora Cambia Indra Stephanie Group Zapia Estas empresas por ejemplo un ejemplo claro mira T compras una laptop en un mall Digamos un ejemplo que lo compras en Saga
+[00:53:59.200 - 00:53:59.720] en Saga
+[00:53:59.720 - 00:54:03.240] la empresa que
+[00:54:03.240 - 00:54:05.060] Saga te vende el equipo
+[00:54:05.060 - 00:54:07.140] ahí
+[00:54:07.140 - 00:54:08.960] existen
+[00:54:08.960 - 00:54:11.800] marcas, las marcas
+[00:54:11.800 - 00:54:13.600] que lideran
+[00:54:13.600 - 00:54:15.340] el mercado de laptops
+[00:54:15.340 - 00:54:17.440] a ver, díganme una marca
+[00:54:17.440 - 00:54:23.280] que les parezca buena en laptops
+[00:54:29.200 - 00:54:35.720] Toshiba, Toshiba todavía sigue saliendo
+[00:54:35.720 - 00:54:40.300] Lenovo, Timpán, muy bien
+[00:54:40.300 - 00:54:44.200] Toshiba sí, ¿no? La que no sale es HP, creo, ¿no?
+[00:54:44.340 - 00:54:45.040] Ni Compact, ¿no?
+[00:54:46.940 - 00:54:48.040] Asus, muy bien
+[00:54:48.040 - 00:54:50.300] Digamos, tomemos de ejemplo Lenovo, ¿ya?
+[00:54:51.860 - 00:54:54.100] En Zagat, Falabella me compro mi Lenovo
+[00:54:54.100 - 00:54:55.520] Ya está
+[00:54:55.520 - 00:54:58.460] Me venden a un precio, todo bueno, ya
+[00:54:59.200 - 00:55:00.000] y
+[00:55:00.000 - 00:55:04.060] después de una semana
+[00:55:04.060 - 00:55:05.900] o a los dos días
+[00:55:05.900 - 00:55:08.080] me doy cuenta de que
+[00:55:08.080 - 00:55:10.140] el office está vencido a la licencia
+[00:55:10.140 - 00:55:12.460] o el antivirus
+[00:55:12.460 - 00:55:13.380] está vencido
+[00:55:13.380 - 00:55:16.440] o requiero de algún detalle
+[00:55:16.440 - 00:55:18.400] alguna novedad o algo
+[00:55:18.400 - 00:55:20.640] ahí en el laptop que no funciona muy bien
+[00:55:20.640 - 00:55:22.680] no soy
+[00:55:22.680 - 00:55:24.140] digamos no somos de informática
+[00:55:24.140 - 00:55:26.240] somos usuarios
+[00:55:26.240 - 00:55:27.320] últimos ya
+[00:55:27.320 - 00:55:29.800] se devuelve
+[00:55:29.800 - 00:55:30.740] no se devuelve
+[00:55:30.740 - 00:55:33.240] la empresa
+[00:55:33.240 - 00:55:35.800] Saga Falabella en este caso solamente
+[00:55:35.800 - 00:55:38.160] alquila en este caso
+[00:55:38.160 - 00:55:40.080] a las marcas
+[00:55:40.080 - 00:55:43.160] cualquier fallo
+[00:55:43.160 - 00:55:44.720] primeramente empiezan
+[00:55:44.720 - 00:55:47.440] con los Heldeps
+[00:55:47.440 - 00:55:49.760] ¿quienes son los Heldeps?
+[00:55:50.500 - 00:55:51.600] los que
+[00:55:51.600 - 00:55:54.160] resuelven, solucionan casos
+[00:55:54.160 - 00:55:56.060] de manera
+[00:55:56.060 - 00:56:03.440] virtual, es decir, no, yo hago un reclamo o algo, alguna petición a la empresa o al
+[00:56:03.440 - 00:56:20.160] que me ha vendido ellos te direccionan hacia un agente de soporte de Heldeps hacen los Heldeps de manera virtual remotamente te asesoran
+[00:56:20.160 - 00:56:23.400] y dan soluciones
+[00:56:23.400 - 00:56:26.020] si es problema de licencias, activan licencias
+[00:56:26.020 - 00:56:27.180] ¿no?
+[00:56:28.900 - 00:56:30.000] capacitan al personal
+[00:56:30.000 - 00:56:32.200] a los clientes en uso
+[00:56:32.200 - 00:56:34.320] entonces te das cuenta que la tienda
+[00:56:34.320 - 00:56:35.760] se desentiende de esa área
+[00:56:35.760 - 00:56:38.360] ese Heldeps que te han puesto
+[00:56:38.360 - 00:56:39.920] no pertenece
+[00:56:39.920 - 00:56:41.920] ni a la tienda Saga Falabella
+[00:56:41.920 - 00:56:44.160] ni a la marca Lenovo
+[00:56:44.160 - 00:56:48.040] ellos trabajan
+[00:56:48.040 - 00:56:50.340] para una de estas marcas que están aquí
+[00:56:50.340 - 00:56:52.640] en la PPT
+[00:56:52.640 - 00:57:00.320] muy bien, gracias por el dato
+[00:57:00.320 - 00:57:00.940] ¿seguro?
+[00:57:02.600 - 00:57:03.800] ¿trabajas ahí o algo?
+[00:57:07.160 - 00:57:08.820] lo voy a apuntar ya
+[00:57:09.920 - 00:57:22.080] muy bien, gracias por el dato
+[00:57:22.080 - 00:57:36.760] si lo que paran cambiando de nombre tambi es correcto cierto muy bien entonces mire cree que la empresa ellos manejan este tema de atender
+[00:57:37.180 - 00:57:39.100] o sea, no pueden dejar de lado a sus clientes,
+[00:57:39.200 - 00:57:40.980] ojo, como son tus
+[00:57:40.980 - 00:57:42.800] clientes, tú no lo puedes dejar de lado, porque
+[00:57:42.800 - 00:57:44.780] si tú compras una de Lenovo, te sale
+[00:57:44.780 - 00:57:47.060] excelente, vas a
+[00:57:47.060 - 00:57:49.180] recomendar esa marca para otros
+[00:57:49.180 - 00:57:50.880] compradores, ¿correcto?
+[00:57:51.360 - 00:57:53.120] Entonces, no pueden dejar
+[00:57:53.120 - 00:57:54.360] de lado a sus clientes.
+[00:57:55.000 - 00:57:58.680] entonces
+[00:57:58.680 - 00:58:01.340] gestiona su
+[00:58:01.340 - 00:58:03.460] Heldebs, algo que se puede
+[00:58:03.460 - 00:58:05.000] resolver de manera virtual
+[00:58:05.000 - 00:58:07.000] se gestiona o
+[00:58:07.000 - 00:58:09.500] te capacita también en el uso de las
+[00:58:09.500 - 00:58:11.160] de la
+[00:58:11.160 - 00:58:12.300] máquina
+[00:58:12.300 - 00:58:15.480] todo eso lo gestiona
+[00:58:15.480 - 00:58:19.520] de manera remota
+[00:58:19.520 - 00:58:20.040] por ejemplo
+[00:58:20.040 - 00:58:22.680] ahora
+[00:58:22.680 - 00:58:25.900] si es problema más avanzado aún
+[00:58:25.900 - 00:58:29.860] si el problema es mucho más
+[00:58:29.860 - 00:58:30.700] avanzado aún
+[00:58:30.700 - 00:58:33.840] ya no es para Heldeps
+[00:58:33.840 - 00:58:35.520] es para ServiceDeck
+[00:58:35.520 - 00:58:37.740] o especialistas
+[00:58:37.740 - 00:58:38.440] en soporte
+[00:58:38.440 - 00:58:52.060] de igual manera la empresa ninguna de las dos empresas ni la marca ni la que te vendi se hace cargo de ellos ellos tienen su hacen outsourcing hacen outsourcing
+[00:58:52.060 - 00:58:54.020] desde el Heldeps, que el Heldeps te asesora
+[00:58:54.020 - 00:58:56.520] te guía
+[00:58:56.520 - 00:58:59.520] te puede resolver alguna
+[00:58:59.520 - 00:59:01.220] alguna dificultad
+[00:59:01.220 - 00:59:02.280] remotamente
+[00:59:02.280 - 00:59:05.400] pero si es que no hay ninguno de sus
+[00:59:05.400 - 00:59:07.120] casos, ya es este soporte
+[00:59:07.120 - 00:59:09.700] también la misma marca
+[00:59:09.700 - 00:59:11.500] tiene agentes de servicio.
+[00:59:12.780 - 00:59:13.600] Entonces, ¿te das cuenta
+[00:59:13.600 - 00:59:14.620] que es outsourcing eso?
+[00:59:18.000 - 00:59:20.160] La marca no se preocupa,
+[00:59:20.280 - 00:59:21.700] la marca Lenovo, en este caso que estamos
+[00:59:21.700 - 00:59:23.780] hablando, no se preocupa
+[00:59:23.780 - 00:59:26.020] porque este personal tiene que estar trabajando
+[00:59:26.020 - 00:59:27.180] de lunes a viernes,
+[00:59:28.180 - 00:59:29.480] de tal horario a tal horario,
+[00:59:29.940 - 00:59:30.960] no se preocupa de ello.
+[00:59:31.900 - 00:59:33.900] No se preocupa por el producto,
+[00:59:34.340 - 00:59:35.820] digamos, el soporte, pagar
+[00:59:35.820 - 00:59:37.420] a los soportes técnicos,
+[00:59:38.120 - 00:59:39.280] pagar a los Heldeps,
+[00:59:39.700 - 00:59:42.120] Si un GELDEB se enferma, ¿quién lo reemplaza?
+[00:59:42.200 - 00:59:43.080] Tengo que pagarlo.
+[00:59:43.920 - 00:59:46.580] Si es que tiene licencia por maternidad,
+[00:59:46.740 - 00:59:48.180] tengo que pagar hasta cierto punto,
+[00:59:48.280 - 00:59:52.240] porque de ahí la parte de licencia le paga de salud.
+[00:59:53.380 - 00:59:56.740] Tengo que conseguir a alguien que reemplace.
+[01:00:00.000 - 01:00:08.680] Entonces te das cuenta de que hay mucho más allá que simplemente infraestructura tecnológica.
+[01:00:08.680 - 01:00:18.340] O sea, va mucho más allá que comprar 20 computadoras para mi organización o 50 computadoras para mi organización. Va mucho más allá que eso.
+[01:00:30.000 - 01:00:42.700] Y sobre todo, agilizar los servicios de TI sin que se vea perjudicado la persona más importante en ETIL.
+[01:00:43.200 - 01:00:47.280] En ETIL la persona más importante es el cliente o usuario.
+[01:00:48.160 - 01:00:51.300] Ojo, aunque usuario y cliente no es lo mismo, es diferente.
+[01:00:52.660 - 01:00:57.000] La diferencia entre cliente y usuario, a ver, me pueden decir...
+[01:01:00.000 - 01:01:03.420] ¿Quién es el cliente y quién es el usuario? ¿O es lo mismo?
+[01:01:16.580 - 01:01:32.460] lo mismo cliente con usuario dicen a ver
+[01:01:40.000 - 01:01:42.940] no es lo mismo, muy bien
+[01:01:42.940 - 01:01:44.820] ojo que
+[01:01:44.820 - 01:01:46.380] en este nuevo sistema
+[01:01:46.380 - 01:01:48.500] ya no es este
+[01:01:48.500 - 01:01:50.320] ya no es el
+[01:01:50.320 - 01:01:53.020] Blackboard Collaboration, es otro sistema
+[01:01:53.020 - 01:01:54.940] donde detecta al final
+[01:01:54.940 - 01:01:56.040] de la clase
+[01:01:56.040 - 01:01:59.500] sale quien tiene el nivel de compromiso
+[01:01:59.500 - 01:02:00.460] y quien no
+[01:02:00.460 - 01:02:03.280] aquí me detecta también quien está
+[01:02:03.280 - 01:02:05.320] en clase y quien está
+[01:02:05.320 - 01:02:06.960] haciendo otra cosa y no está en la clase
+[01:02:06.960 - 01:02:09.520] el nivel de compromiso
+[01:02:09.520 - 01:02:11.600] se detecta por las participaciones también
+[01:02:11.600 - 01:02:14.220] ya
+[01:02:14.220 - 01:02:17.300] cliente en la empresa
+[01:02:17.300 - 01:02:19.500] usuario y trabajador, muy bien
+[01:02:19.500 - 01:02:20.160] está bien
+[01:02:20.160 - 01:02:23.440] y TIL
+[01:02:23.440 - 01:02:34.160] no lo ve de esa manera TIL lo ve a ambos importantes no lo ve tampoco usuario en este caso el cliente es el que compra el producto y usuario es el que lo va a usar
+[01:02:36.360 - 01:02:37.160] Y TIL
+[01:02:37.160 - 01:02:39.080] cree, según las buenas
+[01:02:39.080 - 01:02:40.700] prácticas, que si el usuario
+[01:02:40.700 - 01:02:43.120] no se siente a gusto, no va
+[01:02:43.120 - 01:02:44.080] a dar un buen servicio.
+[01:02:46.280 - 01:02:46.940] Si tú compras
+[01:02:46.940 - 01:02:49.320] un sistema que no es animado,
+[01:02:50.140 - 01:02:50.740] no tiene,
+[01:02:51.020 - 01:02:52.840] digamos, ese tema de
+[01:02:52.840 - 01:02:54.980] fácil uso o
+[01:02:54.980 - 01:02:56.740] el tema de que sea...
+[01:02:56.740 - 01:02:58.920] ¿Cómo se llama la palabra cuando tú te
+[01:02:58.920 - 01:03:00.920] te haces
+[01:03:00.920 - 01:03:02.480] afinidad a un producto?
+[01:03:03.380 - 01:03:04.940] ¿Te vuelves afín a un producto?
+[01:03:05.260 - 01:03:07.120] ¿O te... o sea, no te
+[01:03:07.120 - 01:03:08.580] no te desgasta, no te
+[01:03:08.580 - 01:03:11.180] ecosistema, no te
+[01:03:11.180 - 01:03:13.040] mantiene, digamos, adaptativo, o sea
+[01:03:13.040 - 01:03:15.060] es un sistema amigable,
+[01:03:15.200 - 01:03:17.520] intuitivo. Muy bien, esa es la palabra, intuitivo.
+[01:03:19.460 - 01:03:21.080] Si el sistema no es intuitivo
+[01:03:21.080 - 01:03:23.080] va a haber problemas
+[01:03:23.080 - 01:03:25.540] tanto para el usuario como para el cliente
+[01:03:25.540 - 01:03:27.400] entonces
+[01:03:27.400 - 01:03:29.240] estas empresas
+[01:03:29.240 - 01:03:30.080] no dejan de lado
+[01:03:30.080 - 01:03:32.980] sin verse afectado
+[01:03:32.980 - 01:03:35.680] la empresa
+[01:03:35.680 - 01:03:36.140] es decir
+[01:03:36.140 - 01:03:39.100] han escuchado hablar del core business
+[01:03:39.100 - 01:03:50.780] claro
+[01:03:50.780 - 01:03:52.920] el certificado está a 550 dólares
+[01:03:52.920 - 01:03:53.580] estimado
+[01:03:53.580 - 01:03:58.820] y para tener el certificado
+[01:03:58.820 - 01:04:00.360] no basta un curso de acá
+[01:04:00.360 - 01:04:02.320] es un curso aparte de especialización
+[01:04:02.320 - 01:04:05.160] un curso de especializaciones
+[01:04:10.000 - 01:04:33.560] Si usted lidera proyectos, supervisor de centros de servicio, atención al cliente, maneja una cierta cantidad de técnicos, le es indispensable para las empresas grandes el tener la certificación internacional.
+[01:04:33.560 - 01:04:49.680] ¿Han visto los trabajos también de tecnologías? Por ejemplo, en huevos de la calera, en empresas de tecnología que te piden conocimiento de ITIL, no la certificación.
+[01:05:00.000 - 01:05:16.140] ¿No? Te piden conocimientos de la certificación, como te repito, si tú manejas el sector tecnológico, es decir, nivel de soporte técnico.
+[01:05:16.140 - 01:05:20.140] claro
+[01:05:20.140 - 01:05:21.220] solicitar
+[01:05:21.220 - 01:05:23.080] pero es que también el costo de la
+[01:05:23.080 - 01:05:25.640] por ejemplo, yo he llevado el curso
+[01:05:25.640 - 01:05:27.280] de ITIL 4, de ITIL 5 no
+[01:05:27.280 - 01:05:29.060] te soy sincero, no he llevado ITIL 5 porque
+[01:05:29.060 - 01:05:31.600] ITIL 5 recién ha salido en este
+[01:05:31.600 - 01:05:33.380] mes, en febrero ha salido, perdón
+[01:05:33.380 - 01:05:34.260] no salió en este mes
+[01:05:34.260 - 01:05:37.380] pero no lo he hecho la
+[01:05:37.380 - 01:05:38.780] certificación final
+[01:05:38.780 - 01:05:41.540] tengo para dar el examen
+[01:05:41.540 - 01:05:43.240] del 4, pero ya no existe el 4
+[01:05:43.240 - 01:05:44.100] ahora existe el 5
+[01:05:44.100 - 01:05:47.280] lo que se puede hacer es un puente
+[01:05:47.280 - 01:05:51.440] para que te den el material oficial
+[01:05:51.440 - 01:05:52.280] de
+[01:05:52.280 - 01:05:55.220] Pupilcer, Pupilcer es la empresa que
+[01:05:55.220 - 01:05:57.360] es la que está a cargo dueña
+[01:05:57.360 - 01:05:58.040] ahorita de Itilia
+[01:05:58.040 - 01:06:01.720] pero para docencia
+[01:06:01.720 - 01:06:03.860] no requiere pues un certificado
+[01:06:03.860 - 01:06:04.440] de ese tipo
+[01:06:04.440 - 01:06:07.400] igual manera para
+[01:06:07.400 - 01:06:20.500] solamente si t lideras equipos de soporte a nivel de gesti a nivel gerencial si requieres pero si t eres t manejas la parte t
+[01:06:20.500 - 01:06:21.360] la parte operativa
+[01:06:21.360 - 01:06:24.940] solamente se requieren los conocimientos
+[01:06:24.940 - 01:06:26.500] para estar de acuerdo
+[01:06:26.500 - 01:06:28.400] a lo que
+[01:06:28.400 - 01:06:30.580] demanda ITIL, la gestión de tickets
+[01:06:30.580 - 01:06:32.820] la gestión de incidentes, la gestión de problemas
+[01:06:32.820 - 01:06:34.560] gestión de cambios
+[01:06:34.560 - 01:06:36.540] work around, errores
+[01:06:36.540 - 01:06:37.440] conocidos
+[01:06:37.440 - 01:06:41.020] gestión de despliegue
+[01:06:41.020 - 01:06:44.820] esos te piden mayormente
+[01:06:44.820 - 01:06:47.100] entonces si se dan cuenta
+[01:06:47.100 - 01:06:49.660] como las empresas de tecnología
+[01:06:49.660 - 01:06:52.260] se basan en el core business
+[01:06:52.260 - 01:06:55.640] ¿qué es el core business?
+[01:06:55.760 - 01:06:58.860] el core business es el corazón del negocio
+[01:06:58.860 - 01:07:00.320] de la empresa
+[01:07:00.320 - 01:07:08.900] el PMI cuesta
+[01:07:08.900 - 01:07:11.300] 800 dólares creo que está también
+[01:07:11.300 - 01:07:13.160] ese también es de adquieres y tú gestionas
+[01:07:13.160 - 01:07:13.820] proyectos
+[01:07:13.820 - 01:07:16.620] a nivel gerencial después
+[01:07:16.620 - 01:07:19.100] bueno con conocimientos nomás
+[01:07:19.100 - 01:07:24.340] les digo
+[01:07:24.340 - 01:07:36.920] desde ya les digo que si ustedes quieren llevar a una gesti de certificaci internacional que tomen este curso como
+[01:07:36.920 - 01:07:37.620] una iniciativa
+[01:07:37.620 - 01:07:40.440] este curso no te lleva a una certificación internacional
+[01:07:40.440 - 01:07:42.740] es que aquí el curso
+[01:07:42.740 - 01:07:44.440] se enfoca en el pensamiento de ITIL
+[01:07:44.440 - 01:07:45.980] no es un curso de ITIL
+[01:07:45.980 - 01:07:48.120] como para certificación
+[01:07:48.120 - 01:07:50.900] hay empresas
+[01:07:50.900 - 01:07:52.120] que también
+[01:07:52.120 - 01:07:54.660] no se dejen engañar tampoco
+[01:07:55.000 - 01:07:57.860] si hay empresas
+[01:07:57.860 - 01:08:00.000] que se dedican al rubro de
+[01:08:00.000 - 01:08:02.860] capacitación para la certificación
+[01:08:02.860 - 01:08:03.540] estil
+[01:08:03.540 - 01:08:05.860] pero si la empresa te cobra
+[01:08:05.860 - 01:08:08.260] 400 soles
+[01:08:08.260 - 01:08:10.240] por el curso
+[01:08:10.240 - 01:08:12.540] 500 soles
+[01:08:12.540 - 01:08:13.280] por el curso
+[01:08:13.280 - 01:08:15.200] 800
+[01:08:15.200 - 01:08:20.380] te digo que lo pienses porque no te está
+[01:08:20.380 - 01:08:22.580] capacitando, para que te esté capacitando
+[01:08:22.580 - 01:08:23.640] a un nivel oficial
+[01:08:23.640 - 01:08:25.960] el curso debe costar más de
+[01:08:25.960 - 01:08:28.100] 1300 con descuento
+[01:08:28.100 - 01:08:28.660] por ahí 1200
+[01:08:28.660 - 01:08:34.400] tienen los libros
+[01:08:34.400 - 01:08:35.380] oficiales
+[01:08:35.380 - 01:08:37.880] te comparten material oficial
+[01:08:41.880 - 01:08:50.120] y el examen est autorizados a brindarte un voucher de descuento
+[01:08:50.120 - 01:08:51.480] para el examen, solamente
+[01:08:51.480 - 01:08:53.940] los que son partners nada más
+[01:08:53.940 - 01:08:56.080] y en el Perú son
+[01:08:56.080 - 01:08:57.240] pocos los que son partners
+[01:08:57.240 - 01:08:59.460] Cibertech
+[01:08:59.460 - 01:09:00.880] tiene una
+[01:09:00.880 - 01:09:02.720] tiene una academia
+[01:09:02.720 - 01:09:04.720] de alta tecnología
+[01:09:04.720 - 01:09:05.760] no sé si han escuchado hablar
+[01:09:05.760 - 01:09:08.500] que te capacita
+[01:09:08.500 - 01:09:12.300] no sé si tendrá para la certificación
+[01:09:12.300 - 01:09:14.260] ITIL 5, porque para la 4
+[01:09:14.260 - 01:09:14.840] sí lo tenía
+[01:09:14.840 - 01:09:17.940] pero para ITIL 5 no sé exactamente
+[01:09:17.940 - 01:09:20.120] si él lo tiene todavía, la división
+[01:09:20.120 - 01:09:21.360] de alta tecnología se llama
+[01:09:21.360 - 01:09:28.060] ya entonces no se
+[01:09:28.060 - 01:09:29.620] dejen engañar, por ahí he visto
+[01:09:29.620 - 01:09:32.220] en capacitaciones
+[01:09:32.220 - 01:09:34.040] he visto que ponen ITIL 5
+[01:09:34.040 - 01:09:36.060] precio 150
+[01:09:36.060 - 01:09:37.820] no les debo decir
+[01:09:37.820 - 01:09:44.000] la empresa ya ha previsto que les dan o 300 o 400 soles creo no no es una certificación oficial
+[01:09:51.780 - 01:09:56.920] es más del curso que es un curso que estamos llevando ahorita acá como estamos llevando nosotros
+[01:10:00.000 - 01:10:04.100] ya entonces
+[01:10:04.100 - 01:10:05.840] volvamos a nuestro caso
+[01:10:05.840 - 01:10:12.880] entonces se dan cuenta
+[01:10:12.880 - 01:10:14.900] las empresas
+[01:10:14.900 - 01:10:16.760] se dedican al core business
+[01:10:16.760 - 01:10:18.800] es decir, se dedican a su
+[01:10:18.800 - 01:10:20.380] a concentrarse
+[01:10:20.380 - 01:10:22.580] a centrarse en el
+[01:10:22.580 - 01:10:24.620] corazón de su negocio
+[01:10:24.620 - 01:10:28.540] en este caso Lenovo
+[01:10:28.540 - 01:10:30.540] se dedican directamente a las ventas
+[01:10:30.540 - 01:10:34.540] a las ventas, a la parte de
+[01:10:34.540 - 01:10:36.260] ventas de sus productos
+[01:10:36.260 - 01:10:38.000] tecnológicos que tienen en este caso
+[01:10:38.000 - 01:10:40.480] ya la atención al
+[01:10:40.480 - 01:10:42.800] cliente, solución a problemas pequeños
+[01:10:42.800 - 01:10:44.720] solución a problemas más graves
+[01:10:44.720 - 01:10:46.400] lo hace la parte de
+[01:10:46.400 - 01:10:47.320] outsourcing, ¿no?
+[01:10:48.240 - 01:10:50.340] seguramente hacen convenios
+[01:10:50.340 - 01:10:51.980] ahí donde
+[01:10:51.980 - 01:10:54.620] demandan, ellos se encargan
+[01:10:54.620 - 01:10:55.780] de la parte de soporte
+[01:10:56.660 - 01:11:00.100] Lógicamente en el convenio que hacen tienen que tener los SLA.
+[01:11:02.100 - 01:11:08.060] Los SLA o el SLA son los acuerdos del nivel de servicio.
+[01:11:09.400 - 01:11:22.160] en qu consiste los SLA Los acuerdos del nivel de servicios por ejemplo yo tengo una empresa que se dedica a dar un servicio
+[01:11:22.160 - 01:11:27.680] y tengo un área de quejas o reclamos, ¿no?
+[01:11:27.720 - 01:11:31.480] Que las quejas o reclamos trato de que sean personales.
+[01:11:35.080 - 01:11:36.040] Tengo equipamiento.
+[01:11:36.040 - 01:11:40.420] claro, el tiempo, entonces yo tengo un
+[01:11:40.420 - 01:11:42.060] equipamiento, infraestructura
+[01:11:42.060 - 01:11:44.280] que tiene que estar trabajando a las
+[01:11:44.280 - 01:11:45.660] 24 horas del día
+[01:11:45.660 - 01:11:48.340] tengo 10
+[01:11:48.340 - 01:11:50.680] máquinas ahí que he hecho arrendamiento
+[01:11:50.680 - 01:11:52.500] 10, con personal
+[01:11:52.500 - 01:11:54.400] que está trabajando, capacitado, yo no
+[01:11:54.400 - 01:11:56.040] me encargo de eso, yo
+[01:11:56.040 - 01:11:58.300] hago el alquiler, el arrendamiento
+[01:11:58.300 - 01:11:59.340] mediante outsourcing
+[01:11:59.340 - 01:12:02.400] prefiero pagar mensual
+[01:12:02.400 - 01:12:03.920] por ello y que se encarguen
+[01:12:03.920 - 01:12:05.780] la empresa, por ejemplo
+[01:12:05.780 - 01:12:08.500] la señorita María que está sentada
+[01:12:08.500 - 01:12:09.480] ahí en el
+[01:12:09.480 - 01:12:11.980] en el punto de control
+[01:12:11.980 - 01:12:14.560] en el punto de reclamo número 5 se embarazó
+[01:12:14.560 - 01:12:18.100] licencia tres meses
+[01:12:18.100 - 01:12:19.960] ¿quién cubre? tengo que poner
+[01:12:19.960 - 01:12:22.240] solicitud ¿quién cubre?
+[01:12:22.340 - 01:12:24.440] para cubrirla, no, eso se encarga la empresa
+[01:12:24.440 - 01:12:36.120] que te brinda el outsourcing ellos se encargan de eso tal persona le dio el dengue no hay quien cubra ese punto eso se encarga la empresa de poner a alguien
+[01:12:36.120 - 01:12:38.880] porque yo requiero que las 24 horas del día
+[01:12:38.880 - 01:12:40.560] haya atención en ese punto
+[01:12:40.560 - 01:12:45.640] la empresa tiene que encargarse de eso
+[01:12:45.640 - 01:12:48.120] la máquina cae
+[01:12:48.120 - 01:12:48.940] no hay internet
+[01:12:48.940 - 01:12:52.060] no sé algún fallo de fuente
+[01:12:52.060 - 01:12:56.840] según los acuerdos de nivel de servicio
+[01:12:56.840 - 01:13:00.640] dice que un equipo puede fallar
+[01:13:00.640 - 01:13:04.080] durante máximo el tiempo de interrupción
+[01:13:04.080 - 01:13:06.560] máximo es de 30 minutos, una hora, no sé
+[01:13:06.560 - 01:13:10.880] lo que pasa es que cuando la empresa viene a hacer estos servicios
+[01:13:10.880 - 01:13:14.300] viene con backups, dos o tres backups en espera
+[01:13:14.300 - 01:13:19.980] cae un equipo, automáticamente entra el otro equipo a tallar
+[01:13:22.060 - 01:13:27.140] ¿Sí? ¿Se entiende?
+[01:13:27.540 - 01:13:30.340] Ejemplo, yo trabajo para una empresa
+[01:13:30.340 - 01:13:33.900] no sé, me fui a un bautizo, me fui a una fiesta
+[01:13:33.900 - 01:13:35.880] al otro día no me voy a trabajar
+[01:13:35.880 - 01:13:39.780] pero donde yo trabajo es un punto crítico
+[01:13:39.780 - 01:13:52.580] no puede haber desatenci no pueden dejar de atender la empresa que est dando el servicio se encarga no s de poner a alguien en ese punto para cubrir a la persona que no ha ido
+[01:13:53.160 - 01:13:58.120] Y la empresa que es la que compra esos servicios o la organización,
+[01:13:58.960 - 01:14:02.900] ellos solamente se centran en la parte que le corresponde
+[01:14:02.900 - 01:14:05.280] de gestionar su negocio.
+[01:14:05.900 - 01:14:09.400] La otra parte lo deja al outsourcing,
+[01:14:09.400 - 01:14:13.540] sino el que en este caso ha entrado a tallar ahí.
+[01:14:14.960 - 01:14:16.340] ¿Vieron el video del grupo FG?
+[01:14:16.520 - 01:14:21.220] El grupo FG acá en la zona de la Libertad, Trujillo, Piura,
+[01:14:21.220 - 01:14:28.220] es una de las empresas líderes que dan atención a los servicios de arrendamiento.
+[01:14:32.920 - 01:14:35.560] En Lima, ¿qué empresas cambia también?
+[01:14:35.560 - 01:14:40.540] hace eso creo hace el tema de el tema de infraestructura tecnológica y nitidata
+[01:14:40.540 - 01:14:47.440] da servicios pero de servicios de software no software aplicaciones móviles
+[01:14:47.440 - 01:14:52.380] sap ya sap ya también creo que también hace servicios de outsourcing también
+[01:14:52.380 - 01:14:56.980] infraestructura que otra empresa conocen ustedes
+[01:15:00.000 - 01:15:05.040] hace tiempo me mencionaron en Lima de una empresa
+[01:15:05.040 - 01:15:06.060] grande que llega hasta
+[01:15:06.060 - 01:15:08.520] todo el norte también llega del Perú
+[01:15:08.520 - 01:15:10.220] no recuerdo el nombre
+[01:15:10.220 - 01:15:13.140] de O-Sourcing
+[01:15:13.140 - 01:15:14.100] ¿alguien conoce más?
+[01:15:30.000 - 01:15:31.840] data consultancy. Ojo,
+[01:15:32.080 - 01:15:33.700] hay independientes también, ¿ah?
+[01:15:35.020 - 01:15:36.060] Independientes con un pequeño
+[01:15:36.060 - 01:15:38.240] capital, arriendan
+[01:15:38.240 - 01:15:39.740] sus computadoras,
+[01:15:40.300 - 01:15:42.060] ellos mismos arreglan, ellos mismos
+[01:15:42.060 - 01:15:43.940] son los que se encargan de buscar su personal para que
+[01:15:43.940 - 01:15:46.100] atienda, ¿no? Y si falta
+[01:15:46.100 - 01:15:48.060] alguien, ellos mismos se ponen ahí en la parte
+[01:15:48.060 - 01:15:49.500] para dar solución, ¿no?
+[01:15:50.660 - 01:15:51.140] También.
+[01:15:51.980 - 01:15:53.580] Pero hay empresas grandes también, ¿ah?
+[01:15:55.800 - 01:15:56.280] Claro,
+[01:15:56.280 - 01:15:57.600] por ejemplo, Wynn
+[01:15:57.600 - 01:15:59.600] y claro,
+[01:15:59.600 - 01:16:01.080] aquí en la libertad
+[01:16:01.080 - 01:16:02.940] participan en proyectos
+[01:16:02.940 - 01:16:05.480] de redes, infraestructuras de redes
+[01:16:05.480 - 01:16:07.480] o sea, aparte de ser
+[01:16:07.480 - 01:16:09.700] las empresas que vendan las comunicaciones
+[01:16:09.700 - 01:16:24.460] tambi participan un de ellos en infraestructuras de redes en estos tipos de proyectos de redes tambi no requieren ese leas donde estamos acuerdo de nivel de servicio te conectan lo que es
+[01:16:24.460 - 01:16:29.240] también la gestión de incidentes gestión de problemas asistencias remotas
+[01:16:32.380 - 01:16:35.480] nos damos un break jóvenes también les parece 15 minutos de ley
+[01:16:35.480 - 01:16:38.860] y venimos a escoger a un delegado
+[01:16:38.860 - 01:16:39.940] para armar el grupo de whatsapp
+[01:16:39.940 - 01:16:42.800] porque un grupo de whatsapp para tener
+[01:16:42.800 - 01:16:44.480] este material que yo les voy a pasar
+[01:16:44.480 - 01:16:46.440] les pueda compartir
+[01:16:46.440 - 01:16:48.040] porque estos materiales no los subo yo
+[01:16:48.040 - 01:16:49.480] a la aula virtual
+[01:16:49.480 - 01:16:50.900] entonces volvemos 15 minutos
+[01:16:50.900 - 01:16:51.500] volvemos
+[01:17:05.480 - 01:17:06.480] Gracias.
+[01:17:25.000 - 01:17:26.000] Gracias.
+[01:17:55.000 - 01:17:56.000] Gracias.
+[01:18:25.000 - 01:18:26.000] Gracias.
+[01:18:40.000 - 01:18:41.000] Gracias.
+[01:19:10.000 - 01:19:11.000] Gracias.
+[01:19:40.000 - 01:19:41.000] Gracias.
+[01:20:00.000 - 01:20:01.000] Gracias.
+[01:20:30.000 - 01:20:31.000] Gracias.
+[01:21:00.000 - 01:21:01.000] Gracias.
+[01:21:10.000 - 01:21:11.000] Gracias.
+[01:21:40.000 - 01:21:41.000] Gracias.
+[01:22:10.000 - 01:22:11.000] Gracias.
+[01:22:25.000 - 01:22:26.000] Gracias.
+[01:22:55.000 - 01:22:56.000] Gracias.
+[01:23:25.000 - 01:23:26.000] Gracias.
+[01:23:40.000 - 01:23:41.000] Gracias.
+[01:24:10.000 - 01:24:11.000] Gracias.
+[01:24:40.000 - 01:24:41.000] Gracias.
+[01:25:00.000 - 01:25:01.000] Gracias.
+[01:25:30.000 - 01:25:31.000] Gracias.
+[01:26:00.000 - 01:26:01.000] Gracias.
+[01:26:10.000 - 01:26:11.000] Gracias.
+[01:26:40.000 - 01:26:41.000] Gracias.
+[01:27:10.000 - 01:27:11.000] Gracias.
+[01:27:25.000 - 01:27:26.000] Gracias.
+[01:27:55.000 - 01:27:56.000] Gracias.
+[01:28:25.000 - 01:28:26.000] Gracias.
+[01:28:40.000 - 01:28:41.000] Gracias.
+[01:29:10.000 - 01:29:11.000] Gracias.
+[01:29:40.000 - 01:29:41.000] Gracias.
+[01:30:00.000 - 01:30:01.000] Gracias.
+[01:30:30.000 - 01:30:31.000] Gracias.
+[01:31:00.000 - 01:31:01.000] Gracias.
+[01:31:10.000 - 01:31:11.000] Gracias.
+[01:31:40.000 - 01:31:41.000] Gracias.
+[01:32:10.000 - 01:32:11.000] Gracias.
+[01:32:25.000 - 01:32:26.000] Gracias.
+[01:32:55.000 - 01:32:56.000] Gracias.
+[01:33:25.000 - 01:33:26.000] Gracias.
+[01:33:40.000 - 01:33:41.000] Gracias.
+[01:34:10.000 - 01:34:11.000] Gracias.
+[01:34:40.000 - 01:34:41.000] Gracias.
+[01:35:00.000 - 01:35:25.520] Listo, volvemos.
+[01:35:30.000 - 01:35:41.640] volvemos de nuevo
+[01:35:41.640 - 01:35:43.140] entonces
+[01:35:43.140 - 01:35:45.940] esa es la idea cuando hablamos de ejemplo
+[01:35:45.940 - 01:35:48.080] hablamos no de los
+[01:35:48.080 - 01:35:49.740] procesos de outsourcing
+[01:35:49.740 - 01:35:51.700] arrendamiento tecnológico
+[01:35:51.700 - 01:35:54.380] tecnología, centros de servicios
+[01:35:54.380 - 01:35:55.760] soportes técnicos
+[01:35:55.760 - 01:35:58.400] pero aquí
+[01:35:58.400 - 01:36:07.120] Y en ETIL abarca todo ello, porque ETIL se preocupa bastante por el tema de cliente-usuario,
+[01:36:07.120 - 01:36:15.720] o sea nivel de satisfacci la co de valor por ejemplo Valor valor valor Se le da algo que lo necesitamos es cierto
+[01:36:30.000 - 01:36:31.440] Vamos a ver acá,
+[01:36:31.600 - 01:36:32.940] nos quedamos por acá.
+[01:36:32.940 - 01:36:33.880] Acá está, ya me vi.
+[01:36:40.000 - 01:36:41.000] Gracias.
+[01:37:10.000 - 01:37:46.500] es ETIL entonces ETIL viene de los iniciales Information Technology Infrastructure Library Es el marco de referencia de mejores pr del Service Manager es decir es un marco de referencia de la gesti de servicio
+[01:37:46.500 - 01:38:10.880] En algunos títulos, en algunos textos lo vas a encontrar como ITSM, que significa Gestión de Servicios de Tecnología de la Información. Es el más popular en el mundo. Su primera versión fue lanzada en los años 80 por el gobierno, parte del gobierno británico.
+[01:38:10.880 - 01:38:24.600] Su intención en aquel momento era alinear la entrega de servicios de TI con las necesidades expectativas del propio gobierno del Reino Unido.
+[01:38:24.600 - 01:38:37.320] originalmente y ti era solamente una biblioteca física que contenía información sobre cómo
+[01:38:37.320 - 01:38:58.620] administrar mejor un departamento de ti hoy el acr se refiere a un fen de gesti de servicios que se le conoce como ITSM en algunos sitios que ayuda a facilitar las transformaciones digitales para las empresas de todo el mundo
+[01:38:58.620 - 01:39:06.700] y tienes el marco de referencia
+[01:39:06.700 - 01:39:08.620] resultó un éxito y fue adoptado por
+[01:39:08.620 - 01:39:11.160] compañías grandes y gobiernos europeos
+[01:39:11.160 - 01:39:14.300] lo cual impulsó su desarrollo en la
+[01:39:14.300 - 01:39:17.340] década del 2000 la versión 2 fue
+[01:39:17.340 - 01:39:20.640] revisada y republicada de 30 volúmenes
+[01:39:20.640 - 01:39:24.560] la versión 2 conserva únicamente 10
+[01:39:24.560 - 01:39:35.180] procesos y dos funciones, haciéndole mucho más digerible y promoviendo su adopción a una velocidad
+[01:39:35.180 - 01:39:45.740] mucho más alta. Los libros de ITIL, cada uno de los libros de ITIL trata una parte del marco de
+[01:39:45.740 - 01:39:53.800] trabajo y da una descripción general de lo que es necesario para organizar la gestión de servicios
+[01:39:53.800 - 01:39:54.260] de TI
+[01:39:54.260 - 01:39:58.060] y TIL define los objetivos
+[01:39:58.060 - 01:39:59.060] las actividades
+[01:39:59.060 - 01:39:59.420] y
+[01:40:00.000 - 01:40:04.520] las entradas y salidas de los procesos de la organización de TI.
+[01:40:06.280 - 01:40:11.200] Sin embargo, ETIL no brinda una descripción específica
+[01:40:11.200 - 01:40:15.060] de la forma que se deben implementar estas actividades,
+[01:40:16.140 - 01:40:19.940] ya que esto puede variar de organización en organización.
+[01:40:19.940 - 01:40:25.940] Es decir, ETIL te brinda las buenas prácticas o las mejores prácticas.
+[01:40:25.940 - 01:40:30.520] no por ejemplo en algunas empresas les ha dado resultado
+[01:40:32.880 - 01:40:38.320] y tratar de implementarlo también en la tuya lógicamente no te dice no tienes que seguir
+[01:40:38.320 - 01:40:44.860] tal cual la regla porque porque son metodologías que se tienen que adaptar a cada organización y
+[01:40:44.860 - 01:40:51.540] recuerda que las organizaciones no son iguales todas tienen algo de diferencia puede ser del
+[01:40:51.540 - 01:40:53.940] mismo rubro, del mismo tema, pero no
+[01:40:53.940 - 01:40:55.400] iguales.
+[01:41:10.000 - 01:41:11.000] Gracias.
+[01:41:40.000 - 01:41:51.880] Ha sido aprobado. Esto hace que las circunstancias puedan ser implantadas en diferentes formas. A diferencia de las ISO. ¿Ha escuchado hablar de las ISO? Por ejemplo, la ISO 20.000, la ISO 19.000.
+[01:41:51.880 - 01:42:00.760] las ISO son estándares
+[01:42:00.760 - 01:42:01.900] que hay que cumplir ¿no?
+[01:42:02.340 - 01:42:04.700] por ejemplo si una empresa quiere asumir
+[01:42:04.700 - 01:42:06.520] una ISO, quiere certificarse en una ISO
+[01:42:06.520 - 01:42:10.640] necesita cumplir ciertos parámetros
+[01:42:10.640 - 01:42:11.900] sí o sí
+[01:42:11.900 - 01:42:14.200] en cambio ETIL, no
+[01:42:14.200 - 01:42:14.860] ETIL es
+[01:42:14.860 - 01:42:17.420] si aquí me funciona bien
+[01:42:17.420 - 01:42:20.080] mira lo que yo he hecho con este presupuesto
+[01:42:20.080 - 01:42:22.020] mira lo que yo he creado, mira cómo le he trabajado
+[01:42:22.020 - 01:42:23.680] en qué tiempo, de hecho mira lo que he usado
+[01:42:23.680 - 01:42:40.840] t tambi igual pero en mi organizaci en mi no se puede trabajar digamos por an o por debilidades externas que no est fuera de nuestro caso Por ejemplo hay cosas que
+[01:42:41.980 - 01:42:50.540] ¿cómo un ejemplo les diría? Por ejemplo, el tema de la selva. En la selva hay ciertos parámetros
+[01:42:50.540 - 01:42:54.020] que no están de restricción, que no hay en otro sitio.
+[01:42:54.100 - 01:42:59.300] Por ejemplo, en zonas de la costa hay restricciones en algunas compras,
+[01:42:59.420 - 01:43:02.160] en algunos temas de trabajo, ¿no?
+[01:43:02.260 - 01:43:04.740] Pagar impuestos, ¿no?
+[01:43:04.780 - 01:43:05.740] En cambio en la selva no.
+[01:43:06.400 - 01:43:14.400] Se promueve la exportación, se promueve los proyectos dentro de nuestra selva.
+[01:43:14.400 - 01:43:18.820] Entonces, así también hay análisis externos que tú no puedes manejar.
+[01:43:18.820 - 01:43:20.700] pero y til que dice
+[01:43:20.700 - 01:43:23.220] adáptate pues a lo que yo te estoy ofreciendo
+[01:43:23.220 - 01:43:24.100] adáptate a eso
+[01:43:24.100 - 01:43:27.120] o a como a mi me ha funcionado, adáptalo a tu empresa
+[01:43:27.120 - 01:43:29.100] eso es lo que no hace las ISO
+[01:43:29.100 - 01:43:31.380] las ISO no trabajan de esa manera
+[01:43:31.380 - 01:43:32.460] las ISO tienen que cumplir
+[01:43:32.460 - 01:43:35.380] estándares de calidad que tienen que
+[01:43:35.380 - 01:43:36.740] tienen que estar ahí
+[01:43:36.740 - 01:43:50.280] entonces hay una actividad propuesta pero miren todas las actividades las vamos a dejar para el ya porque nos ponemos
+[01:43:50.280 - 01:43:52.240] a veces a revisar o a sacar
+[01:43:52.240 - 01:43:54.280] un informe o un documento de actividad
+[01:43:54.280 - 01:43:54.900] propuesta
+[01:43:54.900 - 01:43:57.860] pero algunos me dicen que están desde el celular
+[01:43:57.860 - 01:44:00.180] que no pueden manipular, les es
+[01:44:00.180 - 01:44:01.320] más dificultoso, entonces
+[01:44:01.320 - 01:44:03.860] lo dejamos estas cosas para el último
+[01:44:10.000 - 01:44:16.100] Características de ETIL
+[01:44:16.100 - 01:44:18.280] ETIL es un framework
+[01:44:18.280 - 01:44:20.440] de procesos de TI no propietario
+[01:44:20.440 - 01:44:22.760] ¿Alguien tiene idea
+[01:44:22.760 - 01:44:23.540] qué es un framework?
+[01:44:23.820 - 01:44:25.520] Los que son de programación más que todo
+[01:44:25.520 - 01:44:27.760] A ver, en conceptos básicos
+[01:44:27.760 - 01:44:28.500] ¿Qué es un framework?
+[01:44:40.000 - 01:44:51.140] una estructura
+[01:44:51.140 - 01:44:53.060] un
+[01:44:53.060 - 01:44:54.580] un
+[01:44:54.580 - 01:44:54.620] un
+[01:44:54.620 - 01:44:54.960] un
+[01:44:54.960 - 01:44:54.980] un
+[01:44:54.980 - 01:44:55.020] un
+[01:44:55.020 - 01:44:55.040] un
+[01:44:55.040 - 01:44:55.140] un
+[01:45:00.000 - 01:45:02.060] Un proceso estandarizado, un framework.
+[01:45:09.440 - 01:45:11.400] El cuerpo de los proyectos.
+[01:45:30.000 - 01:45:43.240] A ver, la base para el desarrollo de...
+[01:45:43.240 - 01:45:48.860] Claro, a ver, los que son de desarrollo, los que están en computación,
+[01:45:48.860 - 01:45:54.540] para HTML, para páginas web, ¿qué framework conocen?
+[01:46:00.000 - 01:46:07.660] bootstrap
+[01:46:07.660 - 01:46:09.160] bootstrap
+[01:46:09.160 - 01:46:20.540] bootstrap Tywill Bootstrap
+[01:46:20.540 - 01:46:21.240] ¿Han escuchado?
+[01:46:22.280 - 01:46:22.860] React
+[01:46:22.860 - 01:46:27.280] Ya
+[01:46:27.280 - 01:46:30.200] Como que ustedes lo interpretan
+[01:46:30.200 - 01:46:30.740] ¿Qué es eso?
+[01:46:34.480 - 01:46:35.380] Por ejemplo
+[01:46:35.380 - 01:46:37.220] Yo he usado Bootstrap
+[01:46:37.220 - 01:46:40.040] generalmente cuando yo dicto el curso del primer ciclo
+[01:46:40.040 - 01:46:41.960] de computación
+[01:46:41.960 - 01:46:43.280] lo que es web
+[01:46:43.280 - 01:46:45.240] no lo trato
+[01:46:45.240 - 01:46:47.780] de no ingresar bootstrap porque bootstrap
+[01:46:47.780 - 01:46:49.980] ya está trabajado ya prácticamente
+[01:46:49.980 - 01:46:52.200] por ejemplo tú quieres crear un botón
+[01:46:52.200 - 01:46:54.000] me gusta a mí
+[01:46:54.000 - 01:46:54.980] cuando creo un botón
+[01:46:54.980 - 01:46:57.920] hacer todo un código grandecito
+[01:46:57.920 - 01:46:59.680] para que se vea parte por parte
+[01:46:59.680 - 01:47:01.820] cómo va cambiando
+[01:47:01.820 - 01:47:02.940] cómo va tomando la
+[01:47:02.940 - 01:47:04.220] forma
+[01:47:04.220 - 01:47:07.720] ya entonces si yo lo hago de manera manual
+[01:47:07.720 - 01:47:10.240] voy dándole paso por paso
+[01:47:10.240 - 01:47:12.640] para ver la forma como se va adaptando
+[01:47:12.640 - 01:47:13.780] se va quedando en otro botón
+[01:47:13.780 - 01:47:16.500] pero simplemente en bootstrap
+[01:47:16.500 - 01:47:18.420] yo lo llamo al botón y aparece el botón
+[01:47:18.420 - 01:47:20.040] estamos en un horno correcto
+[01:47:20.040 - 01:47:23.780] entonces que paso ahí
+[01:47:23.780 - 01:47:24.820] cuando yo llamo
+[01:47:24.820 - 01:47:30.140] y aparece el bot pas ah
+[01:47:40.360 - 01:47:41.840] ¿acaso ya no existe?
+[01:47:42.080 - 01:47:43.600] ¿la plantilla ya no está hecha?
+[01:47:44.020 - 01:47:46.680] o sea, el código que yo lo hago manualmente
+[01:47:46.680 - 01:47:49.160] ya está hecho, ya está preestablecido
+[01:47:49.160 - 01:47:51.260] yo solamente lo estoy llamando nada más
+[01:47:55.000 - 01:48:02.780] correcto, entonces
+[01:48:02.780 - 01:48:05.300] Bootstrap es un framework por ejemplo
+[01:48:05.300 - 01:48:07.560] Tywheel, Bootstrap
+[01:48:07.560 - 01:48:08.460] son framework
+[01:48:08.460 - 01:48:10.960] entonces, ¿qué es lo que
+[01:48:10.960 - 01:48:12.420] quiere decir con eso?
+[01:48:13.640 - 01:48:13.940] son
+[01:48:13.940 - 01:48:17.220] ojo, el botón se ha creado
+[01:48:17.220 - 01:48:17.940] desde cero
+[01:48:17.940 - 01:48:20.740] así como lo hago manualmente, sino que
+[01:48:20.740 - 01:48:22.840] en Bootstrap yo simplemente
+[01:48:22.840 - 01:48:24.800] ya lo llamo nada más a algo que ya está
+[01:48:24.800 - 01:48:30.420] ya está creado hace mucho tiempo ya está puesto como como librería no donde tú vas llamas y jalan
+[01:48:30.420 - 01:48:38.360] nada más igual manera aquí en itil y tienes un framework es un marco de trabajo un framework
+[01:48:38.360 - 01:48:50.280] es marco de trabajo es una plantilla ya entonces es una plantilla un framework un marco de trabajo
+[01:48:50.280 - 01:48:53.040] de procesos de tecnología
+[01:48:53.040 - 01:48:53.800] de la información
+[01:48:53.800 - 01:48:56.280] las cuales no propietarios
+[01:48:56.280 - 01:48:58.860] es decir ninguna marca de tecnología
+[01:48:58.860 - 01:49:01.000] ningún producto de tecnología
+[01:49:01.000 - 01:49:02.780] una marca es dueña de este framework
+[01:49:02.780 - 01:49:06.980] es independiente de los proveedores
+[01:49:06.980 - 01:49:08.100] de servicio
+[01:49:10.000 - 01:49:12.600] para entender que es un proveedor
+[01:49:12.600 - 01:49:14.980] tenemos que saber que es un usuario y que es proveedor
+[01:49:14.980 - 01:49:16.720] usuario es el que recibe
+[01:49:16.720 - 01:49:18.720] el servicio del proveedor, el proveedor es el que provee
+[01:49:18.720 - 01:49:21.120] el servicio, es independiente
+[01:49:21.120 - 01:49:22.720] de las tecnologías que se usa
+[01:49:22.720 - 01:49:26.760] está basado
+[01:49:26.760 - 01:49:29.020] en mejores prácticas, es decir
+[01:49:29.020 - 01:49:30.760] si a usted
+[01:49:30.760 - 01:49:32.580] le ha dado resultado en su empresa
+[01:49:32.580 - 01:49:34.640] aplicar, no sé
+[01:49:34.640 - 01:49:36.760] bonos, algo, la gente está más
+[01:49:36.760 - 01:49:38.740] comprometida, entonces
+[01:49:38.740 - 01:49:40.660] eso es lo que yo también debo aplicar en mi empresa
+[01:49:40.660 - 01:49:43.020] también para que la gente se sienta con más compromiso
+[01:49:43.020 - 01:49:44.840] entonces esas son
+[01:49:44.840 - 01:49:46.520] las buenas prácticas o mejores prácticas
+[01:49:46.520 - 01:49:48.680] mejores o buenas prácticas son que
+[01:49:48.680 - 01:49:50.280] han dado resultado en algún sitio
+[01:49:50.280 - 01:49:52.900] y ese mismo ejemplo
+[01:49:52.900 - 01:49:55.160] lo vamos a interpretar en otro sitio
+[01:49:55.160 - 01:49:57.100] propone
+[01:49:57.100 - 01:49:58.960] una terminología estándar
+[01:49:58.960 - 01:50:00.000] provee
+[01:50:00.000 - 01:50:02.100] interdependencias entre los procesos
+[01:50:02.100 - 01:50:04.360] establece lineamientos
+[01:50:04.360 - 01:50:06.260] para la implementación
+[01:50:06.260 - 01:50:11.980] dime Iván
+[01:50:11.980 - 01:50:12.740] Vilches, dime
+[01:50:12.740 - 01:50:15.280] profesor buenas noches
+[01:50:15.280 - 01:50:18.040] una consulta, en una de las características
+[01:50:18.040 - 01:50:20.160] de ITIL está poniendo que se establece
+[01:50:20.160 - 01:50:22.540] lineamientos para la implementación
+[01:50:22.540 - 01:50:25.140] claro
+[01:50:25.140 - 01:50:28.900] en este caso
+[01:50:28.900 - 01:50:31.120] ¿está bien esa característica?
+[01:50:32.980 - 01:50:33.540] establece
+[01:50:33.540 - 01:50:35.940] lineamientos para la implementación
+[01:50:35.940 - 01:50:36.480] ¿sí?
+[01:50:37.260 - 01:50:38.880] por ejemplo tú quieres implementar
+[01:50:38.880 - 01:50:41.440] ojo, no está diciendo que es un
+[01:50:41.440 - 01:50:43.420] estándar, o sea hay que entender
+[01:50:43.420 - 01:50:45.440] aquí, por eso dice, anteriormente
+[01:50:45.440 - 01:50:47.520] hemos dicho que es una mejor, las buenas prácticas
+[01:50:47.520 - 01:50:49.700] si tú quieres implementar
+[01:50:49.700 - 01:50:50.780] algo, te dice ¿no?
+[01:50:51.360 - 01:50:52.840] te sugiere, te dice cómo
+[01:50:52.840 - 01:50:54.080] los pasos a seguir
+[01:50:54.080 - 01:50:57.380] no necesariamente tú tienes que seguir
+[01:50:57.380 - 01:50:58.420] esos pasos, o sea
+[01:50:58.420 - 01:51:01.140] tal vez para tu empresa no es
+[01:51:01.140 - 01:51:03.060] o no es la misma
+[01:51:03.060 - 01:51:05.100] no es el mismo ámbito, no es lo mismo
+[01:51:05.100 - 01:51:06.840] por ejemplo si ha dado resultado por ejemplo
+[01:51:06.840 - 01:51:07.980] para una empresa grande
+[01:51:07.980 - 01:51:20.760] de tantos trabajadores con tanto movimiento no va a ser lo mismo para una empresa m peque Pero s establece los lineamientos previos
+[01:51:24.520 - 01:51:33.280] Bueno, en este caso, ITIL, prácticamente,
+[01:51:35.040 - 01:51:38.280] yo lo que yo creo es que no establece lineamientos, ¿no?
+[01:51:38.280 - 01:51:41.360] sencillamente, TITIL te da las reglas
+[01:51:41.360 - 01:51:41.860] a seguir
+[01:51:41.860 - 01:51:45.280] a que sigas
+[01:51:45.280 - 01:51:47.860] una guía, unos lineamientos para la implementación
+[01:51:47.860 - 01:51:51.620] esa era mi pregunta
+[01:51:51.620 - 01:51:57.640] o sea, tú lo ves como algo imperativo
+[01:51:57.640 - 01:51:59.420] o sea, cuando le pones la palabra
+[01:51:59.420 - 01:52:00.100] lineamientos
+[01:52:00.100 - 01:52:03.060] o sea, algo que te dice
+[01:52:03.060 - 01:52:04.280] te ordena, algo así
+[01:52:04.280 - 01:52:06.680] establece lineamientos
+[01:52:06.680 - 01:52:08.900] al decir establecer lineamientos prácticamente
+[01:52:08.900 - 01:52:10.980] te da a entender que
+[01:52:10.980 - 01:52:13.140] tiene que ser como una guía, unas reglas
+[01:52:13.140 - 01:52:14.000] en otras palabras, ¿no?
+[01:52:15.480 - 01:52:16.700] para la implementación
+[01:52:16.700 - 01:52:19.080] para la implementación, una guía
+[01:52:19.080 - 01:52:20.700] para implementar, ¿no? a eso me refiero
+[01:52:20.700 - 01:52:21.880] ya
+[01:52:21.880 - 01:52:35.040] por eso te digo no s c lo vas a interpretar o sea si lo ves como algo si es como una gu claro que s te sirve
+[01:52:35.040 - 01:52:36.400] como una guía para implementar algo
+[01:52:36.400 - 01:52:43.080] pero no lo interpretes como
+[01:52:43.080 - 01:52:44.660] digamos como algo imperativo
+[01:52:44.660 - 01:52:46.620] o como un estándar
+[01:52:46.620 - 01:52:48.840] por ejemplo la CISO
+[01:52:48.840 - 01:52:50.400] para que tú compres la CISO
+[01:52:50.400 - 01:52:53.000] tienes que tener ciertos estándares establecidos
+[01:52:53.000 - 01:52:53.520] de manera
+[01:52:53.520 - 01:52:55.440] imperativa.
+[01:52:56.180 - 01:52:58.140] Aquí no, pues. Aquí simplemente son
+[01:52:58.140 - 01:53:00.140] no sé
+[01:53:00.140 - 01:53:02.000] cómo lo puedes interpretar como un lineamiento,
+[01:53:02.140 - 01:53:03.640] de repente lo interpretas como algo más
+[01:53:03.640 - 01:53:05.820] como orden, ¿no?
+[01:53:06.320 - 01:53:07.680] Lo que pasa es que normalmente
+[01:53:07.680 - 01:53:09.900] ITIL te define
+[01:53:09.900 - 01:53:12.020] qué hacer, pero no cómo
+[01:53:12.020 - 01:53:12.800] implementarlo.
+[01:53:15.420 - 01:53:16.220] No te dice
+[01:53:16.220 - 01:53:17.520] cómo implementarlo.
+[01:53:18.620 - 01:53:19.040] Vamos,
+[01:53:19.040 - 01:53:20.880] a ver, vamos a buscar
+[01:53:20.880 - 01:53:22.880] este, me parece bien, tal vez
+[01:53:22.880 - 01:53:24.920] por ahí no les vamos a ver
+[01:53:24.920 - 01:53:29.360] vamos a basarnos en herramientas
+[01:53:29.360 - 01:53:30.540] de actuales
+[01:53:30.540 - 01:53:32.940] donde ITIL 5 habla
+[01:53:32.940 - 01:53:35.380] de la inteligencia artificial como herramienta
+[01:53:35.380 - 01:53:37.020] vamos a leer esto
+[01:53:37.020 - 01:53:38.680] a ver, vamos a ver, de repente
+[01:53:38.680 - 01:53:41.660] establece lineamientos para la implementaci
+[01:54:10.000 - 01:54:28.120] Bueno, por acá en la inteligencia
+[01:54:28.120 - 01:54:30.120] me dice que la implementación
+[01:54:30.120 - 01:54:32.360] de ITIL se basa en adaptar
+[01:54:32.360 - 01:54:34.480] un marco flexible de mejores prácticas
+[01:54:34.480 - 01:54:35.580] para alinear
+[01:54:35.580 - 01:54:38.260] los servicios de TI con los objetivos
+[01:54:38.260 - 01:54:40.020] del negocio guiándose actualmente
+[01:54:40.020 - 01:54:42.240] por los lineamientos y principios de TIL
+[01:54:42.240 - 01:54:46.160] un ejemplo, ahorita acabo de hacer
+[01:54:46.160 - 01:54:46.860] una búsqueda
+[01:54:46.860 - 01:54:48.980] en la IA y dice
+[01:54:48.980 - 01:54:51.860] le pregunto, ¿y TIL establece lineamientos para
+[01:54:51.860 - 01:54:53.280] implementación? me dice, no
+[01:54:53.280 - 01:54:55.920] TIL no establece lineamientos obligatorios
+[01:54:55.920 - 01:54:58.260] ni una metodología regida para su implementación
+[01:54:58.260 - 01:54:59.280] dice, ¿no? claro
+[01:55:00.000 - 01:55:01.940] Por eso también le preguntaba, ¿no?
+[01:55:02.020 - 01:55:04.580] Me parece bien extraño la última línea que hayan puesto eso, ¿no?
+[01:55:05.100 - 01:55:08.420] Sí, pues yo les acabo de un marco de ITIL 4.
+[01:55:11.860 - 01:55:12.340] Pero...
+[01:55:12.340 - 01:55:17.720] Es que nunca hemos dicho que ITIL te exige o te obliga a algo.
+[01:55:17.800 - 01:55:21.060] Siempre hemos dicho que se adapta a la empresa.
+[01:55:23.240 - 01:55:25.360] No hay problema, lo podemos retirar de esa parte, pues.
+[01:55:27.700 - 01:55:28.180] ¿Ya?
+[01:55:30.000 - 01:55:47.180] Sigamos entonces. ¿Qué más? Mejores prácticas. El concepto de mejores prácticas de uso común pero frecuentemente confundido. Mejores prácticas son metodologías para realizar una tarea que ha sido comprobada como efectivo.
+[01:55:47.180 - 01:55:53.640] estas prácticas son reconocidas por la industria a los resultados logrados
+[01:55:53.640 - 01:56:00.960] y se adaptan a diferentes contextos para aumentar su efectividad en diferentes entornos.
+[01:56:01.200 - 01:56:06.040] Mientras que los estándares como la ISO 9000 son prescriptivos,
+[01:56:06.240 - 01:56:09.360] los marcos de referencia de mejores prácticas son descriptivos.
+[01:56:09.360 - 01:56:18.260] Es decir ofrecen la flexibilidad necesaria para adaptarse en el contexto donde se empleen
+[01:56:24.540 - 01:56:28.300] Ejemplo de mejores prácticas en la gestión de servicios.
+[01:56:28.300 - 01:56:32.420] Por ejemplo, imaginemos una carrera de automóviles anual.
+[01:56:34.420 - 01:56:37.300] Cada año compiten varios pilotos en diferentes automóviles.
+[01:56:37.300 - 01:56:46.360] automóviles. El ganador de cada año atrae la atención de otros pilotos y mecánicos,
+[01:56:46.720 - 01:56:53.560] pues quieren saber qué es lo que modificaron para poder recortar los tiempos por vuelta.
+[01:56:55.820 - 01:57:01.560] Tal vez un nuevo diseño de motor innovador, una textura diferente en las llantas o una
+[01:57:01.560 - 01:57:02.720] suspensión ajustada.
+[01:57:08.920 - 01:57:15.720] La configuración que se ha demostrado como superior al resto y se convierte en la nueva
+[01:57:15.720 - 01:57:21.180] referencia a seguir. El mercado la reconoce como la correcta ya que brindó los mejores
+[01:57:21.180 - 01:57:22.240] resultados.
+[01:57:22.240 - 01:57:44.780] en la siguiente competencia todos los pilotos buscar replicar estas modificaciones de sus veh tal vez algunas adicionales que permitan recortar los tiempos y buscar la victoria sobre la competencia
+[01:57:44.780 - 01:58:05.760] En TI no es diferente. A la hora de gestionar servicios de TI, un ajuste en un proceso o un producto innovador puede marcar la diferencia. La industria está atenta para poder observar y copiar las mejores prácticas.
+[01:58:05.760 - 01:58:20.160] ITIL fue creado con la intención de reunir una serie de mejores prácticas de Service Manager para promover un mejor desempeño de TI
+[01:58:20.160 - 01:58:25.860] y el consecuente aumento de competitividad en el mundo de los negocios.
+[01:58:25.860 - 01:58:32.640] Hay muchos marcos de referencia de mejores prácticas sobre una multitud de temas.
+[01:58:32.640 - 01:58:34.780] en el caso particular de ITIL
+[01:58:34.780 - 01:58:36.500] nos presenta
+[01:58:36.500 - 01:58:38.580] las mejores prácticas relacionadas
+[01:58:38.580 - 01:58:39.840] con el service manager
+[01:58:39.840 - 01:58:51.460] en la gesti de servicio la evoluci de ITIL desde el a 90 naci en la d del 80
+[01:58:51.700 - 01:58:53.840] el nacimiento de ITIL, con otros nombres nació,
+[01:58:53.940 - 01:58:57.140] recuerdan que en las primeras diapositivas estaba el nombre.
+[01:58:59.500 - 01:59:01.600] En los años 90 salió la versión 1,
+[01:59:01.600 - 01:59:06.560] la versión 2 en el 2000
+[01:59:06.560 - 01:59:08.420] en los años 2000 enfocado
+[01:59:08.420 - 01:59:10.440] ya se enfocó en
+[01:59:10.440 - 01:59:13.000] el soporte y la entrega
+[01:59:13.000 - 01:59:13.800] del servicio
+[01:59:13.800 - 01:59:18.740] en la versión
+[01:59:18.740 - 01:59:20.040] ITIL versión 3
+[01:59:20.040 - 01:59:23.260] en el año 2007
+[01:59:23.260 - 01:59:26.540] profesor disculpe que lo interrumpa
+[01:59:26.540 - 01:59:28.220] una consulta
+[01:59:28.220 - 01:59:29.720] justo había levantado la mano
+[01:59:29.720 - 01:59:52.400] En una de las pantallas habló acerca de las buenas prácticas de ITIL. En su pantalla, creo que tres pantallas antes, en la cual también usted habla de que, ¿cómo se llama? De que ITIL es un conjunto de prácticas, es una metodología. Pero ITIL no es una metodología, es un marco de referencia.
+[01:59:52.400 - 01:59:54.820] ese tema
+[01:59:54.820 - 01:59:56.740] si de que no es una metodología
+[01:59:56.740 - 01:59:58.040] algunos dicen que es una metodología
+[01:59:58.040 - 01:59:59.940] y bueno, no sé cómo lo quieren interpretar
+[02:00:00.000 - 02:00:02.000] porque ese tema
+[02:00:02.000 - 02:00:03.400] si ya ese tema viene
+[02:00:03.400 - 02:00:05.400] desde que marco de referencia
+[02:00:05.400 - 02:00:06.300] metodología
+[02:00:06.300 - 02:00:10.100] lo que pasa
+[02:00:10.100 - 02:00:11.900] es que hay algo claro
+[02:00:11.900 - 02:00:13.840] una metodología es un conjunto estructurado
+[02:00:13.840 - 02:00:15.660] secuencial
+[02:00:15.660 - 02:00:18.060] y rígido de pasos, métodos
+[02:00:18.060 - 02:00:20.060] y reglas que se dictan como ejecutar un proyecto
+[02:00:20.060 - 02:00:20.740] o una tarea
+[02:00:20.740 - 02:00:23.960] pero ETIL es un marco de referencia
+[02:00:23.960 - 02:00:25.540] es un framework en otras palabras
+[02:00:25.540 - 02:00:26.580] no es una metodología
+[02:00:26.580 - 02:00:29.100] pero en
+[02:00:29.100 - 02:00:32.100] en el positivo
+[02:00:32.100 - 02:00:33.760] usted ha puesto que es una metodología
+[02:00:33.760 - 02:00:35.820] ¿sí?
+[02:00:37.820 - 02:00:40.280] le repito, eso es lo que he encontrado
+[02:00:40.280 - 02:00:41.380] en manuales de ITIR
+[02:00:41.380 - 02:00:43.900] no sé, y a ese tema también varios
+[02:00:43.900 - 02:00:46.520] he visto varias discusiones en el mismo tema
+[02:00:46.520 - 02:00:48.080] si para usted no lo es
+[02:00:48.080 - 02:00:50.500] ¿qué podemos? ¿qué le puedo decir?
+[02:00:51.600 - 02:00:52.240] yo lo saco
+[02:00:52.240 - 02:00:54.420] incluso le voy a alcanzar también hay un manual de Cibertech
+[02:00:54.420 - 02:00:56.020] que no figura, ahorita hay un manual en Cibertech, ¿no?
+[02:00:56.880 - 02:00:58.080] del aula virtual no figura
+[02:00:58.080 - 02:00:59.680] le voy a alcanzar un manual
+[02:00:59.680 - 02:01:01.800] que yo lo tengo que hasta
+[02:01:01.800 - 02:01:03.280] hace poco ha estado figurando ahí
+[02:01:03.280 - 02:01:04.160] ¿ya?
+[02:01:07.780 - 02:01:08.920] bueno, sigo
+[02:01:08.920 - 02:01:20.620] en la versi 3 en el 2007 se enfoc al ciclo de vida del servicio con cinco
+[02:01:20.620 - 02:01:21.680] libros importantes
+[02:01:21.680 - 02:01:25.300] luego en el 2011
+[02:01:25.300 - 02:01:28.820] las mejoras a los cinco libros se
+[02:01:28.820 - 02:01:31.440] enfocan en el ciclo de vida del servicio
+[02:01:31.440 - 02:01:35.980] a partir de la versión 3 del 2011 y
+[02:01:35.980 - 02:01:38.020] se enfoca en el ciclo de vida del
+[02:01:38.020 - 02:01:41.000] servicio. Luego de ello vino la versión
+[02:01:41.000 - 02:01:44.500] 4, acá creo que está, vino la versión 4
+[02:01:44.500 - 02:01:45.660] en el 2019,
+[02:01:47.520 - 02:01:50.860] ya que el enfoque cambió, incluso ya no
+[02:01:50.860 - 02:01:55.120] es versión 3, ahora es ITIL 4.
+[02:01:56.700 - 02:02:01.840] En el año 2019, enfocado al sistema de
+[02:02:01.840 - 02:02:02.980] valor del servicio.
+[02:02:04.660 - 02:02:06.460] Cambió el enfoque, cambiaron también,
+[02:02:06.460 - 02:02:09.280] volvieron lo que se llama dimensiones
+[02:02:09.280 - 02:02:13.040] y TIL 4 hace referencia a la cuarta
+[02:02:13.040 - 02:02:14.740] revolución industrial, por eso ya no
+[02:02:14.740 - 02:02:17.800] siguió el tema de las versiones. Ya no
+[02:02:17.800 - 02:02:19.980] se enfoca en los procesos como lo hacía
+[02:02:19.980 - 02:02:23.520] TIL versión 3, lo cambia por prácticas y
+[02:02:23.520 - 02:02:36.360] ofrece varios principios gu En TIL la versi 3 nos propuso la gesti de TI a trav de 26 procesos
+[02:02:36.360 - 02:02:40.220] ordenados en un ciclo de vida compuesto por 5 fases
+[02:02:40.220 - 02:02:47.080] en la 4 rompe totalmente con este paradigma y sustituye al ciclo de vida
+[02:02:47.080 - 02:02:50.900] con el nuevo concepto sistema de valor del servicio
+[02:02:50.900 - 02:03:07.900] El sistema de valor de servicio pretende mostrarnos como la mezcla de distintos componentes. Nos asistirá en la conversión de demanda y oportunidades en valor consumible por el negocio al que servimos.
+[02:03:07.900 - 02:03:13.020] Les recuerdo que en febrero de este año ha salido la versión 5.
+[02:03:13.980 - 02:03:17.660] La versión 5 sigue con las mismas dimensiones de la versión 4.
+[02:03:18.980 - 02:03:22.800] Mayormente la versión 5 viene a ser una actualización en lo que es versión 4, ¿no?
+[02:03:23.460 - 02:03:26.900] Donde ya la inteligencia artificial entra a taller como herramienta.
+[02:03:27.720 - 02:03:30.840] No solamente es gestión de servicios en la versión 5.
+[02:03:31.900 - 02:03:34.800] Ahora es gestión de servicios y productos digitales.
+[02:03:37.900 - 02:04:04.260] entonces ITIL la versi 3 no forma parte de versi 4 El ciclo de vida del servicio definido en ITIL versi 3 se divide en 5 fases Cada una con sus propios procesos espec estrategia dise transici operaci y mejora continua
+[02:04:04.260 - 02:04:09.300] ITIL 4 que define como sistema de valor al servicio
+[02:04:09.300 - 02:04:15.520] dentro de una de sus componentes encontraremos la cadena de valor del servicio
+[02:04:15.520 - 02:04:22.520] ahí encontramos al famoso ciclo de vida del servicio que lo define ITIL versión 3
+[02:04:28.300 - 02:04:33.140] entonces como vemos la gestión de servicios ahora si están en fase están unidas en ITIL 4
+[02:04:33.140 - 02:04:44.160] El ciclo de vida del servicio regresa en una forma alterada, pero esto no es lo que mayormente apoya el nuevo ITIL 4.
+[02:04:46.040 - 02:04:55.560] Principalmente ITIL 4, SVS, es el que soporta esta actualización de ITIL 4.
+[02:04:55.680 - 02:04:59.220] El sistema de valor del servicio o ITIL 4 se presenta como un gran proceso.
+[02:05:00.000 - 02:05:05.680] en el que las demandas y oportunidades son de entrada y propuesta es la salida.
+[02:05:08.880 - 02:05:14.500] El enfoque de ITIL 4 es el valor de conjunto de las partes interesadas.
+[02:05:14.620 - 02:05:19.140] Cuando hablamos de partes interesadas, nos referimos a los stakeholders,
+[02:05:19.140 - 02:05:24.140] que está conformada por los clientes y proveedores.
+[02:05:24.140 - 02:05:33.720] proveedores. El sistema de valor del servicio abarca principios, gobernanza, prácticas, una
+[02:05:33.720 - 02:05:39.520] cadena de valor del servicio y por supuesto la mejora continua. La mejora continua ya viene
+[02:05:39.520 - 02:05:46.340] desde la versión 3 ya y sigue hasta todavía aún con la versión 5, sigue la mejora continua.
+[02:05:46.340 - 02:05:51.200] según ETIL siempre hay algo que mejorar en los procesos
+[02:05:51.200 - 02:05:56.380] la mayoría de estos también están presentes en muchas otras prácticas
+[02:05:56.380 - 02:06:02.960] el corazón del sistema de valor de servicio es la cadena de valor del servicio
+[02:06:02.960 - 02:06:27.540] ciclo de vida de la gesti de servicios propuestos por ETIL versi 3 el marco ITIL versi 3 divide el ciclo de vida de servicio en cinco etapas para brindar un enfoque l y sistem de la gesti de servicios de TI
+[02:06:27.540 - 02:06:34.220] desde su concepción inicial hasta su funcionamiento y mejora continua.
+[02:06:34.220 - 02:06:40.520] cada uno tiene sus objetivos, procesos y actividades específicas
+[02:06:40.520 - 02:06:44.960] juntas forman un ciclo de vida
+[02:06:44.960 - 02:06:47.880] que ayuda a las organizaciones
+[02:06:47.880 - 02:06:51.380] a ofrecer valor a sus clientes
+[02:06:51.380 - 02:06:54.440] y alcanzar sus objetivos de negocio
+[02:06:59.440 - 02:07:01.100] entonces cuando hablamos
+[02:07:01.100 - 02:07:04.380] de ETIL a versión 3.
+[02:07:06.100 - 02:07:07.800] Hablamos de cinco fases.
+[02:07:09.500 - 02:07:10.920] Estrategia del servicio,
+[02:07:12.120 - 02:07:13.420] diseño del servicio,
+[02:07:14.660 - 02:07:15.960] transición del servicio,
+[02:07:17.240 - 02:07:18.680] operación del servicio,
+[02:07:18.940 - 02:07:20.480] mejora continua del servicio.
+[02:07:26.040 - 02:07:44.640] ETIL 4 utiliza el modelo de las cuatro dimensiones cuando hablamos de cuatro dimensiones estamos hablando de la dimensi por ejemplo organizaci y personas informaci y tecnolog socios y proveedores procesos y flujos de valor
+[02:07:55.000 - 02:07:58.740] Aquí están las cuatro dimensiones de ICTIL.
+[02:07:58.740 - 02:08:05.220] alrededor de las cuatro dimensiones del servicio
+[02:08:05.220 - 02:08:08.060] existen factores externos
+[02:08:08.060 - 02:08:10.020] lo que estábamos hablando de los factores externos
+[02:08:10.020 - 02:08:12.560] el famoso conocido como PESTEL
+[02:08:12.560 - 02:08:17.400] que pueden influenciar en distintas medidas
+[02:08:17.400 - 02:08:19.640] de acuerdo al contexto
+[02:08:19.640 - 02:08:23.540] la manera en cómo se deben aproximar las oportunidades
+[02:08:23.540 - 02:08:26.460] para convertirlas en valor
+[02:08:26.460 - 02:08:30.580] a pensar de las restricciones existentes.
+[02:08:35.180 - 02:08:38.820] Hablamos aquí de factores externos que pueden influenciar,
+[02:08:40.420 - 02:08:51.720] por ejemplo factores econ factores sociales factores tecnol factores ecol factores pol
+[02:08:56.240 - 02:09:00.840] Cada dimensión es afectada por múltiples factores.
+[02:09:00.840 - 02:09:10.080] en ITIL
+[02:09:10.080 - 02:09:12.980] a partir de la 4
+[02:09:12.980 - 02:09:15.000] ya no se enfoca en procesos
+[02:09:15.000 - 02:09:16.140] se enfoca en prácticas
+[02:09:16.140 - 02:09:21.540] tiene 34 prácticas
+[02:09:21.540 - 02:09:24.720] ITIL 4 va a permitir
+[02:09:24.720 - 02:09:26.280] a los profesionales de TI
+[02:09:26.280 - 02:09:29.540] apoyar a su organización
+[02:09:29.540 - 02:09:30.260] en su camino
+[02:09:30.260 - 02:09:33.320] hacia la transformación digital.
+[02:09:34.520 - 02:09:36.100] No es algo nuevo,
+[02:09:37.120 - 02:09:38.260] ya lo venía haciendo,
+[02:09:39.120 - 02:09:40.640] pero se supone que ahora lo hará
+[02:09:40.640 - 02:09:42.260] aún más y aún mejor.
+[02:09:50.520 - 02:09:53.740] Las principales novedades de ETIL 4,
+[02:09:55.080 - 02:09:56.840] sistema del valor del servicio,
+[02:09:58.320 - 02:10:00.000] referencias específicas
+[02:10:00.000 - 02:10:03.660] a la agilidad. O sea, estamos hablando de
+[02:10:03.660 - 02:10:06.140] metodologías ágiles como Scrum, Canva,
+[02:10:11.620 - 02:10:12.700] Principios Guía,
+[02:10:14.460 - 02:10:15.780] Prácticas de Gestión.
+[02:10:18.540 - 02:10:22.480] Mire, este curso se basa en la versión
+[02:10:22.480 - 02:10:26.920] 4. Ahí, estas diapositivas son mías. Si
+[02:10:26.920 - 02:10:29.880] no les parece bien, ahí en el mismo
+[02:10:29.880 - 02:10:35.700] aula virtual en el blackboard usted puede tener las dispositivas las diapositivas
+[02:10:35.700 - 02:10:41.700] de cibertech misma que pone ahí a disposición pero todo está basado en la
+[02:10:41.700 - 02:10:49.160] versión 4 la versión 5 recién ha salido este año en febrero
+[02:10:49.160 - 02:10:53.060] todavía falta y actualizar
+[02:10:59.880 - 02:11:05.160] cuando hablamos del sistema de valor del
+[02:11:05.160 - 02:11:07.200] servicio que es lo que predomina a ITIL
+[02:11:07.200 - 02:11:24.180] 4 ITIL 4 sustituye al ciclo de vida del servicio ciclo de vida del servicio se le conoc a ti la versi 3 con el nuevo concepto dice el sistema de valor al servicio que pretende mostrarnos como la mezcla de
+[02:11:24.180 - 02:11:32.860] distintos componentes nos asistirá en la conversión de demanda y oportunidades en valor consumible por
+[02:11:32.860 - 02:11:41.100] el negocio al que servimos. ITIL 4 no define procesos específicos. Los proveedores de servicios
+[02:11:41.100 - 02:11:47.480] son libres de diseñar procesos a la medida que funcionen para su organización.
+[02:11:54.400 - 02:12:02.220] Referencias específicas a la agilidad. ITIL 4 ha sido diseñado para facilitar y aumentar
+[02:12:02.220 - 02:12:05.600] la agilidad del negocio, concretamente
+[02:12:05.600 - 02:12:09.760] tres de los nuevos siete principios que
+[02:12:09.760 - 02:12:12.960] ahora incluye el modelo contribuyen a
+[02:12:12.960 - 02:12:15.020] la agilidad y el desarrollo de servicios
+[02:12:15.020 - 02:12:19.000] de TI más ágiles, incluyendo referencias
+[02:12:19.000 - 02:12:22.100] específicas a las nuevas prácticas
+[02:12:22.100 - 02:12:35.180] emergentes en TI como Lean IT o Agilent y DevOps cuando hablamos de pr emergentes me suena tambi
+[02:12:35.180 - 02:12:37.340] lo que son las tecnologías disruptivas
+[02:12:37.340 - 02:12:39.000] también, ¿ha escuchado hablar de las
+[02:12:39.000 - 02:12:40.160] tecnologías disruptivas?
+[02:12:40.980 - 02:12:42.980] ¿haber algún concepto de tecnologías
+[02:12:42.980 - 02:12:43.720] disruptivas?
+[02:12:55.000 - 02:12:57.780] profesor disculpe
+[02:12:57.780 - 02:13:00.100] buenas noches nuevamente una consulta
+[02:13:00.100 - 02:13:01.700] en el sistema de valor
+[02:13:01.700 - 02:13:03.920] de servicio usted comentó
+[02:13:03.920 - 02:13:05.600] que y dice que ITIL 4
+[02:13:05.600 - 02:13:07.740] no define procesos específicos
+[02:13:07.740 - 02:13:09.740] dice los
+[02:13:09.740 - 02:13:11.980] proveedores servicios son libres de diseñar
+[02:13:11.980 - 02:13:13.520] procesos a la medida que
+[02:13:13.520 - 02:13:14.800] funcione para su organización
+[02:13:14.800 - 02:13:16.800] en esa parte
+[02:13:16.800 - 02:13:19.560] cuando dice ITIL no define procesos
+[02:13:19.560 - 02:13:20.400] específicos
+[02:13:20.400 - 02:13:23.760] a que mayormente más se está refiriendo
+[02:13:25.000 - 02:13:28.500] es decir, no se deja llevar por un proceso
+[02:13:28.500 - 02:13:29.140] en sí, o sea
+[02:13:29.140 - 02:13:32.220] lo que pasa es que
+[02:13:32.220 - 02:13:33.960] ITIL sí define
+[02:13:33.960 - 02:13:36.560] procesos específicos y describe procesos
+[02:13:36.560 - 02:13:37.700] ¿no?
+[02:13:38.440 - 02:13:52.900] en este caso como pr de gesti gesti de incidencia gesti de cambios pero ac dice que no define Para los proveedores no define un proceso espec Actualmente ITIL ya
+[02:13:52.900 - 02:13:54.500] no se basa en procesos, ya en la versión
+[02:13:54.500 - 02:13:54.860] 4.
+[02:13:56.660 - 02:13:58.900] Los procesos eran la versión 3.
+[02:14:04.060 - 02:14:06.720] Pero en la versión, claro, acá dice,
+[02:14:06.860 - 02:14:08.560] ITIL no define procesos específicos, ¿no?
+[02:14:08.560 - 02:14:10.440] pero bueno
+[02:14:10.440 - 02:14:12.980] toman en cuenta que si define
+[02:14:12.980 - 02:14:15.040] algunos procesos como la gestión de incidencias
+[02:14:15.040 - 02:14:17.780] gestión de problemas
+[02:14:17.780 - 02:14:19.540] gestión de cambios para cada área
+[02:14:19.540 - 02:14:21.040] para el 24
+[02:14:21.040 - 02:14:23.640] claro la gestión de incidentes
+[02:14:23.640 - 02:14:25.500] por ejemplo si un incidente ya es
+[02:14:25.500 - 02:14:27.000] repetitivo
+[02:14:27.000 - 02:14:29.040] ya pasa a ser gestión de problemas
+[02:14:29.040 - 02:14:31.420] ya
+[02:14:31.420 - 02:14:35.040] ok
+[02:14:35.040 - 02:14:35.960] correcto
+[02:14:38.560 - 02:14:59.560] ¿Qué es el principio de la mejora?
+[02:15:00.000 - 02:15:06.720] situarnos en lo que algo que genera utilidad algo que genera digamos algún tipo de valor para en este
+[02:15:06.720 - 02:15:12.100] caso para el club que lo usa no comience donde se encuentre o sea hay que comenzar de donde estamos
+[02:15:12.100 - 02:15:19.960] progrese de manera de forma interactiva mediante la retroalimentación más conocido como feedback no
+[02:15:19.960 - 02:15:28.900] colabore y promueva la visibilidad piense y trabaje holísticamente aquí es una algo que
+[02:15:28.900 - 02:15:31.940] cuando hablamos del trabajo holísticamente
+[02:15:31.940 - 02:15:33.800] es algo nuevo para algunos
+[02:15:33.800 - 02:15:35.980] no sé si algunos tienen experiencia
+[02:15:35.980 - 02:15:37.800] tal vez ya es algo
+[02:15:37.800 - 02:15:39.180] cotidiano, pero hay nuevos
+[02:15:39.180 - 02:15:41.600] que no entienden lo que es
+[02:15:41.600 - 02:15:43.640] la palabra holística, más o menos
+[02:15:43.640 - 02:15:45.420] a ver, interpretemos qué es
+[02:15:45.420 - 02:15:48.000] o cómo es el pensamiento holístico
+[02:15:48.000 - 02:15:52.920] busquemos
+[02:15:52.920 - 02:15:54.860] a ver, indaguemos
+[02:15:54.860 - 02:15:58.240] sobre el pensamiento holístico
+[02:15:58.900 - 02:15:59.900] Gracias.
+[02:16:10.000 - 02:16:34.060] integral, muy bien
+[02:16:40.000 - 02:16:59.300] ¿Qué otro concepto tenemos ahora?
+[02:17:10.000 - 02:17:31.220] otra a ver algo m de pensamiento hol me hablan del integral me han puesto por ac
+[02:17:55.000 - 02:18:17.600] ¿Alguien más?
+[02:18:19.600 - 02:18:22.780] Algo así, claro, coordinación entre áreas.
+[02:18:25.000 - 02:18:51.620] es el pensamiento hol El pensamiento hol es pensar como todo en algo uno solo dime
+[02:18:51.620 - 02:18:59.420] me parece o alguien levantó la mano
+[02:19:03.640 - 02:19:05.460] a ver voy a revisar
+[02:19:05.460 - 02:19:07.520] bueno me parece
+[02:19:07.520 - 02:19:12.160] el pensamiento holístico es como pensar
+[02:19:12.160 - 02:19:14.060] todo como un solo cuerpo
+[02:19:14.060 - 02:19:14.840] es decir
+[02:19:14.840 - 02:19:18.060] lo que falla mayormente dentro
+[02:19:18.060 - 02:19:20.300] de las organizaciones es de que cada área
+[02:19:20.300 - 02:19:21.840] busca
+[02:19:21.840 - 02:19:23.000] busca
+[02:19:23.000 - 02:19:25.380] cumplir con sus metas
+[02:19:25.380 - 02:19:27.900] de manera independiente
+[02:19:27.900 - 02:19:31.700] no hay la respectiva
+[02:19:31.700 - 02:19:33.440] comunicación entre las áreas
+[02:19:33.440 - 02:19:37.200] no pensar como
+[02:19:37.200 - 02:19:40.060] como que, ¿no?
+[02:19:40.700 - 02:19:43.000] Una, por ejemplo, por tratar de solucionar algo
+[02:19:43.000 - 02:19:47.080] o tratar de dar una solución lo más pronto a algo
+[02:19:47.080 - 02:19:53.240] afectamos a otra parte dentro del cuerpo.
+[02:19:53.440 - 02:19:57.440] Entonces, el pensamiento holístico viene de crear,
+[02:19:57.700 - 02:20:00.000] de pensar de que todo afecta
+[02:20:00.000 - 02:20:01.540] uno solo.
+[02:20:03.520 - 02:20:04.480] Algo así. Muy bien.
+[02:20:04.600 - 02:20:06.400] Sí, está bien. Agua para los sombolinos.
+[02:20:06.560 - 02:20:06.640] Sí.
+[02:20:08.640 - 02:20:10.320] La gestión
+[02:20:10.320 - 02:20:12.020] en el enfoque de procesos
+[02:20:12.020 - 02:20:14.420] se maneja como
+[02:20:14.420 - 02:20:15.900] silos, ¿no? Se conoce como silos.
+[02:20:17.060 - 02:20:17.760] Cada quien
+[02:20:17.760 - 02:20:20.240] trabaja en su respectivo,
+[02:20:20.240 - 02:20:21.760] en su respectiva isla.
+[02:20:27.140 - 02:20:27.740] ¿Ya?
+[02:20:27.740 - 02:20:33.580] entonces el pensamiento holístico ve eso, pensar como todo en uno solo.
+[02:20:38.600 - 02:20:44.580] ¿Qué más sigue? Manténgalo simple y práctico también, ese también es otro principio.
+[02:20:46.080 - 02:20:48.260] Optimice y automatice también.
+[02:20:49.300 - 02:20:53.720] En el contexto de Iptil, los siete principios deben entenderse
+[02:20:53.720 - 02:20:59.240] como una serie de recomendaciones con vocación universal y duradera
+[02:20:59.240 - 02:21:03.660] que aplican en cualquier circunstancia de negocio.
+[02:21:11.080 - 02:21:30.060] Las pr de gesti desaparecen los tradicionales procesos de las versiones anteriores de ETIL y son sustituidos por pr que se definen como un conjunto de recursos organizativos dise para realizar un trabajo o alcanzar un objetivo
+[02:21:31.040 - 02:21:37.660] ETIL 4 incluye un total de 34 prácticas organizadas de la siguiente manera.
+[02:21:37.660 - 02:21:40.820] prácticas de gestión general
+[02:21:40.820 - 02:21:43.940] que vienen a ser 14 prácticas
+[02:21:43.940 - 02:21:46.840] prácticas de gestión de servicios que
+[02:21:46.840 - 02:21:49.940] vienen a ser las 17 prácticas y
+[02:21:49.940 - 02:21:51.740] prácticas de gestión técnica
+[02:21:51.740 - 02:21:55.160] o sea las 34 prácticas están
+[02:21:55.160 - 02:21:57.620] divididas en tres grupos
+[02:21:57.620 - 02:22:07.840] bien, ahí están las prácticas de ITIL
+[02:22:07.840 - 02:22:10.200] las 34, cada uno
+[02:22:10.200 - 02:22:11.240] en sus grupos
+[02:22:11.240 - 02:22:20.320] cada una de las
+[02:22:20.320 - 02:22:22.300] prácticas de ITIL
+[02:22:22.300 - 02:22:24.200] están basadas en 4 dimensiones
+[02:22:24.200 - 02:22:34.040] Ah est basada en factores Bueno esto lo hacemos despu tambi A ver m sigue Ventajas de ETIL para el cliente usuario
+[02:22:37.260 - 02:22:44.540] La entrega de servicios de TI se orienta más al cliente y a los acuerdos sobre la calidad del servicio.
+[02:22:46.940 - 02:22:51.540] Mejoran la relación entre el departamento de TI y el cliente.
+[02:22:51.540 - 02:23:01.200] Se describen mejor los servicios en un lenguaje más cómodo para el cliente y con mayores detalles.
+[02:23:03.200 - 02:23:07.240] Se maneja mejor la calidad y el costo del servicio.
+[02:23:09.860 - 02:23:16.200] Mejora la comunicación con la organización TI al acordar los puntos de contacto.
+[02:23:16.200 - 02:23:26.100] contacto. La organización de TI desarrolla una estructura más clara, se vuelve más eficaz y se
+[02:23:26.100 - 02:23:35.320] centra más en los objetivos corporativos. La dirección tiene más control y los cambios resultan
+[02:23:35.320 - 02:23:53.320] m f de manejar Seguir las mejores pr de ITIL alienta el cambio cultural hacia la provisi de servicios ITIL establece un marco de referencia para la comunicaci interna y la comunicaci con los abastecedores
+[02:23:54.740 - 02:23:59.520] así como la estandarización y la identificación de los procedimientos.
+[02:23:59.520 - 02:24:07.820] Problemas potenciales de ITIL
+[02:24:07.820 - 02:24:12.260] Su introducción puede llevar tiempo y esfuerzo
+[02:24:12.260 - 02:24:16.300] ya que se supone un cambio de cultura en la organización
+[02:24:16.300 - 02:24:22.560] Una implementación con éxito implica el compromiso del personal
+[02:24:22.560 - 02:24:24.360] de todos los niveles de la organización
+[02:24:24.360 - 02:24:37.560] Si hay poca inversión en las herramientas de soporte, los procesos pueden no funcionar adecuadamente y el servicio no mejorará.
+[02:24:39.000 - 02:24:50.180] Si la organización se encuentra sobrecargada con las actividades de rutina de la gestión de TI, es probable la necesidad de más recursos y más personal.
+[02:24:50.180 - 02:24:54.640] entonces
+[02:24:54.640 - 02:24:56.640] ¿cuántos procesos contiene
+[02:24:56.640 - 02:24:58.140] ET la versión 3?
+[02:24:59.240 - 02:25:00.000] a ver los
+[02:25:00.000 - 02:25:02.240] Veo en el chat o no sé, pueden.
+[02:25:15.480 - 02:25:19.640] ¿Cuántos procesos tiene ETIL versión 3?
+[02:25:19.640 - 02:25:21.380] Le hemos dicho hace rato también ya.
+[02:25:30.000 - 02:25:45.120] veintiséis, muy bien.
+[02:25:54.620 - 02:25:59.740] Tiene veintiséis procesos orientados al ciclo de vida del servicio.
+[02:26:00.000 - 02:26:06.240] ¿Cuántas prácticas contiene ETIL 4?
+[02:26:10.000 - 02:26:26.160] en el TIL cuántas prácticas son
+[02:26:26.160 - 02:26:29.060] 34
+[02:26:29.060 - 02:26:32.660] 34
+[02:26:32.660 - 02:26:32.960] 34
+[02:26:32.960 - 02:26:38.040] 34 muy bien
+[02:26:40.000 - 02:26:47.380] Muy bien.
+[02:26:50.080 - 02:26:56.280] Contiene 34 prácticas orientadas al sistema de valor del servicio.
+[02:26:58.460 - 02:27:06.200] Están convenidas en tres grupos, prácticas de gestión general, prácticas de gestión de servicio y prácticas de gestión técnica.
+[02:27:10.000 - 02:27:16.640] Listo. Preguntas. Antes de hacer, vamos creando un grupo de WhatsApp.
+[02:27:17.280 - 02:27:19.200] ¿Algún voluntario que cree el grupo, por favor?
+[02:27:23.200 - 02:27:37.920] Les recuerdo que no puedo participar yo en el grupo Me hubiera gustado participar en el grupo pero no Alguien que quede en el grupo por favor y que me pase su n para tener contacto directamente con para compartirle material
+[02:27:37.920 - 02:27:41.020] ah les recuerdo también
+[02:27:41.020 - 02:27:42.620] no les parece bien este material
+[02:27:42.620 - 02:27:44.460] ahí en el aula virtual
+[02:27:44.460 - 02:27:46.620] hay material adicional
+[02:27:46.620 - 02:27:49.220] y les voy a compartir el manual
+[02:27:49.220 - 02:27:51.280] anterior porque no está ahorita en el manual
+[02:27:51.280 - 02:27:53.080] recuerden que
+[02:27:53.080 - 02:27:55.460] los manuales todo esto es de referencia
+[02:27:55.460 - 02:27:56.100] nada más
+[02:27:56.100 - 02:28:00.800] ya a ver alguien por favor
+[02:28:00.800 - 02:28:02.340] que cree el grupo
+[02:28:07.920 - 02:28:08.920] Gracias.
+[02:28:37.920 - 02:28:43.460] es delegado en alg otro curso
+[02:29:10.000 - 02:29:20.120] nadie se ha delegado en algún
+[02:29:20.120 - 02:29:21.820] no tienen otros cursos en afinidad
+[02:29:21.820 - 02:29:24.280] o recién se han unido para este grupo
+[02:29:24.280 - 02:29:26.260] nadie se ha delegado
+[02:29:26.260 - 02:29:27.980] en algún otro curso por ahí
+[02:29:27.980 - 02:29:29.780] que sea delegado, para que más o menos
+[02:29:29.780 - 02:29:31.380] el delegado entienda, no como es la
+[02:29:31.380 - 02:29:33.300] la temática actual
+[02:29:33.300 - 02:29:35.820] si no yo crearía el grupo y no, pero no
+[02:29:35.820 - 02:29:36.680] no se puede pues
+[02:29:36.680 - 02:29:40.380] ahora se crea un grupo
+[02:29:40.380 - 02:29:42.120] muy bien Daniel
+[02:29:42.120 - 02:29:43.120] Santillán
+[02:29:43.120 - 02:29:46.280] Daniel Santillán por favor
+[02:29:46.280 - 02:29:47.580] mandame un mensaje
+[02:29:47.580 - 02:29:50.020] te voy a poner mi número aquí
+[02:30:00.000 - 02:30:13.040] mandame un mensaje por favor ahí
+[02:30:30.000 - 02:30:43.700] Daniel, por favor, ¿me mandas un mensaje a ese número para agendarte?
+[02:30:53.700 - 02:30:56.340] ¿Cuál número, profesor? No veo nada.
+[02:30:56.340 - 02:30:58.320] no, no está en el chat, le he puesto
+[02:30:58.320 - 02:31:00.720] a ver, a ver, no sale creo, a ver, espérate para ver
+[02:31:00.720 - 02:31:01.840] no, no
+[02:31:01.840 - 02:31:04.220] no, ah, sí, ahí, espérate
+[02:31:04.220 - 02:31:05.140] vamos a ponerle
+[02:31:05.140 - 02:31:07.820] ah, no está
+[02:31:07.820 - 02:31:08.380] no está
+[02:31:08.380 - 02:31:22.020] ahora s creo ya est
+[02:31:40.000 - 02:32:06.380] Sí, Franklin, espero
+[02:32:06.380 - 02:32:08.720] es toda la semana para que
+[02:32:10.000 - 02:32:14.040] Los exámenes ahora. Ya les voy a explicar con el delegado.
+[02:32:21.980 - 02:32:24.920] Sí, lo logré mi número, ¿no, Daniel?
+[02:32:31.760 - 02:32:37.120] Ya est listo Ya lo tengo todo nombrado quiero para agendarte aqu
+[02:32:55.000 - 02:33:06.600] Ya. Ya se unieron al grupo. Dime, alguien levantó la mano.
+[02:33:06.600 - 02:33:26.680] ya está, únanse al grupo que ha creado
+[02:33:26.680 - 02:33:27.780] su compañero por favor
+[02:33:36.600 - 02:33:37.600] Gracias.
+[02:33:40.000 - 02:33:41.000] Gracias.
+[02:34:10.000 - 02:34:11.000] Gracias.
+[02:34:40.000 - 02:34:48.460] ahí te he compartido material
+[02:34:48.460 - 02:34:52.220] ahí te he compartido material
+[02:34:52.220 - 02:34:54.260] ya para que lo compartas en el grupo
+[02:35:00.000 - 02:35:01.000] Gracias.
+[02:35:30.000 - 02:35:51.400] Ahí también te he dado otro material, ¿ya?
+[02:35:52.240 - 02:36:07.557] Ah con respecto a la recuperaci podr hacer ah la primera clase mayormente es la presentaci los s del curso No s en qu hora lo podr hacer porque
+[02:36:07.557 - 02:36:09.537] tendría que ser en la tarde, pero
+[02:36:09.537 - 02:36:11.997] más o menos
+[02:36:11.997 - 02:36:13.917] o les
+[02:36:13.917 - 02:36:14.957] mando la grabación.
+[02:36:23.957 - 02:36:25.437] La grabación, claro.
+[02:36:25.877 - 02:36:29.497] claro, es lo que va a ser mejor
+[02:36:29.497 - 02:36:31.377] le repito, la primera es
+[02:36:31.377 - 02:36:34.077] algo de procesos, algo del sílabo
+[02:36:34.077 - 02:36:35.497] del curso, mire
+[02:36:35.497 - 02:36:36.937] usted también puede
+[02:36:36.937 - 02:36:39.237] ver también acá
+[02:36:39.237 - 02:36:41.757] el material que yo comparto, el material
+[02:36:41.757 - 02:36:43.417] que no sé, bueno, si le interesa
+[02:36:43.417 - 02:36:45.897] es un material que yo he diseñado
+[02:36:45.897 - 02:36:48.037] pero también si usted gusta, mire acá también
+[02:36:48.037 - 02:36:49.917] dentro de la misma
+[02:36:49.917 - 02:36:52.077] aula virtual, todo material
+[02:36:52.077 - 02:36:53.237] es material de apoyo, ya
+[02:36:53.237 - 02:36:54.877] acá en el aula virtual
+[02:36:54.877 - 02:37:18.955] a ver si se lo van a ver ah est ac est no s si es igual aqu tienes
+[02:37:18.955 - 02:37:22.015] unidades también, mira
+[02:37:22.015 - 02:37:24.615] gestión de procesos
+[02:37:24.615 - 02:37:26.735] gestión de servicios, también hay material aquí
+[02:37:26.735 - 02:37:29.015] disponible. Este es el material
+[02:37:29.015 - 02:37:30.035] que viene de Cibertech.
+[02:37:30.775 - 02:37:31.355] Mismo, ¿ya?
+[02:37:36.355 - 02:37:37.515] Sí, entonces, ¿les parece?
+[02:37:37.955 - 02:37:39.375] Ya, aparte del material que
+[02:37:39.375 - 02:37:41.695] tengo usted, si usted gusta,
+[02:37:41.855 - 02:37:43.775] yo igual le voy a compartir con el delegado.
+[02:37:44.715 - 02:37:45.615] Es libre de usted
+[02:37:45.615 - 02:37:47.995] escoger. El manual, por ejemplo, ese manual
+[02:37:47.995 - 02:37:49.815] es el último manual
+[02:37:49.815 - 02:37:51.375] también de referencia.
+[02:37:51.915 - 02:37:53.735] Ya no le he visto que lo han puesto esta vez.
+[02:37:54.695 - 02:37:55.715] También, si usted quiere
+[02:37:55.715 - 02:38:03.412] le puedo utilizar tiene alguna pregunta
+[02:38:14.512 - 02:38:16.572] Sí, está bien. Yo les voy a compartir el
+[02:38:16.572 - 02:38:17.252] link todo ese.
+[02:38:21.652 - 02:38:23.492] Por esa hora que ya tengo ahí a su
+[02:38:23.492 - 02:38:25.192] compañero, yo lo agendé.
+[02:38:25.192 - 02:38:27.672] ella en el grupo lo va
+[02:38:27.672 - 02:38:30.672] les va a decir
+[02:38:30.672 - 02:38:31.852] o cualquier cosa también
+[02:38:31.852 - 02:38:33.972] mediante
+[02:38:33.972 - 02:38:37.172] mediante él también me lo hacen saber
+[02:38:46.952 - 02:38:47.672] listo
+[02:38:47.672 - 02:38:48.432] preguntas
+[02:38:48.432 - 02:38:57.852] de nueve preguntas
+[02:38:57.852 - 02:38:59.492] nos vemos la siguiente clase
+[02:38:59.492 - 02:39:02.332] vamos a parar la grabación
+[02:39:02.332 - 02:39:03.292] también aquí para que
+
+SHA-256 del audio: 5e52f58510fd7c67f6483ddefaa3abfda6576e27ebdc19247be546d6e03e4574

@@ -4,6 +4,10 @@
 __pycache__/
 *.pyc
 
+# Grabaciones y archivos locales de trabajo
+/audios/*
+!/audios/.gitkeep
+
 # Grabaciones de audio y video
 *.[mM]4[aAvV]
 *.[mM][pP][34]

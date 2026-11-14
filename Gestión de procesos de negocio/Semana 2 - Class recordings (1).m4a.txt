@@ -1,0 +1,1652 @@
+Class recordings (1).m4a
+Duración: 01:57:26.165
+Fragmentos: 24
+
+[00:00:00.000 - 00:00:01.000] Gracias.
+[00:00:30.000 - 00:00:31.000] Gracias.
+[00:01:00.000 - 00:01:01.000] Gracias.
+[00:01:10.000 - 00:01:11.000] Gracias.
+[00:01:40.000 - 00:01:41.000] Gracias.
+[00:02:10.000 - 00:02:11.000] Gracias.
+[00:02:25.000 - 00:02:26.000] Gracias.
+[00:02:55.000 - 00:02:56.000] Gracias.
+[00:03:25.000 - 00:03:26.000] Gracias.
+[00:03:40.000 - 00:03:41.000] Gracias.
+[00:04:10.000 - 00:04:11.000] Gracias.
+[00:04:40.000 - 00:04:41.000] Gracias.
+[00:05:00.000 - 00:05:29.320] Muy buenas noches, ¿cómo están?
+[00:05:29.320 - 00:05:49.540] Bueno, muchísimas gracias por la espera. Agradezco a todos, bueno, espero que todos hayan recibido mi correo a tiempo, o mi mensaje, mejor dicho, ya que se me ha complicado estos días, ya que tuve que atender una operación urgente de mi mamá. Bueno, se complicó, pero todo bien, felizmente.
+[00:05:49.540 - 00:05:54.480] Entonces, les agradezco a todos los que han podido recibir mi mensaje.
+[00:05:55.200 - 00:05:55.940] ¿Ok? Bien.
+[00:05:56.240 - 00:06:02.300] Pero, de todas maneras, no es impedimento para poder continuar con lo que teníamos programado para el día de hoy.
+[00:06:03.580 - 00:06:06.480] Veo que somos seis conectados de los 32.
+[00:06:07.220 - 00:06:07.620] ¿Ok?
+[00:06:08.240 - 00:06:22.880] Espero que se puedan conectar en lo que va de la sesi va de la sesi bien a ver qui est conectados aqu abraham ramos que nos enterramos
+[00:06:22.880 - 00:06:30.560] raúl muy buenas noches martín cómo estás manuel josé luís omar también lo veo por
+[00:06:30.560 - 00:06:37.820] aquí conectado muy bien perfecto ok vamos a empezar
+[00:06:37.820 - 00:06:45.160] con los que ya estamos, para no perder minutos que ya hemos esperado de esta sesión.
+[00:06:45.800 - 00:06:47.140] ¿Cómo vas, José Luis? Muy bien.
+[00:06:47.620 - 00:06:49.360] Ok, espero que todos estén muy bien.
+[00:06:50.320 - 00:06:53.060] Vamos a iniciar. Me van a disculpar que en esta sesión no voy a poder prender mi cámara,
+[00:06:53.460 - 00:06:55.960] pero para la siguiente, de todas maneras, estará encendida.
+[00:06:57.580 - 00:06:59.740] Para el día de hoy, tenemos...
+[00:06:59.740 - 00:07:03.920] Ah, y por otro lado, antes de avanzar, quería agradecerle a nuestro delegado
+[00:07:03.920 - 00:07:06.700] que me ha podido compartir la lista de los grupos.
+[00:07:07.340 - 00:07:09.620] Veo que son 8 grupos, ya los tengo aquí,
+[00:07:09.720 - 00:07:13.800] los voy a formalizar en la plataforma para que podamos
+[00:07:13.800 - 00:07:18.860] avanzar los proyectos en base a la cantidad de integrantes que
+[00:07:18.860 - 00:07:19.540] son por grupo.
+[00:07:20.880 - 00:07:22.020] Por ese lado, bien.
+[00:07:22.160 - 00:07:35.220] Por otro lado est pendiente que les env el feedback de la actividad de la semana 1 Hoy d se los env de todas maneras Me falta enviarlo porque ya est listo Les voy a brindar una nota una nota referencial de la
+[00:07:35.220 - 00:07:36.840] actividad que me han entregado, ¿OK?
+[00:07:36.840 - 00:07:39.760] Y eso va a ser como un termómetro para que vean
+[00:07:39.760 - 00:07:46.500] ustedes cómo van a ir mejorando su proyecto hasta la evaluación
+[00:07:46.500 - 00:07:47.400] final, ¿OK?
+[00:07:48.680 - 00:07:51.680] Entonces, hoy día me comprometo a enviarles el feedback.
+[00:07:52.300 - 00:07:54.600] Voy a formalizar los grupos que ya me compartió el delegado.
+[00:07:54.600 - 00:07:55.780] Espero que no falte ninguno.
+[00:07:55.980 - 00:08:00.020] Tengo 32 estudiantes que ya tienen grupo, ¿no?
+[00:08:00.100 - 00:08:03.140] Y si falta alguno, no, me avisa o le avisa al delegado para que
+[00:08:03.140 - 00:08:04.680] pueda incorporarlo, ¿OK?
+[00:08:05.500 - 00:08:07.760] Entonces, hoy día, hoy día, bueno,
+[00:08:07.780 - 00:08:10.940] estamos en la semana 2, tenemos el tema 3.
+[00:08:11.280 - 00:08:15.060] El tema 3 que está enfocado en la alineación de procesos y
+[00:08:15.060 - 00:08:15.740] organizaciones.
+[00:08:16.300 - 00:08:19.040] Esto será la fase preliminar, la fase A,
+[00:08:19.520 - 00:08:22.460] que está enfocado también en la visión de la arquitectura,
+[00:08:22.920 - 00:08:23.160] ¿OK?
+[00:08:24.160 - 00:08:32.080] Entonces, aquí, importante, vamos a conocer la importancia de la arquitectura empresarial, ¿no?
+[00:08:32.120 - 00:08:35.220] Basada en Tohaf, que ya estuvimos conversando la sesión pasada.
+[00:08:36.020 - 00:08:39.860] Justamente aquí lo que vamos a hacer es destacar los beneficios de este framework.
+[00:08:39.960 - 00:08:52.140] Vamos a hablar de un framework que justamente se brinda en todas las organizaciones Vamos a ver un caso que est enfocado bastante en la digitalizaci de procesos de inscripciones en un gimnasio
+[00:08:52.180 - 00:08:54.740] que tal vez ustedes ya lo han leído, que está en el material multimedia.
+[00:08:55.180 - 00:08:59.200] Recuerden que siempre tienen que llegar a esta sesión repasando el material multimedia
+[00:08:59.200 - 00:09:02.940] para que los casos tengan mucho más sentido aún, ¿no?
+[00:09:02.940 - 00:09:09.200] Y puedan ustedes incorporar todo lo aprendido en casos de la vida real.
+[00:09:09.200 - 00:09:31.420] ¿Sí? Entonces, vamos a empezar. Yo les compartí hace poco, mientras esperábamos iniciar la sesión, unos videos mediante la sección de anuncios, ¿no? Unos videos que les va a servir, lo pueden ver de manera síncrona para que pueda reforzar justamente los conceptos que ya estamos, que vamos a aprender el día de hoy. ¿Sí?
+[00:09:31.420 - 00:09:38.360] Tengo el video que les compartí, pero este video tiene una duración de 10 minutos, es muy largo.
+[00:09:38.840 - 00:09:45.320] Para aprovechar el tiempo vamos a avanzar con el tema que tenemos ahora enfocado siempre en los casos.
+[00:09:45.820 - 00:09:53.420] Y sí les pido, por favor, de manera síncrona poder justamente revisar los videos que les he compartido por la pestaña de anuncios.
+[00:09:54.220 - 00:09:54.980] Son tres videos.
+[00:09:56.320 - 00:09:56.540] ¿Ok?
+[00:09:57.040 - 00:09:59.000] Entonces, vamos a empezar.
+[00:09:59.480 - 00:10:00.000] Primero.
+[00:10:00.000 - 00:10:03.940] antes de proyectar la infografía que teníamos para ahora,
+[00:10:05.400 - 00:10:07.980] solo recordar que la semana pasada, ¿no?
+[00:10:07.980 - 00:10:09.260] Dimos el primer paso, ¿no?
+[00:10:09.400 - 00:10:12.940] Entendimos que la arquitectura empresarial es el plano, ¿no?
+[00:10:12.940 - 00:10:16.520] Que conecta la estrategia de una empresa, ¿no?
+[00:10:16.680 - 00:10:19.040] Con sus procesos, ¿ok?
+[00:10:19.080 - 00:10:21.900] Estamos recordando un poquito lo que vimos la semana pasada, ¿no?
+[00:10:21.940 - 00:10:24.960] Hablamos de sus datos, sus aplicaciones y su tecnología.
+[00:10:25.680 - 00:10:26.720] Y Keto Hub, ¿no?
+[00:10:26.820 - 00:10:28.080] Nos ofrece un método.
+[00:10:28.580 - 00:10:29.780] Hablamos de ese método.
+[00:10:30.000 - 00:10:31.940] Y del ADM también, ¿no?
+[00:10:31.980 - 00:10:34.800] Para justamente construir ese plano.
+[00:10:35.980 - 00:10:40.480] También aprendimos a leer, a entender, ¿no?
+[00:10:40.480 - 00:10:43.640] La estrategia del FODA, las 5 fuerzas de Porter,
+[00:10:44.100 - 00:10:45.640] la cadena de valor, ¿no?
+[00:10:45.740 - 00:10:46.620] Y el Canvas.
+[00:10:46.620 - 00:10:52.460] Entonces, importante poder recordar y refrescar lo que
+[00:10:52.460 - 00:10:54.920] aprendimos la semana pasada, que también va a estar bastante
+[00:10:54.920 - 00:10:58.040] reflejado en la actividad que ya me entregaron y que hoy les
+[00:10:58.040 - 00:10:59.400] estoy enviando el feedback.
+[00:11:00.000 - 00:11:05.900] bueno, la retroalimentación en realidad, positiva en las cosas que han hecho muy bien, en las cosas que hay que mejorar,
+[00:11:06.280 - 00:11:24.360] y un peque breve comentario a nivel de consultor qu cosas pueden hacer para seguir mejorando Entonces eso es lo que vimos la semana pasada Hoy quiero comentarles justamente que vamos a tambi avanzar con
+[00:11:24.360 - 00:11:28.380] la actividad 2, que todavía no lo he publicado en el Blackboard,
+[00:11:28.520 - 00:11:31.300] pero está aquí compartido en los archivos de esta sesión.
+[00:11:31.600 - 00:11:33.120] Esa es la actividad 2, la que continúa.
+[00:11:34.100 - 00:11:34.380] ¿OK?
+[00:11:34.860 - 00:11:38.900] Entonces, hoy vamos a entrar al tema 3, ¿no?
+[00:11:38.900 - 00:11:43.680] Que justamente les mencionaba que es la alineación de procesos y de la organización.
+[00:11:43.680 - 00:11:48.120] Y vamos a trabajar en dos primeras fases del ciclo, ¿sí?
+[00:11:48.260 - 00:11:49.820] Las dos primeras fases del ciclo.
+[00:11:50.180 - 00:11:53.920] Es la fase preliminar y la fase A, ¿no?
+[00:11:53.920 - 00:11:56.260] Que es prácticamente la visión de la arquitectura.
+[00:11:56.980 - 00:12:01.400] Entonces, si la semana pasada aprendimos qué es la arquitectura,
+[00:12:01.920 - 00:12:05.560] pues hoy vamos a aprender cómo, el cómo, ¿no?
+[00:12:05.560 - 00:12:06.360] Y aprendimos el qué.
+[00:12:06.360 - 00:12:08.660] ahora vamos a ver cómo se arranca un proyecto
+[00:12:08.660 - 00:12:09.600] de arquitectura
+[00:12:09.600 - 00:12:12.080] en la vida real.
+[00:12:12.540 - 00:12:13.840] Y les adelanto,
+[00:12:14.140 - 00:12:16.760] la idea central que vamos a tener el día de hoy
+[00:12:16.760 - 00:12:18.560] es un proyecto de arquitectura
+[00:12:18.560 - 00:12:20.780] que no empieza
+[00:12:20.780 - 00:12:22.120] simplemente dibujando un sistema,
+[00:12:22.920 - 00:12:24.580] empieza realmente
+[00:12:24.580 - 00:12:35.800] poni de acuerdo sobre qu se quiere lograr qui participan qu reglas se van a respetar y hasta d se va a llevar el
+[00:12:35.800 - 00:12:36.240] proyecto?
+[00:12:36.660 - 00:12:39.440] Hay que cuestionar siempre porque eso nos va a servir
+[00:12:39.440 - 00:12:43.120] muchísimo, porque son los inputs para mantener las bases,
+[00:12:43.300 - 00:12:43.560] ¿no?
+[00:12:43.600 - 00:12:44.340] De un proyecto.
+[00:12:44.340 - 00:12:47.680] Y sobre lo cual vas a montar la arquitectura correcta, ¿sí?
+[00:12:47.840 - 00:12:49.340] Siempre alineado a la estrategia.
+[00:12:50.100 - 00:12:51.680] Recuerden ese punto siempre.
+[00:12:51.680 - 00:13:01.840] Entonces, para empezar, vamos a aperturar la sesión haciendo la pregunta, ¿no? Y siempre poniéndonos en un caso, ¿no? En una situación.
+[00:13:02.740 - 00:13:18.240] Piensen en un proyecto de tecnología, ¿sí? Que hayan visto fracasar. Y si es que no lo han visto, ahora los voy a guiar de cuál va a ser justamente la respuesta a esta situación, ¿sí?
+[00:13:18.240 - 00:13:58.880] A ver pensemos en un proyecto y los que s han vivido un proyecto que ha fracasado a buena hora para que justamente conecte con lo que vamos a ver ahora Entonces pensando en un proyecto de tecnolog que se haya visto fracasar sin O retrasarse tal vez Que esto pasa mucho A veces nos comprometemos con un cronograma que finalmente no se logra cumplir los tiempos Entonces se retrasa en los hitos En los entregables Y claro si sucede esta situaci nos hacemos la pregunta qu momento creen que empez a fallar qu momento Eso es lo que tendr que preguntarnos
+[00:13:58.880 - 00:14:15.180] ¿Falló en el programa? ¿O en qué justamente se dio este declive? ¿O al probar? ¿O mucho antes, posiblemente? Como hablábamos en la semana pasada, ¿recuerda?
+[00:14:15.180 - 00:14:29.760] Entonces, pensando en ese caso, posiblemente, la mayoría de casos, el problema muchas veces empieza mucho antes, ¿no? Antes de llegar a las pruebas.
+[00:14:31.600 - 00:14:38.020] Entonces, justamente en la etapa de la planificación, la programación del proyecto, ¿no?
+[00:14:38.460 - 00:14:43.460] Entonces, empezó justamente cuando no se definió con claridad qué objetivos.
+[00:14:43.560 - 00:14:48.180] Recuerdan que hablábamos mucho de los objetivos, hay que conocer y saber cuáles son los objetivos del negocio, ¿no?
+[00:14:48.180 - 00:14:50.320] ¿Qué busca? ¿Verdad? Si recuerdan, ¿no?
+[00:14:52.240 - 00:15:00.000] Y claro, cuando no se identifican, ¿no? A todas las personas también afectadas, involucradas en el proyecto, eso también.
+[00:15:00.000 - 00:15:08.880] y nos impacta. También cuando nadie posiblemente nos dijo que quedaría fuera del alcance,
+[00:15:10.040 - 00:15:16.880] o cuando prácticamente se reconocen las restricciones, ¿no? A nivel de, recuerda que hablamos de
+[00:15:16.880 - 00:15:22.440] presupuesto, ¿no? Del dinero, del tiempo, de personas, ¿no? Entonces, esos errores, clase,
+[00:15:22.440 - 00:15:27.300] son justamente el punto, ¿no?
+[00:15:27.300 - 00:15:28.580] El punto de inflexión.
+[00:15:28.580 - 00:15:32.920] Y esos errores que prácticamente son arranques
+[00:15:32.920 - 00:15:36.960] que de alguna u otra manera nos va a impactar en los costos
+[00:15:36.960 - 00:15:41.300] y que de alguna u otra manera se pueden corregir desde el inicio.
+[00:15:43.180 - 00:15:43.260] ¿Sí?
+[00:15:44.100 - 00:15:48.420] Entonces, es por eso que Tohaf, ¿no?
+[00:15:48.420 - 00:15:52.700] dedica dos fases completas.
+[00:15:53.580 - 00:15:56.240] La preliminar, la que vamos a ver ahora,
+[00:15:56.480 - 00:15:58.020] y la fase A.
+[00:15:58.740 - 00:15:58.780] ¿Ok?
+[00:16:00.200 - 00:16:01.420] Que, a ver,
+[00:16:02.540 - 00:16:04.860] si hablamos justamente de estas dos fases,
+[00:16:04.860 - 00:16:07.560] es preparar el terreno antes de construir.
+[00:16:08.580 - 00:16:08.620] ¿Sí?
+[00:16:08.980 - 00:16:21.580] Preparar las bases Del gran edificio que vamos a construir Entonces eso es exactamente lo que vamos a ver y aprender el d de hoy Entonces vamos a empezar primero con el primer bloque
+[00:16:21.980 - 00:16:25.320] que es el ADM como modelo de desarrollo.
+[00:16:25.320 - 00:16:27.920] Vamos a proyectar la infografía.
+[00:16:28.140 - 00:16:31.320] Permítame un segundo, por favor, para proyectar.
+[00:16:33.580 - 00:16:36.420] La infografía que tenemos del tema 3.
+[00:16:40.000 - 00:16:41.720] Bueno, aquí está.
+[00:16:42.280 - 00:16:42.440] ¿Vean?
+[00:16:43.740 - 00:16:46.440] Ustedes lo ven completo o lo ven por partes,
+[00:16:47.200 - 00:16:48.680] pero yo lo veo por partes.
+[00:16:48.860 - 00:16:50.180] Lo veo muy grande, un segundito.
+[00:16:54.500 - 00:16:58.120] Esta infografía es una guía de ayuda, ¿no?
+[00:16:58.240 - 00:17:02.100] Ayuda para que ustedes recuerden cada tema que estamos
+[00:17:02.100 - 00:17:03.040] aprendiendo en clase.
+[00:17:06.380 - 00:17:09.980] A ver, creo que soy yo la que debería disminuir el tamaño
+[00:17:09.980 - 00:17:16.040] tamaño de esta lámina para poder verla. Pero ustedes lo ven completo, ¿verdad? Lo ven sin ningún problema.
+[00:17:16.040 - 00:17:23.780] Me comentan aquí en el chat. Clase para saber si ven bien la infografía. ¿Todo bien? Brian, buenas
+[00:17:23.780 - 00:17:34.900] noches Nilsson est El metaverso quiz nos dicen Ok Claro Tambi nos impacta
+[00:17:35.080 - 00:17:39.200] Todo lo que son las tecnologías nos va a impactar definitivamente, ¿no?
+[00:17:39.440 - 00:17:45.600] Y hay que siempre estar atentos a lo que pasa en el entorno de las nuevas tecnologías, ¿no?
+[00:17:45.600 - 00:17:48.820] Como el metaverso, la inteligencia artificial, ¿no?
+[00:17:50.720 - 00:17:53.080] Nos dice Luis Arturo, si se ve, espectacular.
+[00:17:53.240 - 00:17:53.560] Genial.
+[00:17:53.840 - 00:17:54.400] Gracias, José.
+[00:17:54.400 - 00:18:05.380] Muy bien, gracias, Omar. Carlos nos dice, ¿hace buena noche? Perfecto, excelente, muy bien. Entonces, no me preocupo de cómo yo lo veo, ¿de acuerdo? Muy bien, entonces empecemos.
+[00:18:05.380 - 00:18:28.340] Ok, entonces, empezamos recordando qué es el ADM, ¿no? Porque hoy lo vamos a usar realmente, ¿no? Entonces, nos dice, ¿no? Que el ADM es el resultado de las contribuciones de numerosos profesionales, ¿no? De la arquitectura.
+[00:18:29.340 - 00:18:32.480] Entonces, en ese punto, ¿no?
+[00:18:32.660 - 00:18:36.660] Es un método para obtener arquitecturas empresariales
+[00:18:36.660 - 00:18:38.100] específicas, ¿no?
+[00:18:38.300 - 00:18:39.740] Para cada organización.
+[00:18:40.720 - 00:18:52.540] Dise justamente para responder a los requerimientos del negocio Eso es Entonces describe un m confiable y aprobado
+[00:18:52.620 - 00:18:55.660] que justamente es probado en el desarrollo,
+[00:18:55.660 - 00:18:59.660] y usar una arquitectura en sus diferentes niveles,
+[00:18:59.800 - 00:19:04.800] a nivel de negocio, datos, aplicaciones y tecnología,
+[00:19:05.240 - 00:19:06.220] definitivamente, ¿no?
+[00:19:06.440 - 00:19:07.260] Que es la que habilita.
+[00:19:07.260 - 00:19:23.260] Entonces, aquí agregamos rasgos que conviene bastante subrayar, ¿no?
+[00:19:23.260 - 00:19:43.180] Permite llevar a cabo un proceso iterativo, repetitivo, ¿no? De evaluación para el desarrollo de las arquitecturas, ¿sí? Incluye puntos de vista, directrices también sobre herramientas, enlaces a casos prácticos y un método para gestionar requisitos.
+[00:19:44.020 - 00:19:46.440] Y también determina, ¿no?
+[00:19:46.440 - 00:19:47.820] Con dos frases,
+[00:19:48.540 - 00:19:50.500] que quiero que también se lo lleven y lo recuerden, ¿no?
+[00:19:50.900 - 00:19:56.000] Donde nos dice que el proceso es iterativo y cíclico.
+[00:19:57.520 - 00:20:00.000] ¿Sí? No se olviden, el proceso es iterativo y...
+[00:20:00.000 - 00:20:00.820] y cíclico.
+[00:20:01.200 - 00:20:06.200] Y cada paso inicia con la verificación de los
+[00:20:06.200 - 00:20:07.500] requerimientos.
+[00:20:08.340 - 00:20:13.020] Todo proyecto inicia con todo un documento de requerimientos que
+[00:20:13.020 - 00:20:15.880] han sido declarados y firmados por el negocio.
+[00:20:16.800 - 00:20:18.920] Y esos requerimientos prácticamente son los casos de
+[00:20:18.920 - 00:20:21.080] uso, los flujos, ¿no?
+[00:20:21.080 - 00:20:24.820] Que quiere que negocios prácticamente se diseñen, ¿no?
+[00:20:24.900 - 00:20:26.000] Con la arquitectura.
+[00:20:26.860 - 00:20:28.900] Entonces, ese es el input principal también, ¿no?
+[00:20:28.900 - 00:20:32.580] Entonces, todo lo que acabo de decir, ¿qué significa en la práctica, no?
+[00:20:32.700 - 00:20:37.820] Esto quiere decir que el ADM es una de las, prácticamente es una receta, ¿no?
+[00:20:38.240 - 00:20:43.200] Que se sigue una sola vez de arriba hacia abajo, ¿sí?
+[00:20:43.720 - 00:20:50.680] Entonces, es un ciclo que recorre, se recorre muchas veces, es cíclico, ¿sí?
+[00:20:50.700 - 00:20:53.500] No quiere decir que solamente es una sola vez, es cíclico, ¿no?
+[00:20:53.500 - 00:20:55.020] Se recorre varias veces.
+[00:20:55.700 - 00:21:04.720] Y en cada vuelta se vuelve a preguntar si lo que estamos haciendo responde a lo que el negocio necesita.
+[00:21:05.040 - 00:21:05.620] Esa es la clave.
+[00:21:06.520 - 00:21:08.460] Siempre hay que hacernos esa pregunta.
+[00:21:09.200 - 00:21:20.200] Porque si no responde el negocio paremos todo Hay algo que no est bien Hay que corregir ajustar Eso es lo que nos dice justamente este modelo
+[00:21:20.200 - 00:21:21.380] ¿no? Del ADN.
+[00:21:22.180 - 00:21:24.160] Entonces, como ven en
+[00:21:24.160 - 00:21:25.940] la infografía, ¿no? Ven un círculo
+[00:21:25.940 - 00:21:27.820] de fases, ¿no?
+[00:21:29.200 - 00:21:29.800] Y
+[00:21:29.800 - 00:21:32.200] deja de...
+[00:21:32.720 - 00:21:33.920] Deja una advertencia, ¿no? Muy
+[00:21:33.920 - 00:21:35.840] importante. Nos dice, ¿no? Que
+[00:21:35.840 - 00:21:37.320] Tohaf recomienda
+[00:21:37.320 - 00:21:40.480] una serie de fases y pasos.
+[00:21:41.040 - 00:21:45.440] Pero el alcance lo decide la organización.
+[00:21:46.620 - 00:21:50.440] Eso sí, no podemos avanzar con algún método o reglas y más
+[00:21:50.440 - 00:21:53.400] si ese alcance no está correctamente definido.
+[00:21:54.180 - 00:21:56.080] Y este alcance lo define el negocio,
+[00:21:56.280 - 00:21:58.600] juntamente con los líderes hacia arriba.
+[00:21:59.120 - 00:22:03.900] Entonces, esto significa que no hay que aplicar TOGAF completo.
+[00:22:03.900 - 00:22:08.040] Hay que utilizarlo en base a la necesidad del negocio, ¿no?
+[00:22:08.120 - 00:22:12.660] A la necesidad del iniciativo, del proyecto que ustedes también ya han definido, ¿no?
+[00:22:12.840 - 00:22:18.980] Entonces, una empresa pequeña puede usar solo algunas fases, no todas, ¿sí?
+[00:22:19.620 - 00:22:24.960] Una corporación puede usar todas posiblemente, porque estamos hablando de una corporación, ¿no?
+[00:22:25.080 - 00:22:35.420] Que tiene varias empresas Entonces el arquitecto adapta el m lo adapta No es al rev Sino adapta a el tama de la empresa
+[00:22:35.540 - 00:22:36.740] Eso también es importante saber.
+[00:22:37.180 - 00:22:40.100] ¿Qué tipo de empresa ustedes están postulando para su
+[00:22:40.100 - 00:22:40.500] proyecto?
+[00:22:41.120 - 00:22:41.260] ¿No?
+[00:22:41.260 - 00:22:43.540] Para saber si van a utilizar todo, ¿no?
+[00:22:43.620 - 00:22:46.440] A nivel de TODAF o solamente una parte.
+[00:22:46.620 - 00:22:47.480] Eso es importante, ¿no?
+[00:22:47.760 - 00:22:50.060] Para que no vayan a aplicar todo, ¿no?
+[00:22:50.060 - 00:22:51.540] Para una empresa pequeña, ¿ok?
+[00:22:51.540 - 00:22:58.160] Entonces, se puede iterar sobre todo el proceso, ¿sí?
+[00:22:58.200 - 00:22:58.980] Hablamos de iterar.
+[00:22:59.780 - 00:23:01.400] También se puede entre fases, ¿no?
+[00:23:01.500 - 00:23:03.120] Y dentro de las fases también.
+[00:23:04.240 - 00:23:08.800] Y para cada iteración se recomienda tres cosas, ¿sí?
+[00:23:08.860 - 00:23:14.120] Que son el alcance, que esté súper claro, definitivamente, ¿no?
+[00:23:14.160 - 00:23:15.880] Bien definido, ¿no?
+[00:23:16.020 - 00:23:16.580] Delimitado.
+[00:23:16.580 - 00:23:22.840] El nivel de detalle y los horarios e hitos también importantes, ¿no?
+[00:23:23.260 - 00:23:26.100] Horarios de reuniones y hitos entregables, ¿no?
+[00:23:27.000 - 00:23:30.880] Y llevándolo ya a un caso real, ahorita les hablaba un poquito de teoría,
+[00:23:31.160 - 00:23:34.060] pero ya llevándolos a un caso real, ahí es donde necesito toda su atención
+[00:23:34.060 - 00:23:35.800] de todos los que estamos conectados aquí,
+[00:23:36.320 - 00:23:59.220] que es justamente donde vamos a plasmar toda esta teor en la pr Entonces llev al caso real a ver imaginen que est en una fase B Est describiendo el proyecto de inscripci de un gimnasio Est en esa etapa Y descubren que
+[00:23:59.220 - 00:24:09.320] el pago con tarjeta lo hace otra empresa. Entonces, tienen que volver a la fase A para
+[00:24:09.320 - 00:24:13.760] ajustar el alcance y agregar que es, ¿no?
+[00:24:13.940 - 00:24:16.000] Es un proveedor, como un stakeholder.
+[00:24:17.100 - 00:24:18.480] Porque es parte del proceso.
+[00:24:19.680 - 00:24:23.060] Esto, lo que les acabo de decir, eso es iterar entre fases.
+[00:24:23.960 - 00:24:27.220] Y no es un error, ojo, es iterar.
+[00:24:27.340 - 00:24:29.180] Eso es lo que nos dice el método.
+[00:24:30.420 - 00:24:32.040] Es un método, ¿no?
+[00:24:33.400 - 00:24:36.120] Funcionando como debería ser, ¿no?
+[00:24:36.120 - 00:24:40.240] Es por esa razón que siempre se hace esta revisión cíclica, ¿sí?
+[00:24:40.860 - 00:24:46.960] Y llevándolo a casos reales, a ver, permítanme ver qué casos les puedo comentar.
+[00:24:47.020 - 00:25:00.000] Por ejemplo, en Perú, la plataforma de GOP.p, que es del gobierno, ¿no?
+[00:25:00.000 - 00:25:03.700] del gobierno y su decisión de alcance, ¿no?
+[00:25:03.900 - 00:25:05.920] Les cuento un poquito para darles contexto.
+[00:25:06.800 - 00:25:07.760] Durante años, ¿no?
+[00:25:07.820 - 00:25:12.820] Cada ministro y entidad del Estado peruano tenía su propio portal.
+[00:25:13.320 - 00:25:16.340] Bueno, no sé si en algún momento han trabajado en algún,
+[00:25:16.540 - 00:25:19.940] en el sector público, pero tienen un montón de webs.
+[00:25:20.460 - 00:25:21.520] No sé por qué tantas.
+[00:25:21.520 - 00:25:26.200] A mí me ha tocado la oportunidad así de trabajar justamente para el,
+[00:25:26.200 - 00:25:29.680] era para el ejército, ¿sí?
+[00:25:29.720 - 00:25:32.260] También tuve la oportunidad de llevar la web, una web interna,
+[00:25:32.920 - 00:25:35.660] donde justamente veían los mapas, ¿no?
+[00:25:35.900 - 00:25:38.700] Pero tenían cantidad de webs, increíbles, ¿no?
+[00:25:39.040 - 00:25:42.720] Pero sí, eso es lo que normalmente pasa en la entidad pública.
+[00:25:43.140 - 00:25:47.560] Entonces, este caso va alineado a ese punto, ¿no?
+[00:25:47.560 - 00:25:50.420] Entonces, como les decía, aquí, ¿qué pasó?
+[00:25:52.760 - 00:25:55.500] En este punto, no esta entidad del Estado peruano,
+[00:25:55.500 - 00:26:01.160] como les decía, tenía su propio portal, que justamente terminaba en gov.pe,
+[00:26:02.000 - 00:26:06.620] con su propio diseño, su propia forma de presentar sus trámites,
+[00:26:06.820 - 00:26:19.640] no estaba estandarizado ni homologado en red no exist era solamente para esa entidad Entonces la Secretar de Gobierno Digital De la Presidencia del Consejo de Ministros
+[00:26:20.180 - 00:26:22.020] impulsó la plataforma
+[00:26:22.020 - 00:26:23.580] única, ¿no? Siempre
+[00:26:23.580 - 00:26:25.900] están impulsando siempre en homologar
+[00:26:25.900 - 00:26:27.900] todo, ¿no? Pero es...
+[00:26:27.900 - 00:26:30.420] Tienen que tener una fuerza de adaptación
+[00:26:30.420 - 00:26:31.980] importante para que todas las
+[00:26:31.980 - 00:26:33.960] entidades públicas, ¿no? Utilicen la misma.
+[00:26:34.060 - 00:26:35.940] Pero bueno, lo propusieron. Impulsaron
+[00:26:35.940 - 00:26:38.100] esta plataforma única que es
+[00:26:38.100 - 00:26:44.740] la GOP, de gobierno, las tres primeras letras de la palabra gobierno, .p.
+[00:26:45.440 - 00:26:52.640] Justamente para concentrar la información y los trámites del Estado en un solo lugar,
+[00:26:53.240 - 00:26:56.180] para que cada entidad tenga una sola web.
+[00:26:56.440 - 00:27:04.740] Entonces, un proyecto así no podía hacerse todo de una sola.
+[00:27:04.740 - 00:27:15.620] se tuvo que definir un alcance por etapas, porque estamos hablando de muchas entidades, por no decir miles de entidades.
+[00:27:16.260 - 00:27:24.580] Entonces se tenía que empezar por el alcance, definir el alcance por etapas, la migración de entidades de manera progresiva.
+[00:27:24.580 - 00:27:47.400] Un ejemplo y esto como les acabo de mencionar es un ejemplo claro de lo que justamente estamos viendo en la diapositiva En cada integraci siempre se reconsidera el alcance y el detalle De justamente estos requerimientos y los entregables que estamos brindando
+[00:27:47.400 - 00:27:59.020] Ese es un caso, un caso real, ¿no? Cómo lo abordó, ¿no? O cómo lo abordan las entidades públicas para poder homologar una sola plataforma única para todos.
+[00:27:59.020 - 00:28:22.940] Otro caso, por ejemplo, global fue lo de Spotify y la interacción permanente. ¿Qué quiero decir aquí? ¿Qué pasó con Spotify? Spotify es conocida por una, es una organización, organiza en realidad el trabajo de equipos pequeños.
+[00:28:22.940 - 00:28:25.560] esto es Spotify
+[00:28:25.560 - 00:28:27.800] perdón, creo que no es Spotify
+[00:28:27.800 - 00:28:29.340] yo estoy con
+[00:28:29.340 - 00:28:31.420] la aplicación de
+[00:28:31.420 - 00:28:33.700] escuchar música
+[00:28:33.700 - 00:28:35.520] este es el, a ver
+[00:28:35.520 - 00:28:38.040] es una institución también
+[00:28:38.040 - 00:28:38.940] global
+[00:28:38.940 - 00:28:51.760] pero no se llama es parecida a Spotify pero no quiero que se confundan con la aplicaci de m Pero es un caso tambi bastante real para que ustedes lo aborden
+[00:28:53.000 - 00:28:59.900] Que justamente trata de organizar su trabajo en equipos reducidos, ¿no?
+[00:29:00.100 - 00:29:04.840] De autónomos, que lanzan justamente cambios constantemente, ¿no?
+[00:29:04.840 - 00:29:33.260] Pero justamente en esa autonomía, ¿no? Tiene reglas de arquitectura detrás. ¿Qué quiero decir? O sea, estándares compartidos, ¿no? Servicios comunes y también principios, ¿no? Que prácticamente todos respetan y los revisan, ¿no? Entonces, cada equipo itera dentro de su fase, ¿no? Por así decirlo, ¿no?
+[00:29:33.260 - 00:29:35.440] Entonces, mientras la arquitectura, ¿no?
+[00:29:35.500 - 00:29:40.960] Asegura que las piezas encajen, que eso es justamente el valor,
+[00:29:41.280 - 00:29:41.480] ¿no?
+[00:29:41.520 - 00:29:44.120] Donde prácticamente destaca la arquitectura.
+[00:29:44.960 - 00:29:47.180] Y lo que se logra, ¿no?
+[00:29:47.180 - 00:29:50.220] Es iterar rápido, ¿no?
+[00:29:50.380 - 00:29:52.320] Antes de entrar a algún caos.
+[00:29:53.120 - 00:29:55.460] Iterar justamente con principios, ¿no?
+[00:29:55.900 - 00:30:00.000] Y que de alguna u otra manera se pueda aplicar de manera
+[00:30:00.000 - 00:30:20.260] Entonces aquí la pregunta que de alguna manera nos hace reflexionar es, y a ver si se los comento, es si el ADM permite volver atrás entre fases, ¿no?
+[00:30:20.260 - 00:30:23.140] Eso es lo que estamos aprendiendo ahora.
+[00:30:23.400 - 00:30:29.260] Nos preguntamos, ¿no es eso una forma elegante de decir que nos equivocamos?
+[00:30:29.920 - 00:30:30.600] ¿No creen ustedes?
+[00:30:31.620 - 00:30:32.600] ¿Qué piensan, clase?
+[00:30:33.700 - 00:30:35.360] ¿O cómo lo ven ustedes?
+[00:30:35.720 - 00:30:37.500] Me gustaría aquí leerlos en el chat.
+[00:30:37.600 - 00:30:39.040] Mientras veo que me han escrito aquí.
+[00:30:39.980 - 00:30:42.080] Ah, claro que no es la área académica.
+[00:30:43.380 - 00:30:48.760] Nos ha proporcionado los links gracias al equipo académico.
+[00:30:48.760 - 00:30:50.740] acá Raúl nos dice
+[00:30:50.740 - 00:30:52.620] ahora todos se aconsejan, claro
+[00:30:52.620 - 00:30:54.580] así es, así es, exactamente
+[00:30:54.580 - 00:30:56.440] ese es el caso justamente que les estaba mencionando
+[00:30:56.440 - 00:30:58.540] así es, esa es
+[00:30:58.540 - 00:30:59.680] esa es la empresa, exactamente
+[00:30:59.680 - 00:31:01.940] entonces, ¿qué piensan ustedes, clase?
+[00:31:03.220 - 00:31:04.140] si el ADM
+[00:31:04.140 - 00:31:05.800] nos dice, en el modelo
+[00:31:05.800 - 00:31:08.240] que nos permite
+[00:31:08.240 - 00:31:09.900] volver atrás en tres fases
+[00:31:09.900 - 00:31:20.020] les pregunto es eso una forma diplom por ser elegante de decir que nos equivocamos
+[00:31:20.840 - 00:31:21.580] ¿Qué creen ustedes?
+[00:31:23.440 - 00:31:24.240] Me pueden decir,
+[00:31:25.060 - 00:31:26.220] no necesariamente, ¿no?
+[00:31:26.460 - 00:31:27.400] También puede pasar.
+[00:31:28.380 - 00:31:31.120] Porque por lo que estamos aprendiendo,
+[00:31:31.220 - 00:31:32.680] volver a una fase anterior
+[00:31:32.680 - 00:31:36.500] es una forma ordenada, ¿no?
+[00:31:36.620 - 00:31:38.000] Ordenada de incorporar
+[00:31:38.000 - 00:31:39.220] lo que hemos aprendido.
+[00:31:40.000 - 00:31:59.880] ¿Cierto? Permite un feedback continuo. Claro, así es, Raúl. Muy bien, excelente. Entonces, en la realidad, ¿sí? En la realidad, nadie conoce todos los detalles de una empresa al inicio, ¿cierto? Los descubrimos, lamentablemente, como vamos avanzando, ¿no? Es así.
+[00:31:59.880 - 00:32:08.720] Entonces, la diferencia entre un método ordenado y uno desordenado es que el primero, ¿no?
+[00:32:09.460 - 00:32:12.920] Es justamente, hay un aprendizaje, ¿no?
+[00:32:14.020 - 00:32:15.840] Tiene que documentarse.
+[00:32:17.400 - 00:32:20.700] Y se valida, ¿no? Con qué stakeholders debo iterar.
+[00:32:22.340 - 00:32:37.000] Y se refleja En el alcance en el cronograma Pero pasa con un m desordenado el cambio se hace en silencio posiblemente no y aparece despu cuando
+[00:32:37.000 - 00:32:43.760] ya es un problema no es un problema entonces iterar no es equivocarse
+[00:32:43.760 - 00:32:51.220] es gestionar el conocimiento que ya se ha obtenido eso es válido si para que lo
+[00:32:51.220 - 00:32:51.740] tengan claro.
+[00:32:52.540 - 00:32:52.720] ¿OK?
+[00:32:53.260 - 00:32:53.780] Muy bien.
+[00:32:54.160 - 00:32:57.360] Entonces, cuando hablamos de la fase preliminar,
+[00:32:57.560 - 00:33:01.180] que prácticamente es preparar a la organización, ¿sí?
+[00:33:02.280 - 00:33:12.520] Aquí se trata de definir el qué, por qué, quién, dónde y cómo
+[00:33:12.520 - 00:33:15.220] construimos la arquitectura en la empresa.
+[00:33:16.080 - 00:33:16.560] Eso es.
+[00:33:16.560 - 00:33:55.560] Y claro aqu se fijan tres objetivos Tres objetivos principales Que es preparar la organizaci para llevar a cabo proyectos exitosos de arquitectura Usando TOGAF Establecer tambi el m Organizativo para la arquitectura empresarial Y determinar las capacidades arquitect De la organizaci deseada Eso es s ac nos dice amar para algunos sistemas administrativos un crm si tienen sus configuraciones l o de
+[00:33:55.560 - 00:34:01.520] automatización claro y que permiten cómo deben reaccionar al sistema cuando ocurre un evento
+[00:34:01.520 - 00:34:03.020] específico. Claro, ¿no?
+[00:34:03.140 - 00:34:05.540] Un CRM, si es
+[00:34:05.540 - 00:34:07.240] que es, compra un SaaS, ¿no?
+[00:34:07.260 - 00:34:09.200] Que ya prácticamente es un,
+[00:34:09.760 - 00:34:11.360] es una plataforma ya desarrollada,
+[00:34:11.420 - 00:34:13.000] ¿no? Como tiene Salesforce o
+[00:34:13.000 - 00:34:14.960] Microsoft Dynamics, ¿no?
+[00:34:15.540 - 00:34:16.700] O Pega o
+[00:34:16.700 - 00:34:19.500] también este Creation, ¿no? Hay varios,
+[00:34:19.500 - 00:34:21.040] hay varios, este, vendors, ¿no?
+[00:34:21.560 - 00:34:23.140] Que te venden un CRM.
+[00:34:23.960 - 00:34:25.200] Y claro, aquí
+[00:34:25.200 - 00:34:27.540] lo bueno de adquirir una plataforma
+[00:34:27.540 - 00:34:29.240] ya lista, ¿no?
+[00:34:29.480 - 00:34:31.420] Llave en mano, se podría decir, con todas las
+[00:34:31.420 - 00:34:33.040] lecciones aprendidas del mercado,
+[00:34:33.760 - 00:34:36.420] hace de que de alguna u otra manera no construyamos de cero.
+[00:34:39.240 - 00:34:39.680] ¿Cierto?
+[00:34:40.100 - 00:34:43.460] Y claro, aquí lo importante es que se hacen solamente
+[00:34:43.460 - 00:34:44.300] configuraciones.
+[00:34:44.940 - 00:34:46.440] Tal cual como nos ha dicho Omar, ¿no?
+[00:34:48.960 - 00:34:49.680] Osmar, ¿qué tal?
+[00:34:49.780 - 00:34:50.600] Muy buenas noches.
+[00:34:50.640 - 00:34:51.060] Bienvenido.
+[00:34:52.180 - 00:34:55.520] Entonces, es importante, ¿no?
+[00:34:55.520 - 00:35:00.000] Saber qué es esta fase preliminar y cómo la definimos.
+[00:35:00.000 - 00:35:03.040] porque eso lo van a tener que definir para su proyecto también
+[00:35:03.040 - 00:35:05.200] entonces
+[00:35:05.200 - 00:35:06.620] nos hacemos la pregunta
+[00:35:06.620 - 00:35:09.120] entonces ya, ok, entendimos
+[00:35:09.120 - 00:35:11.180] que es la fase preliminar que involucra
+[00:35:11.180 - 00:35:12.320] pero ¿qué es?
+[00:35:12.320 - 00:35:14.040] en palabras sencillas
+[00:35:14.040 - 00:35:16.500] eso es lo importante, entenderlo siempre en lo sencillo
+[00:35:16.500 - 00:35:18.600] bueno, es un estudio de terreno
+[00:35:18.600 - 00:35:20.420] antes de construir, como le decíamos
+[00:35:20.420 - 00:35:21.380] en la previa, ¿no?
+[00:35:21.860 - 00:35:23.360] ningún arquitecto
+[00:35:23.360 - 00:35:26.000] dibuja
+[00:35:26.000 - 00:35:28.200] un edificio sin saber
+[00:35:28.200 - 00:35:29.940] cómo es el suelo
+[00:35:29.940 - 00:35:57.040] ¿cierto? ¿Quién es el dueño? También hay que saber, ¿no? ¿Quién es el dueño? ¿Cuánto dinero hay? ¿Y qué normas municipales aplica? Siempre hay análisis del entorno, ¿sí? ¿Y por qué es importante? Porque según el manual que tenemos en el Blackboard, ¿no? En la fase, justamente en esta fase, se determina el nivel de madurez de la organización.
+[00:35:57.040 - 00:36:04.600] y su capacidad de emprender la transformación.
+[00:36:04.900 - 00:36:06.840] O sea, qué tan abiertos están,
+[00:36:07.380 - 00:36:19.800] qu tan resilientes est para poder adaptarse a esta transformaci Entonces cuando yo hablo de resiliencia transformaci hablo de las personas Entonces es importante
+[00:36:20.640 - 00:36:26.320] Parte de la transformación de una empresa depende mucho de las personas, de toda la capacidad de adaptación,
+[00:36:26.540 - 00:36:33.400] la adopción que va a tener la empresa en base a las nuevas tecnologías. Entonces, una empresa que no tiene
+[00:36:33.400 - 00:36:35.440] sus procesos documentados
+[00:36:35.440 - 00:36:39.300] y que, claro, de alguna
+[00:36:39.300 - 00:36:39.800] otra manera
+[00:36:39.800 - 00:36:43.680] hace que la experiencia
+[00:36:43.680 - 00:36:45.320] del proyecto de tecnología
+[00:36:45.320 - 00:36:46.540] no pueda aspirar
+[00:36:46.540 - 00:36:48.420] al mismo alcance
+[00:36:48.420 - 00:36:51.280] que, a ver si decimos, de un banco
+[00:36:51.280 - 00:36:53.420] en un área
+[00:36:53.420 - 00:36:55.360] específica, que de alguna otra manera
+[00:36:55.360 - 00:36:57.160] va a impactar
+[00:36:57.160 - 00:36:59.200] en que la arquitectura se pueda consolidar
+[00:36:59.200 - 00:37:00.200] de una manera correcta.
+[00:37:02.060 - 00:37:03.280] Entonces, para eso
+[00:37:03.280 - 00:37:05.540] justamente nos sirve entender
+[00:37:05.540 - 00:37:08.640] para poder definir, ¿no?
+[00:37:08.640 - 00:37:12.680] ¿Con qué otros marcos se va a poder combinar TOGAF?
+[00:37:13.140 - 00:37:16.480] Por ejemplo, con el PMI, ¿no?
+[00:37:16.500 - 00:37:18.560] Que es para justamente gestionar proyectos.
+[00:37:18.880 - 00:37:21.360] O tal vez con un framework de trabajo
+[00:37:21.360 - 00:37:23.400] más ágil como el Scrum
+[00:37:23.400 - 00:37:44.000] para desarrollar o operar los tipos de servicios de tecnolog Entonces nos va a servir para seleccionar herramientas y principios y adaptar el ADM a la medida de la empresa
+[00:37:45.520 - 00:37:47.100] Para eso nos sirve.
+[00:37:47.100 - 00:38:10.140] Entonces, como ven en la infografía, se enumeran los pasos principales que es determinar las áreas de la empresa impactadas, número uno, identificar y establecer los principios arquitectónicos, confirmar el gobierno y el framework de soporte.
+[00:38:10.140 - 00:38:12.740] el framework que hablamos justamente de trabajo, ¿no?
+[00:38:13.140 - 00:38:15.240] PMI, el Scrum, ¿no?
+[00:38:15.420 - 00:38:16.820] ¿Qué tipo de metodología va a usar?
+[00:38:19.180 - 00:38:21.440] También implementar las herramientas, ¿no?
+[00:38:21.540 - 00:38:24.040] Que justamente hablábamos de esas herramientas arquitectónicas
+[00:38:24.040 - 00:38:28.900] como repositorios o herramientas de modelado, ¿no?
+[00:38:28.940 - 00:38:32.440] Establecer tal vez un equipo de arquitectura, ¿no?
+[00:38:32.440 - 00:38:35.860] Y modificar justamente este framework del trabajo, ¿no?
+[00:38:36.040 - 00:38:38.240] Y otros marcos también de trabajo.
+[00:38:38.240 - 00:38:48.940] Seg como siempre y esto lo recalco bastante seg las necesidades de la organizaci Hay que saber cu son los objetivos de la empresa la estrategia principalmente
+[00:38:50.000 - 00:38:56.140] Por ejemplo, en temas de seguridad o desempeño, ¿no?
+[00:38:56.440 - 00:38:57.340] Es importante.
+[00:38:57.600 - 00:38:58.740] O sea, en la práctica, ¿no?
+[00:38:58.740 - 00:39:04.820] Como nos dice también el manual, nos propone desarrollar 4
+[00:39:04.820 - 00:39:06.500] secciones, ¿no?
+[00:39:06.500 - 00:39:09.300] En esta fase, en esta fase preliminar, ¿no?
+[00:39:09.300 - 00:39:23.440] Que serán exactamente las que ustedes trabajarán con la empresa que han elegido, que es la descripción de la organización, el equipo de arquitectura, ¿no? Los principios de arquitectura y la metodología.
+[00:39:23.440 - 00:39:38.180] Entonces, vamos una por una, brevemente, para poder justamente darles el doble clic a este caso del GymFit. No sé si llegaron a leer el caso, pero si no, les comento brevemente.
+[00:39:38.180 - 00:40:00.000] Este caso, que también está en el Blackboard, el GymFit es un centro médico deportivo peruano, que nos decía que cuyo objetivo es mejorar la calidad de vida de la condición física de los afiliados mediante un programa de promociones, prevención y rehabilitación para cualquier lesión, ¿no?
+[00:40:00.000 - 00:40:13.660] Entonces, tiene una demanda muy alta, ¿no? Y está bien posicionado en membresías anuales. Es así como lo ofrecen, ¿no? Pero en los últimos años, su capacidad de atención no ha sido la mejor.
+[00:40:13.660 - 00:40:24.060] Por la falta de sistemas de información en el proceso de atención de cada sede.
+[00:40:24.720 - 00:40:25.680] Ahí está el dolor, ¿no?
+[00:40:25.980 - 00:40:32.260] Entonces, esto ha generado insatisfacción, pérdida de tiempo, ¿no?
+[00:40:32.480 - 00:40:35.720] Y un impacto negativo definitivamente en los ingresos.
+[00:40:36.100 - 00:40:42.400] Porque todo el frente de atención hace que genere fuga de clientes.
+[00:40:43.660 - 00:40:45.680] Entonces, el caso nos cuenta eso.
+[00:40:45.860 - 00:40:49.720] Entonces, bueno, el caso nos dice que se propone implementar
+[00:40:49.720 - 00:40:53.720] un software para automatizar el proceso de inscripción.
+[00:40:55.520 - 00:40:59.780] Que justamente se busca que controle las actividades diarias
+[00:40:59.780 - 00:41:03.460] del personal de atención y mantenga ordenado y actualizada
+[00:41:03.460 - 00:41:06.440] la información de estos afiliados, de los clientes.
+[00:41:07.060 - 00:41:21.900] Entonces f que el caso tiene la misma estructura que seguramente han podido revisar en la actividad anterior que era de la cafeter de Manolo Y que la empresa que de alguna otra manera van a elegir
+[00:41:22.020 - 00:41:23.440] también va a tener esa estructura.
+[00:41:23.960 - 00:41:25.900] No una organización con una estrategia,
+[00:41:26.120 - 00:41:28.420] a eso me refiero, una estrategia,
+[00:41:28.840 - 00:41:30.780] un proceso que duele, ¿no?
+[00:41:30.900 - 00:41:32.560] El dolor, ¿dónde está ese dolor?
+[00:41:32.560 - 00:41:36.280] El cual prácticamente se pinta como una oportunidad, ¿no?
+[00:41:36.280 - 00:41:49.320] Y una idea de solución tecnológica que tenemos que buscar a ese problema, a ese dolor, ¿no? Entonces, veamos entonces cómo se documenta, ¿no? Porque ese es el principal punto de partida.
+[00:41:49.320 - 00:42:06.960] A ver, aquí también en la infografía justamente también lo mencionamos, que toda documentación debe incluir y que esté bien claro a qué se dedica la empresa.
+[00:42:06.960 - 00:42:18.960] Su historia, sus empleados, su estructura organizacional, sus productos, servicios que ofrece, sus clientes, ¿no? ¿Qué tipo de clientes tiene? Su misión y su visión.
+[00:42:19.320 - 00:42:22.700] Eso es lo que debería tener la descripción de la organización.
+[00:42:24.700 - 00:42:39.700] Entonces en el caso de GenFit el manual cuenta que la empresa bueno fue creada en el 2000 En el a 2000 justamente por hermanos Que son dos hermanos donde la idea naci de su posgrado
+[00:42:39.700 - 00:42:43.920] Se dio una maestría y, bueno, nació esta gran idea, ¿no?
+[00:42:44.080 - 00:42:48.560] Y buscaban pequeños préstamos en varios bancos para empezar, ¿no?
+[00:42:48.560 - 00:42:50.360] Porque lo primero que se necesita es dinero.
+[00:42:50.360 - 00:42:55.860] Entonces, inauguraron su primera sede en el 2000, ¿no?
+[00:42:56.900 - 00:42:58.080] Justamente en San Miguel.
+[00:42:58.740 - 00:43:00.780] Algunos vivían en San Miguel, pero no sé.
+[00:43:00.900 - 00:43:01.440] Yo vivía en San Miguel.
+[00:43:01.500 - 00:43:03.660] Era ex vecina de San Miguel.
+[00:43:04.220 - 00:43:04.900] Muy bonita, en realidad.
+[00:43:05.140 - 00:43:07.260] Bueno, y lo que nos decía el caso,
+[00:43:08.140 - 00:43:10.780] que esperaban alrededor de 800 afiliados, ¿no?
+[00:43:10.900 - 00:43:11.360] Esos clientes.
+[00:43:12.100 - 00:43:12.960] En 3 meses.
+[00:43:13.160 - 00:43:13.940] Esa era su meta.
+[00:43:14.460 - 00:43:18.500] Y recibieron 1,500 en el primer mes.
+[00:43:18.500 - 00:43:19.060] ¿Verdad?
+[00:43:20.360 - 00:43:22.200] ¿no? Entonces fue bastante positivo.
+[00:43:23.860 - 00:43:25.660] El organigrama
+[00:43:25.660 - 00:43:28.220] que de alguna otra manera
+[00:43:28.220 - 00:43:30.440] tenían, ¿no?
+[00:43:30.540 - 00:43:31.180] Previsto
+[00:43:31.180 - 00:43:33.120] era,
+[00:43:34.180 - 00:43:35.840] bueno, contaba con un presidente,
+[00:43:36.160 - 00:43:38.400] tenían su organigrama bien claro, ¿no? Su presidente,
+[00:43:38.580 - 00:43:56.080] una vicepresidencia tambi ejecutiva Y tambi corporativa De las que justamente depend direcciones como comercial y ventas recursos humanos financiera y administrativa tambi y tecnol y m abajo es su organigrama
+[00:43:56.080 - 00:44:02.380] y más abajo estaba en las áreas como servicio y gestión de clientes las gerencias de ventas
+[00:44:02.380 - 00:44:10.260] formación y bienestar es el asesor ganera entonces en la descripción y que también
+[00:44:10.260 - 00:44:15.500] este nos da el caso no incluye el su foda no y la cadena de valor y si no lo han leído el
+[00:44:15.500 - 00:44:19.420] caso sería bueno que lo repasen sí para que puedan avanzar con la actividad que tenemos para el día
+[00:44:20.760 - 00:44:21.720] entonces
+[00:44:25.380 - 00:44:26.760] en un segundo
+[00:44:32.380 - 00:44:41.800] ok, listo
+[00:44:41.800 - 00:44:42.560] entonces
+[00:44:42.560 - 00:44:44.960] en este caso
+[00:44:44.960 - 00:44:49.100] nos hablaba también
+[00:44:49.100 - 00:44:54.140] y claro, conversa mucho también con la primera actividad
+[00:44:54.140 - 00:44:56.260] que ustedes han hecho, un detalle muy valioso
+[00:44:56.260 - 00:44:57.740] que también dice el manual es que
+[00:44:57.740 - 00:45:00.000] en la actividad primaria
+[00:45:00.000 - 00:45:03.460] de operaciones de este caso de Gimp Fit,
+[00:45:04.300 - 00:45:06.600] justamente se notaba que el proceso de inscripción
+[00:45:06.600 - 00:45:09.220] existía mucha demora, ¿no?
+[00:45:09.480 - 00:45:13.340] Debido a la aglomeración de los nuevos afiliados.
+[00:45:14.180 - 00:45:17.040] Y ahí está justamente el punto de dolor, ¿no?
+[00:45:17.540 - 00:45:20.100] Justamente ubicado en la cadena de valor.
+[00:45:20.900 - 00:45:23.320] Y cierra con la misión,
+[00:45:24.400 - 00:45:26.620] y justamente ya la misión actualizada,
+[00:45:26.800 - 00:45:29.060] y mejorar la calidad de vida, ¿no?
+[00:45:29.060 - 00:45:32.120] Y condición física y mental de los usuarios, ¿no?
+[00:45:32.120 - 00:45:32.820] De sus clientes.
+[00:45:33.280 - 00:45:34.220] Y la visión, ¿no?
+[00:45:34.220 - 00:45:37.200] Llegar a sedes nacionales e internacionales, ¿no?
+[00:45:37.200 - 00:45:39.800] Con convenios en Perú, bueno, y se expanden un poquito más,
+[00:45:39.880 - 00:45:40.020] ¿no?
+[00:45:40.040 - 00:45:40.720] Colombia, Chile.
+[00:45:41.520 - 00:45:44.960] Y ser reconocidos como el mejor club de entrenamiento de
+[00:45:44.960 - 00:45:45.820] Latinoamérica, ¿no?
+[00:45:45.820 - 00:45:47.520] O sea, tenían súper claro, ¿no?
+[00:45:48.260 - 00:45:50.420] Tanto su visión como su misión.
+[00:45:50.600 - 00:45:52.400] Entonces, esto significa, ¿no?
+[00:45:52.400 - 00:45:55.700] Que la descripción de la organización no es un relleno,
+[00:45:55.820 - 00:45:55.940] ¿no?
+[00:45:55.940 - 00:46:02.700] es la evidencia de que el proyecto nace de una estrategia.
+[00:46:03.840 - 00:46:08.320] Si la visión habla de crecer a otros países,
+[00:46:08.800 - 00:46:21.900] un proceso de inscripci manual y presencial es un freno directo a esa visi No conversa Entonces lo que nosotros declaremos en nuestra visi y
+[00:46:21.900 - 00:46:26.560] misión debe conversar con el proceso al cual vamos a mejorar.
+[00:46:27.460 - 00:46:27.500] ¿Sí?
+[00:46:27.940 - 00:46:31.960] Y esa es la coherencia que espero encontrar en sus
+[00:46:31.960 - 00:46:33.520] actividades de ahora en adelante.
+[00:46:33.840 - 00:46:35.380] Todo tiene que tener coherencia.
+[00:46:36.780 - 00:46:36.960] Bien.
+[00:46:36.960 - 00:46:41.320] Entonces, cuando hablamos de un equipo de arquitectura, ¿sí?
+[00:46:41.960 - 00:46:46.140] Esta segunda sección define a los participantes del proceso
+[00:46:46.140 - 00:46:50.360] que se está mejorando, ¿no?
+[00:46:50.360 - 00:46:53.660] Es decir, a los participantes del proyecto tecnológico, ¿no?
+[00:46:53.820 - 00:46:54.580] Y sus actividades.
+[00:46:55.680 - 00:46:57.480] Un ejemplo, que también lo dice el manual,
+[00:46:57.740 - 00:47:00.500] muestra a los participantes, ¿no?
+[00:47:00.500 - 00:47:05.140] Del proceso de gestión comercial de una empresa como el gerente general, ¿no?
+[00:47:05.140 - 00:47:07.180] Que vela por los objetivos estratégicos,
+[00:47:07.740 - 00:47:08.940] el jefe de ventas, ¿no?
+[00:47:08.940 - 00:47:11.700] Que planifica y organiza y supervisa a los vendedores,
+[00:47:11.820 - 00:47:12.360] ¿no?
+[00:47:12.620 - 00:47:14.120] Y a la caja también, ¿no?
+[00:47:14.120 - 00:47:16.440] Entonces, también están los clientes, ¿no?
+[00:47:16.440 - 00:47:19.480] Que reciben y validan esa calidad que reciben, ¿no?
+[00:47:19.760 - 00:47:21.180] Del equipo de ventas.
+[00:47:22.340 - 00:47:24.680] También un gerente comercial, ¿no?
+[00:47:24.760 - 00:47:34.600] Que es el sponsor del proyecto Es el que nos pide los requerimientos Y gestiona a nivel de ventas y abastece tambi las tiendas Ese es su rol
+[00:47:35.200 - 00:47:37.800] Entonces, en GymFit, ¿no?
+[00:47:37.860 - 00:47:39.500] Los participantes son 5.
+[00:47:40.360 - 00:47:40.880] ¿Quiénes son?
+[00:47:40.880 - 00:47:44.860] El supervisor que coordina e impulsa, bueno, sí,
+[00:47:45.320 - 00:47:48.760] implementa también las actividades de atención al
+[00:47:48.760 - 00:47:53.560] cliente, atiende problemas, quejas, sugerencias y también la
+[00:47:53.560 - 00:47:55.900] gestión del personal del área, ¿no?
+[00:47:56.020 - 00:47:58.420] Ese es su rol de este supervisor para el caso, ¿no?
+[00:47:58.840 - 00:48:01.460] Entonces, el cliente usa los servicios, ¿no?
+[00:48:01.480 - 00:48:02.340] Y juega su calidad.
+[00:48:03.100 - 00:48:04.140] Eso es lo que hace el cliente.
+[00:48:05.280 - 00:48:06.800] La recepcionista, ¿no?
+[00:48:06.820 - 00:48:11.580] En este caso, atiende a quienes requieren los servicios, ¿no?
+[00:48:12.020 - 00:48:15.340] El director del proyecto desarrolla el plan y analiza la
+[00:48:15.340 - 00:48:16.000] situación actual.
+[00:48:16.000 - 00:48:18.560] Y el consultor, que también hay un consultor,
+[00:48:18.780 - 00:48:21.000] aporta conocimientos y opera, ¿no?
+[00:48:21.040 - 00:48:22.800] Con el director de manera directa, ¿no?
+[00:48:22.800 - 00:48:25.440] Porque a veces sí se necesita un consultor en algún proyecto
+[00:48:25.440 - 00:48:26.640] cuando lo desconocemos.
+[00:48:27.740 - 00:48:29.060] Como, por ejemplo, ¿no?
+[00:48:29.480 - 00:48:33.740] Si alguna empresa decide, por ejemplo, construir un CRM, ¿no?
+[00:48:33.760 - 00:48:35.540] Tocando el ejemplo que nos daba Omar.
+[00:48:37.200 - 00:48:49.460] Construir de cero y tal vez su core no es construir cosas de software sino por ejemplo un banco Si decide construir un CRM que no es su core
+[00:48:50.040 - 00:48:53.560] tiene que tener a un consultor especialista, ¿no?
+[00:48:53.560 - 00:48:55.460] En CRM para que lo pueda guiar al equipo
+[00:48:55.460 - 00:48:58.820] y puedan construir un CRM en el menor tiempo posible.
+[00:48:58.940 - 00:49:01.040] Porque no es fácil, no es sencillo.
+[00:49:01.040 - 00:49:01.780] Construirlo de cero.
+[00:49:02.140 - 00:49:06.020] Habiendo ya vendors que ya tienen años de experiencia, ¿no?
+[00:49:06.140 - 00:49:08.080] Y lecciones aprendidas de un CRM,
+[00:49:08.080 - 00:49:11.880] que fácilmente nos pueden vender el producto y avanzar, ¿no?
+[00:49:12.240 - 00:49:14.860] Pero sí, para esos casos se necesita un consultor
+[00:49:14.860 - 00:49:18.920] cuando la empresa no está, no es su core finalmente, ¿no?
+[00:49:20.660 - 00:49:26.460] Entonces, en este caso de GymFit, ¿no?
+[00:49:26.840 - 00:49:32.020] Aquí es donde muchas empresas también cometen este punto de
+[00:49:32.020 - 00:49:33.560] equilibrio, este punto de falla, ¿no?
+[00:49:33.560 - 00:49:37.680] Que arman un equipo solo con gente de TI, ¿no?
+[00:49:38.080 - 00:50:00.000] No, fíjense en el caso de Jim Fitz, ¿no? El equipo incluye al supervisor y a la recepcionista. Vean que está bien estructuradito, ¿no? ¿Quiénes son los participantes claves? Que justamente son, ¿no? Quienes conocen el proceso real. Quienes deben estar son los que conocen.
+[00:50:00.000 - 00:50:03.060] Van a estar en el proceso, en todo el flujo, ¿sí?
+[00:50:03.300 - 00:50:04.300] Todo el flujo de atención.
+[00:50:04.920 - 00:50:05.960] Y el cliente, ¿no?
+[00:50:06.180 - 00:50:09.680] Que es quien sufre el dolor, que tiene que estar dentro de,
+[00:50:09.800 - 00:50:09.960] ¿no?
+[00:50:10.140 - 00:50:10.520] Mapeadito.
+[00:50:11.000 - 00:50:13.800] Entonces, un proyecto de arquitectura sin la gente del
+[00:50:13.800 - 00:50:18.160] negocio, pues, diseña procesos que de verdad nadie va a usar.
+[00:50:19.260 - 00:50:21.440] Por eso se tiene que trabajar bastante de la mano con el
+[00:50:21.440 - 00:50:22.740] equipo de negocio, ¿no?
+[00:50:22.740 - 00:50:24.100] Que eso también se los comentaba en la clase,
+[00:50:24.380 - 00:50:25.080] en la sesión pasada.
+[00:50:26.080 - 00:50:29.320] Yendo a los casos prácticos, por ejemplo,
+[00:50:30.000 - 00:50:57.920] a un caso de Perú, ¿no? Los sponsors y usuarios en proyectos de banca digital, ¿sí? A ver, esto es algo reciente, ¿no? En los proyectos de apertura digital, ¿no? De cuentas, ¿no? Que impulsaron los bancos aquí en Perú en los últimos años, ¿no? El sponsor suele ser una gerencia de negocio, ¿no? Como la de los canales o la de productos.
+[00:50:57.920 - 00:51:00.120] y no una gerencia de sistemas.
+[00:51:01.560 - 00:51:03.720] Esto tiene una razón bastante poderosa.
+[00:51:04.760 - 00:51:06.240] ¿Por qué? ¿Cuál es esa razón?
+[00:51:06.980 - 00:51:20.460] Pues les digo paga y qui responde por el resultado Debe ser el due del objetivo del negocio Me dir s algunos o me cuestionar algunos tambi
+[00:51:20.560 - 00:51:21.580] me lo pueden decir aquí en el chat.
+[00:51:22.880 - 00:51:26.360] Porque cuando el sponsor es solo de TI,
+[00:51:27.460 - 00:51:31.320] el proyecto se mide por si el sistema funciona.
+[00:51:32.360 - 00:51:33.300] Funcional, ¿cierto?
+[00:51:33.440 - 00:51:35.140] Ustedes me dirán, me darán la razón o no.
+[00:51:36.640 - 00:51:38.960] Entonces, cuando el sponsor es de negocio,
+[00:51:38.960 - 00:51:43.680] se mide por cuántos clientes se abrieron su cuenta
+[00:51:43.680 - 00:51:49.400] y cuántos se redujo el costo de adquisición.
+[00:51:50.400 - 00:51:55.880] O sea, lo ven a nivel de ingresos y eficiencias de dinero.
+[00:51:56.260 - 00:52:01.440] Muy diferente a los indicadores que tenemos en tecnología,
+[00:52:02.040 - 00:52:03.940] que es más funcional, performance, ¿no?
+[00:52:03.940 - 00:52:05.560] Que carga rápido, ¿no?
+[00:52:06.020 - 00:52:06.460] seguramente
+[00:52:06.460 - 00:52:08.400] relacionarán mucho
+[00:52:08.400 - 00:52:09.160] estos indicadores,
+[00:52:09.240 - 00:52:09.340] ¿no?
+[00:52:09.880 - 00:52:10.740] Que no se caiga
+[00:52:10.740 - 00:52:11.080] la web
+[00:52:11.080 - 00:52:12.960] o la aplicación,
+[00:52:13.260 - 00:52:13.440] ¿no?
+[00:52:13.680 - 00:52:14.600] Eso es lo que ve tecnología,
+[00:52:15.140 - 00:52:16.140] pero muy distinto
+[00:52:16.140 - 00:52:17.180] a cómo lo mide
+[00:52:17.180 - 00:52:17.740] el negocio.
+[00:52:18.860 - 00:52:19.220] Entonces,
+[00:52:19.540 - 00:52:20.380] la composición
+[00:52:20.380 - 00:52:20.960] del equipo
+[00:52:20.960 - 00:52:21.600] cambia,
+[00:52:21.660 - 00:52:21.760] ¿no?
+[00:52:21.960 - 00:52:22.760] Cambia prácticamente
+[00:52:22.760 - 00:52:23.600] la pregunta
+[00:52:23.600 - 00:52:37.440] con la que pr se eval si es exitoso o no Porque nosotros podemos tener una plataforma que cargue rapid en performance O sea 99
+[00:52:37.440 - 00:52:38.840] No digo 100, porque eso no existe, ¿no?
+[00:52:39.560 - 00:52:40.820] Porque a veces siempre se cae.
+[00:52:41.540 - 00:52:44.840] Entonces, es diferente a medirlo por resultados.
+[00:52:45.980 - 00:52:49.540] Que nos digan, la herramienta nos trajo un incremento del 20%
+[00:52:49.540 - 00:52:50.120] en ventas.
+[00:52:50.880 - 00:52:51.600] Distinto, ¿no?
+[00:52:51.600 - 00:53:16.700] A decir, esa plataforma carga en menos tiempo, pero ya, ¿cuál es el resultado, no? Para la empresa. Se tiene que medir numéricamente. Y cómo esto impacta a los objetivos, ¿no? Comerciales de la empresa. Siempre recuerden a nivel estratégico. Es por esa razón que tecnología tiene que ir bastante de la mano con el equipo de negocio. Trabajar juntos de la mano para poder lograr resultados exitosos, ¿no?
+[00:53:16.700 - 00:53:22.260] Este es el caso justamente de los sponsors que hoy se tienen, ¿no?
+[00:53:22.260 - 00:53:24.860] En las diferentes empresas a nivel de banca de Perú.
+[00:53:25.440 - 00:53:26.860] Y, bueno, si hablamos de banca digital,
+[00:53:26.980 - 00:53:29.840] sabemos que estamos hablando del BCP, de Interbank, ¿no?
+[00:53:30.140 - 00:53:30.740] Del BVA.
+[00:53:32.260 - 00:53:34.700] Otro caso, a ver si les cuento otro casito.
+[00:53:37.880 - 00:53:53.340] A ver hablemos de las cadenas de farmacia y la voz del qu farmac imaginen una cadena de farmacias que seguramente ya conocen que quieren digitalizar la venta de recetas
+[00:53:53.740 - 00:53:54.520] Pongamos ese caso.
+[00:53:55.920 - 00:54:01.060] Si el equipo de arquitectura no incluye al químico farmacéutico,
+[00:54:01.120 - 00:54:03.220] por decir, la voz del químico farmacéutico,
+[00:54:03.220 - 00:54:14.440] nadie va a recordar que ciertas recetas deben retenerse por normas sanitarias, ¿cierto?
+[00:54:15.100 - 00:54:17.440] Eso solamente lo sabe el químico farmacéutico.
+[00:54:18.820 - 00:54:22.220] O que hay productos controlados, ¿no? Con registros específicos.
+[00:54:23.300 - 00:54:28.440] O que el cliente muchas veces llega con la receta en una foto del celular.
+[00:54:28.440 - 00:54:34.880] esos detalles que solo conoce la primera línea,
+[00:54:35.240 - 00:54:36.800] el químico-farmacéutico.
+[00:54:37.640 - 00:54:41.360] Entonces, cambia por completo el diseño del proceso
+[00:54:41.360 - 00:54:42.360] y de los datos.
+[00:54:42.940 - 00:54:44.460] Por eso es muy importante mapear
+[00:54:44.460 - 00:54:47.640] a quién realmente tiene la información,
+[00:54:47.900 - 00:54:49.860] la verdad, la información de la verdad.
+[00:54:49.860 - 00:54:50.700] Se podría decir, ¿no?
+[00:54:52.500 - 00:54:56.620] Entonces, con estos casos, ¿no?
+[00:54:56.620 - 00:55:00.000] podemos justamente entender cuál es la importancia y hacia dónde debe
+[00:55:00.000 - 00:55:09.440] Debemos enfocarnos para poder saber quiénes son las personas como stakeholders necesarias dentro del proyecto, ¿no?
+[00:55:09.480 - 00:55:10.540] Para que sea exitoso finalmente.
+[00:55:11.600 - 00:55:12.500] ¿Ok? Muy bien.
+[00:55:13.880 - 00:55:18.360] Luego, como tercer bloque, tenemos los principios de arquitectura y metodología.
+[00:55:18.360 - 00:55:19.140] ¿Sí?
+[00:55:20.100 - 00:55:24.780] Aquí llegamos a uno de los conceptos más potentes de TOGAF, ¿no?
+[00:55:24.780 - 00:55:30.960] Son los principios de arquitectura que prácticamente son las reglas generales, ¿no?
+[00:55:31.480 - 00:55:35.160] Y que son duraderas y aceptadas por la organización.
+[00:55:36.460 - 00:55:40.500] Que prácticamente va a orientar todas las decisiones de arquitectura.
+[00:55:41.700 - 00:55:46.140] Funcionan como la constitución de proyectos, ¿sí? Si queremos llamarlo así.
+[00:55:46.140 - 00:55:58.460] Quiero decir que cuando aparece una duda, justamente se vuelve a poder revisar justamente estos principios.
+[00:55:58.880 - 00:56:00.380] Volvemos a la documentación.
+[00:56:01.380 - 00:56:09.760] Entonces, se constituye, a ver si hablamos de cómo se usa.
+[00:56:09.760 - 00:56:24.380] Se usa bajo una gu gu de objetivos estrat del negocio Y por cada principio se establece 3 partes por cada principio Que est relacionado a la declaraci
+[00:56:24.760 - 00:56:27.520] Que enuncia prácticamente la regla, ¿no?
+[00:56:27.620 - 00:56:33.020] La explicación que prácticamente justifica por qué existe y las
+[00:56:33.020 - 00:56:38.920] implicaciones que describe lo que la organización deberá hacer o
+[00:56:38.920 - 00:56:39.880] aceptar para cómo.
+[00:56:40.000 - 00:57:02.520] ¿Sí? A ver, justamente una de las, del material que ustedes tienen en el Blackboard, ahora que recuerdo, tienen un ejemplo en una de las diapositivas que es el principio que justamente estamos tocando ahora, que es incrementar los ingresos de una empresa.
+[00:57:02.520 - 00:57:09.520] Su declaración dice que el mayor beneficio del proyecto es mejorar la rentabilidad.
+[00:57:10.920 - 00:57:13.360] Siempre parte por ahí casi todos los proyectos, ¿no?
+[00:57:13.700 - 00:57:15.720] Siempre, enfocado siempre en la rentabilidad.
+[00:57:16.580 - 00:57:20.800] Lo que justamente va a ayudar a ese impulso de crecimiento en ventas, ¿no?
+[00:57:21.400 - 00:57:42.500] Su explicaci cuenta que el decrecimiento hay un decrecimiento de los ingresos llev a decidir la implementaci de un comercio electr para renovar el proceso y llamar a m clientes o sea capturar m clientes
+[00:57:42.500 - 00:58:04.680] Y sus implicancias señalan que hay que crear un proyecto sólido que satisfaga esas necesidades de los clientes y mantener a las partes de la competencia, claro, de alguna u otra manera monitoreadas y cumplir prácticamente todos esos requerimientos que se necesitan del lado del área de negocio.
+[00:58:04.680 - 00:58:32.700] Entonces, si hablamos de este caso de GymFit que estamos hablando, se proponen tres principios. El primero es maximizar el beneficio de la empresa que implica mayores gastos en inversión, en tecnología y asesores, ¿no? Asesores que sean bastante suficientes para este primer principio.
+[00:58:32.700 - 00:58:58.060] Y el segundo es optimizar el proceso de inscripci Todo proceso siempre se tiene que optimizar siempre para poder justamente lograr m en el proceso se optimiza para hablar m eficiencia definitivamente no y esta implicancia es una de alguna manera una mejor estructura organizacional
+[00:58:58.060 - 00:59:04.280] también y la capacitación que deben tener también los asesores para poder usarlo no se han optimizado
+[00:59:04.280 - 00:59:04.780] al proceso.
+[00:59:05.620 - 00:59:08.740] Y cuando hablamos del tercer principio es incrementar la
+[00:59:08.740 - 00:59:10.180] participación del mercado.
+[00:59:10.720 - 00:59:13.660] O sea, ahí hablamos de los clientes, ¿no?
+[00:59:13.840 - 00:59:18.020] Que implica notificar a clientes y prospectos la renovación del
+[00:59:18.020 - 00:59:18.600] proceso, ¿no?
+[00:59:19.640 - 00:59:26.140] Por ejemplo, en un e-commerce, este es el caso de Jim Fitz,
+[00:59:26.140 - 00:59:29.020] pero les comento otro caso de un e-commerce, por ejemplo,
+[00:59:29.780 - 00:59:33.860] que normalmente a veces te ponen hasta 5 pasos para
+[00:59:33.860 - 00:59:37.740] recién pagar o comprar cualquier producto, ¿no?
+[00:59:37.740 - 00:59:39.960] Y al final pagas con tarjeta o ya te oplín,
+[00:59:40.300 - 00:59:44.000] cualquiera vía digital, pues, al renovar sus pasos,
+[00:59:44.060 - 00:59:48.220] porque lo que quieren es que la cantidad de visitas que lleguen
+[00:59:48.220 - 00:59:51.620] a ese e-commerce, finalmente todos compren, ¿no?
+[00:59:51.640 - 00:59:55.960] No que solamente de las 100 personas compren 5, ¿no?
+[00:59:56.280 - 00:59:59.380] Entonces, para poder lograrlo, tienen que seguir optimizando
+[00:59:59.380 - 01:00:00.000] su proceso en que...
+[01:00:00.000 - 01:00:03.180] Cada vez en sus 5 pasos, tienen que ser en 3 pasos y así, ¿no?
+[01:00:03.180 - 01:00:06.780] Entonces, cada nueva optimización del proceso,
+[01:00:07.100 - 01:00:10.140] siempre hay que comunicarlo a los clientes, ¿no?
+[01:00:10.140 - 01:00:13.700] Ahora vas a comprar en un minuto, ¿no?
+[01:00:13.920 - 01:00:16.800] O antes te demorabas, no sé, media hora,
+[01:00:16.920 - 01:00:18.520] ahora te demorarás 10 minutos, ¿no?
+[01:00:18.960 - 01:00:21.280] Eso ya es parte de las estrategias de marketing, ¿no?
+[01:00:21.640 - 01:00:24.600] Pero sí, se tiene que siempre comunicar la optimización del
+[01:00:24.600 - 01:00:24.800] proceso.
+[01:00:24.960 - 01:00:25.200] ¿Para qué?
+[01:00:25.400 - 01:00:27.560] Llamar a nuevos clientes también, ¿no?
+[01:00:27.560 - 01:00:50.420] Eso es lo que nos dicen, ¿no? En estos, lo que aplicó, ¿no? Este caso de Gynfit, que los invito a leerlo, en estos tres principios, ¿no? Maximizar el beneficio de la empresa, ¿no? Que justamente lo que quieren es incrementar los ingresos, ¿no? Optimizar el proceso, que es el dolor más grande que se tiene de inscripciones, ¿no?
+[01:00:50.420 - 01:00:56.340] Y el tercer principio era ya fomentar el incremento de
+[01:00:56.340 - 01:00:57.920] participación del mercado, ¿no?
+[01:00:57.920 - 01:00:59.620] Eso ya es full marketing, ¿no?
+[01:01:00.260 - 01:01:05.060] Entonces, quiero que noten algo muy crítico, ¿no?
+[01:01:05.100 - 01:01:06.980] Que de alguna otra manera pasa en la vida profesional.
+[01:01:08.180 - 01:01:18.520] Y lo m valioso de un principio son las implicaciones Porque es ah donde el principio cuesta
+[01:01:20.280 - 01:01:22.800] Un principio que no implica nada,
+[01:01:24.200 - 01:01:27.720] prácticamente que no obliga prácticamente a nada,
+[01:01:28.300 - 01:01:29.880] no sirve, o sea, no funciona.
+[01:01:31.260 - 01:01:32.700] Si Jim Fitz, ¿no?
+[01:01:32.700 - 01:01:36.440] El caso, declara que va a optimizar la inscripción,
+[01:01:37.240 - 01:01:39.920] lo declara y lo dice y lo promociona y todo,
+[01:01:40.000 - 01:01:43.980] debe aceptar que va a capacitar a su personal, ¿cierto?
+[01:01:44.120 - 01:01:46.740] No solamente es lanzar la campaña de marketing.
+[01:01:47.200 - 01:01:50.920] Tiene que haber también una adopción interna del personal.
+[01:01:51.660 - 01:01:54.700] No solamente en la atención, ¿no?
+[01:01:55.020 - 01:01:57.020] Sino que va a cambiar su estructura.
+[01:01:59.540 - 01:02:01.000] Y esto es importante, ¿no?
+[01:02:01.000 - 01:02:03.580] Porque si no está dispuesto a ese cambio,
+[01:02:04.700 - 01:02:08.320] prácticamente al principio es solo un dato deseado.
+[01:02:08.320 - 01:02:09.240] Es un deseo.
+[01:02:10.000 - 01:02:10.200] ¿No?
+[01:02:11.540 - 01:02:13.000] Entonces tiene que tener bastante coherencia.
+[01:02:13.820 - 01:02:17.380] Nuevamente, en esta palabra la vamos a escuchar todo el curso, la coherencia.
+[01:02:17.940 - 01:02:18.080] ¿Ok?
+[01:02:19.440 - 01:02:25.000] Para que lo, de alguna u otra manera, lo tengamos como referencia, ¿no?
+[01:02:25.000 - 01:02:36.880] Todo propone En su documento o en su documentaci principios gen Muy conocidos como los datos
+[01:02:37.000 - 01:02:40.140] Son un activo, nos comenta, ¿no?
+[01:02:40.560 - 01:02:44.240] Que los datos se comparten, ¿no?
+[01:02:44.240 - 01:02:49.360] Y también dice que los datos deben ser accesibles o que la
+[01:02:49.360 - 01:02:50.580] continuidad, ¿no?
+[01:02:50.740 - 01:02:53.920] Del negocio debe protegerse.
+[01:02:53.920 - 01:03:11.660] Por eso hay una ley de protección de datos. Siempre tenemos que cuidar los datos del cliente, ¿no? En este curso, ¿no? Lo que vamos a hacer es justamente darle ese doble clic a los objetivos estratégicos, ¿no?
+[01:03:11.660 - 01:03:21.540] saber que tenemos que conocerlos, profundizarlos y entenderlos para que de alguna u otra manera nos puedan inspirar, ¿no?
+[01:03:21.620 - 01:03:28.040] Para poder saber cuál es el impacto que voy a generar con este proyecto hacia el negocio, ¿no?
+[01:03:28.460 - 01:03:37.580] Por ejemplo, un principio, ¿no? Los datos del afiliado, ¿no? Se registran una sola vez, que eso es lo ideal.
+[01:03:38.420 - 01:03:50.140] entonces tiene una implicancia clara es la implicancia Me preguntar La implicancia es ninguna podr pedir al cliente un dato que ya existe en el sistema
+[01:03:50.760 - 01:03:51.720] Esto es oro, ¿no?
+[01:03:52.060 - 01:03:54.040] No sé si a ustedes les ha pasado o si han tenido
+[01:03:54.040 - 01:03:55.500] alguna línea Movistar.
+[01:03:55.680 - 01:03:57.700] Tengo una mala experiencia con Movistar y eso que he trabajado
+[01:03:57.700 - 01:03:59.900] en Telefónica. Es que siempre
+[01:03:59.900 - 01:04:01.900] cuando llamaba por algún
+[01:04:01.900 - 01:04:03.800] problema en el servicio, me preguntaban
+[01:04:03.800 - 01:04:05.180] mi DNI cinco veces.
+[01:04:05.880 - 01:04:08.020] Pero eso ya está en el sistema. Yo soy cliente,
+[01:04:08.060 - 01:04:09.760] ¿no? No entiendo ni por qué me preguntaban el
+[01:04:09.760 - 01:04:11.680] DNI. No sé si les ha pasado a ustedes, ¿ah?
+[01:04:12.080 - 01:04:13.560] Pero es bien frustrante,
+[01:04:13.800 - 01:04:15.840] la verdad. Y bueno, esto es
+[01:04:15.840 - 01:04:17.420] lo que se justamente
+[01:04:17.420 - 01:04:19.480] se puso como
+[01:04:19.480 - 01:04:21.760] punto de partida, ¿no?
+[01:04:21.760 - 01:04:22.680] Este caso para
+[01:04:22.680 - 01:04:24.600] realmente
+[01:04:24.600 - 01:04:27.140] comunicar al cliente es que
+[01:04:27.140 - 01:04:29.440] la empresa ya tiene sus datos, ¿no?
+[01:04:29.720 - 01:04:30.980] ¿Para qué le vamos a volver a pedir?
+[01:04:32.700 - 01:04:33.580] A menos que
+[01:04:33.580 - 01:04:35.800] no tengamos un dato que no lo tengamos registrado
+[01:04:35.800 - 01:04:37.760] en el sistema, ¿no? Un punto importante.
+[01:04:38.760 - 01:04:45.680] dicho esto qué casos les puedo contar relacionado a lo que hemos aprendido hasta ahora por ejemplo
+[01:04:46.880 - 01:04:47.860] el caso
+[01:04:51.440 - 01:04:54.820] a ver vamos a hablar justamente hemos hablado del gobierno de la entidad
+[01:04:54.820 - 01:05:00.000] pública no vamos a continuar con ese caso la ley del gobierno de
+[01:05:00.000 - 01:05:05.860] digital y los principios del estado vamos a ver de los principios del estado este caso peruano
+[01:05:05.860 - 01:05:12.980] es un decreto legislativo y la ley del gobierno digital también entonces en el 2018 aproximadamente
+[01:05:12.980 - 01:05:19.400] estableció principios no para para que para la transformación digital del estado imagínense que
+[01:05:19.400 - 01:05:26.700] todavía está en proceso no se transforman pero está en ese camino entre ellos no la
+[01:05:26.700 - 01:05:33.540] La interoperabilidad que también está entre las entidades y el uso de la identidad digital.
+[01:05:33.880 - 01:05:35.640] Eso es lo que están trabajando actualmente.
+[01:05:36.640 - 01:05:46.140] Para cualquier entidad pública que hoy diseñe un sistema, miren, esos principios no son opcionales.
+[01:05:47.000 - 01:05:54.200] ¿Qué son? Son restricciones y guías que vienen de fuera.
+[01:05:54.200 - 01:06:00.000] Por eso, cuando un estudiante elige una entidad pública para un proyecto,
+[01:06:00.940 - 01:06:08.280] sus principios de arquitectura deben dialogar con ese marco legal.
+[01:06:09.600 - 01:06:20.180] Es importante tener esos principios claros de arquitectura Entonces dicho eso clase a ver les hago una pregunta
+[01:06:20.280 - 01:06:20.820] A ver cómo van.
+[01:06:21.080 - 01:06:24.400] Este es un bloque o este es un tema bastante teórico, ¿verdad?
+[01:06:24.460 - 01:06:28.220] Pero estoy tratando de plasmar en casos para que esto pueda ser más digerible.
+[01:06:28.880 - 01:06:31.200] Si hay algún tema que no queda claro, me avisan.
+[01:06:31.500 - 01:06:35.780] A ver, para traerles un poco más de material para que quede aún más claro.
+[01:06:35.780 - 01:06:42.120] Porque es lo que van a, bueno, van a trabajar a partir de esta sesión la segunda actividad, que ahora se los voy a explicar.
+[01:06:43.340 - 01:06:44.780] Les hago la pregunta, a ver.
+[01:06:47.400 - 01:06:58.980] A ver, imaginemos, ¿no? Redactemos, a ver, en esta mente, ¿no? De forma así rápida, un principio de arquitectura para la cafetería de Manolo.
+[01:06:58.980 - 01:07:06.940] que seguramente todos han leído, con una declaración, una explicación e implicancias.
+[01:07:08.620 - 01:07:14.420] A ver, tratemos de hacer ese ejercicio rapidito, y si vamos pensando, y yo también les voy a ayudar,
+[01:07:15.180 - 01:07:21.440] voy a lanzar una respuesta que podrían, tal vez ustedes, haberme comentado aquí en el chat, ¿no?
+[01:07:21.440 - 01:07:38.340] A ver si pensamos en los principios de arquitectura que acabamos de aprender aplicadas en la cafeter de Manolo Que fue el caso de la semana pasada teniendo en cuenta la declaraci la explicaci la implicancia Estos principios
+[01:07:38.340 - 01:08:00.560] A ver, posiblemente ustedes me dirán, a ver, pensándolo desde los principios, podrían decirme, ningún pedido se pierde entre la mesa y la cocina, ¿no? Recordando la cafetería Manolo.
+[01:08:00.560 - 01:08:30.360] Ojo. Eso es lo que me podrían decir a modelo de que sería el principio, ¿no? O sea, ese sería el principio. Ningún pedido se pierde entre la mesa y la cocina, ¿no? Podríamos declararlo así. ¿Cuál sería la declaración? La declaración sería todo pedido tomado en el salón debe llegar a cocina de forma inmediata, ¿no? Completa y legible, no sea letra de doctor, ¿no?
+[01:08:30.560 - 01:08:32.540] y su estado
+[01:08:32.540 - 01:08:35.000] debe poder
+[01:08:35.000 - 01:08:37.380] consultarse
+[01:08:37.380 - 01:08:39.680] en qué estado está, si ya está listo, en cuánto va a salir
+[01:08:39.680 - 01:08:52.760] el plato esa ser la declaraci cu ser la explicaci La explicaci ser hoy los meseros cometen errores
+[01:08:53.320 - 01:08:56.480] Esa sería la explicación de por qué la declaración, ¿no?
+[01:08:56.560 - 01:08:58.020] Todo está conectado, ¿no?
+[01:08:59.240 - 01:09:02.640] La explicación sería, bueno, somos humanos, ¿no?
+[01:09:02.640 - 01:09:05.140] Todos los meseros cometen errores al anotar los pedidos
+[01:09:05.140 - 01:09:08.920] y esos se confunden en la cocina, definitivamente, ¿no?
+[01:09:08.920 - 01:09:17.380] Lo que genera platos equivocados o que no lleguen o que se olviden también, ¿no?
+[01:09:17.740 - 01:09:24.280] Y eso hace perder clientes, ¿no? Frente a la competencia porque es un comensal, está esperando su planta, imagínate que no llegue.
+[01:09:24.960 - 01:09:35.940] Como hoy día pasó, ¿no? Emorzar y entre el grupo me han pedido una leche de tigre, nunca llegó la leche de tigre, se perdió en el camino.
+[01:09:36.520 - 01:09:37.840] Incomodidad total. O sea,
+[01:09:38.300 - 01:09:39.900] ya salió disgustado,
+[01:09:40.100 - 01:09:42.100] ya la comida no pasó de la garganta
+[01:09:42.100 - 01:09:43.740] al estómago. Entonces,
+[01:09:44.320 - 01:09:46.100] ven, insatisfacción.
+[01:09:46.440 - 01:09:47.760] ¿No? Y claro, ¿qué
+[01:09:47.760 - 01:09:49.680] pasa con el cliente? No, ya no vuelvo.
+[01:09:50.380 - 01:09:52.040] Me voy a otro restaurante.
+[01:09:52.360 - 01:09:53.840] ¿No? Entonces, justamente, ¿no?
+[01:09:53.880 - 01:09:55.980] Lo que les decía, eso hace perder clientes
+[01:09:55.980 - 01:09:58.040] frente a la competencia. Esa sería
+[01:09:58.040 - 01:10:00.000] la explicación. Y con ese
+[01:10:00.000 - 01:10:16.940] ¿Qué era la implicancia? Si en este caso, las implicaciones serían la cafetería debería registrar los pedidos en un medio, ustedes me dirán, pero ¿por qué es manual? ¿Por qué lo escriben? Porque no es digital, ¿verdad? Seguramente ustedes habrán pensado en eso.
+[01:10:16.940 - 01:10:36.720] Pues sí, efectivamente, ¿no? Las implicaciones serían la cafetería debería registrar los pedidos en un medio digital, capacitar a los meseros y cocineros, ¿no? Y aceptar que ningún pedido se prepara si no llega registrado por, ¿no? La plataforma, el software, lo que hayan fijado, ¿no?
+[01:10:36.720 - 01:10:56.920] Entonces, miren que la última implicación es la que cuesta, ¿no? Cambia la costumbre del equipo, los hábitos, el proceso, ¿no? Porque es un principio de verdad. Eso es lo que hacen los principios.
+[01:10:57.800 - 01:10:59.700] A ver, acá nos dice Marco Antonio.
+[01:11:00.040 - 01:11:00.360] Puede ser.
+[01:11:00.480 - 01:11:01.640] Claro, así es, ¿no?
+[01:11:01.640 - 01:11:02.960] Entrate libremente, ¿no, Marco Antonio?
+[01:11:03.440 - 01:11:03.980] Muy bien.
+[01:11:04.280 - 01:11:05.040] Excelente, sí.
+[01:11:05.520 - 01:11:08.500] Pero con una doble validación de pedidos por parte del mesero.
+[01:11:08.680 - 01:11:09.720] Ah, por supuesto.
+[01:11:09.820 - 01:11:22.240] Ese es buen punto Siempre hay que hacer una doble validaci Porque a veces pasa Somos humanos A veces no se nos pasa A veces no s el comensal tiene mucha hambre
+[01:11:22.320 - 01:11:23.600] pues se pidió 5 platos, ¿no?
+[01:11:24.140 - 01:11:26.220] Bueno, tenemos que hacer esa doble validación.
+[01:11:26.360 - 01:11:26.720] Correcto.
+[01:11:26.740 - 01:11:27.020] Muy bien.
+[01:11:27.380 - 01:11:28.380] Excelente, Marco Antonio.
+[01:11:29.440 - 01:11:29.680] OK.
+[01:11:29.840 - 01:11:32.460] Espero que con este ejemplo haya quedado mucho más claro los
+[01:11:32.460 - 01:11:32.940] principios.
+[01:11:33.100 - 01:11:35.660] Me comentan por aquí en el chat, por favor, clase, ¿cómo vamos?
+[01:11:35.660 - 01:11:37.200] ¿Vamos bien?
+[01:11:37.440 - 01:11:38.480] ¿Vamos entendiendo?
+[01:11:38.580 - 01:11:39.720] Claro, con los ejemplos.
+[01:11:40.000 - 01:11:44.120] que vamos a entrar a la metodología.
+[01:11:45.620 - 01:11:46.680] A ver, los leo por aquí.
+[01:11:48.680 - 01:11:50.740] ¿Sí? ¿Dice Arturo? Genial.
+[01:11:51.480 - 01:11:53.100] Luego vamos a entrar a la metodología.
+[01:11:53.540 - 01:11:54.800] Ya nos toca la metodología.
+[01:11:54.980 - 01:11:56.800] Luego objetivos, metas y alcances y restricciones.
+[01:12:00.160 - 01:12:01.400] Y luego terminados.
+[01:12:01.640 - 01:12:03.660] Ya, listo. Estamos avanzando muy bien.
+[01:12:03.660 - 01:12:05.740] Lo bueno es que se entienda clase, ¿no?
+[01:12:05.980 - 01:12:06.460] ¿Todo bien?
+[01:12:08.200 - 01:12:09.660] Carlos nos dice, muy bien, excelente.
+[01:12:10.640 - 01:12:11.160] Perfecto.
+[01:12:12.280 - 01:12:12.640] Muy bien.
+[01:12:13.100 - 01:12:17.000] Entonces, como digo, esta sesión era bastante densa,
+[01:12:17.000 - 01:12:19.880] pero he tratado de plasmarlo en casos que se puedan entender
+[01:12:19.880 - 01:12:35.660] de una manera un poco m clara para que ustedes lo puedan reflejar en su actividad Ya perfecto Avanzamos Entonces metodolog Seguramente el t metodolog para ustedes es m
+[01:12:35.660 - 01:12:36.660] familiar, ¿sí?
+[01:12:36.700 - 01:12:39.560] Y esto va a ser seguramente mucho más entendible.
+[01:12:41.120 - 01:12:46.480] Entonces, la última sesión, o bueno,
+[01:12:46.480 - 01:12:49.820] la última parte de la fase preliminar es la metodología,
+[01:12:50.020 - 01:12:50.800] ¿sí?
+[01:12:50.800 - 01:13:11.380] Aquí el proyecto, ¿no? Se va a desarrollar con TOGAF, como ya sabemos, y que hay que aterrizarlo en las fases de la metodología, ¿sí? Proponiendo por escrito cuáles fases cubrirá el proyecto y cuáles no, ¿sí?
+[01:13:11.380 - 01:13:38.600] Entonces, seguimos con el caso de GymFit, ¿sí? Ya lo sabemos, ya lo estamos tocando como ejemplo. Entonces, el caso de GymFit, ¿no? En el manual justamente explica que su adopción, ¿no? Al ADM y su selección del proceso de inscripción, ¿no? Porque su impacto es casi inmediato, ¿no? Ya que es el primer proceso que vive el cliente en la organización.
+[01:13:39.120 - 01:13:39.480] ¿Cuál es?
+[01:13:39.780 - 01:14:09.980] Inscribirse El primer paso
+[01:14:10.000 - 01:14:14.300] a otros procesos en el futuro, porque eso es lo que es el to be.
+[01:14:14.800 - 01:14:17.980] Te muestra una arquitectura futura, ¿no?
+[01:14:18.280 - 01:14:24.620] Por eso es clave entender que elegir el proceso es una decisión estratégica.
+[01:14:25.800 - 01:14:25.920] ¿Sí?
+[01:14:26.860 - 01:14:31.140] Jim Fit no eligió el proceso de limpieza, ¿no?
+[01:14:31.540 - 01:14:33.560] Ni el de compras, ¿cierto?
+[01:14:34.180 - 01:14:39.500] Eligió el primer contacto con el cliente, el que más afecta, ¿no?
+[01:14:40.000 - 01:14:41.840] Las ventas y la imagen.
+[01:14:43.380 - 01:14:51.480] Cuando ustedes elijan el proceso de la empresa, de la cual ustedes ya tienen claro, háganse la misma pregunta.
+[01:14:52.380 - 01:14:54.920] ¿Este proceso mueve un objetivo estratégico?
+[01:14:55.980 - 01:15:00.000] Si la respuesta es sí, bien, estamos en el camino correcto.
+[01:15:00.000 - 01:15:03.620] Y si la respuesta es no, volvamos a revisarlo, ¿sí?
+[01:15:04.440 - 01:15:10.420] Para el curso les propongo que la metodología de su proyecto, ¿no?
+[01:15:11.980 - 01:15:18.280] Declare que cubre la fase preliminar, la fase A y la fase B de negocio, ¿no?
+[01:15:18.420 - 01:15:24.200] También está la fase C de datos y aplicaciones y también existe la fase D de tecnologías,
+[01:15:24.200 - 01:15:26.720] La fase E, de oportunidades y soluciones.
+[01:15:27.520 - 01:15:28.380] Y la G, ¿no?
+[01:15:28.380 - 01:15:30.420] Que es gobierno de la implementación.
+[01:15:31.380 - 01:15:34.700] Que son las que vamos a estudiar en el curso, ¿no?
+[01:15:35.180 - 01:15:40.180] Entonces, la fase F y H, ¿no?
+[01:15:41.140 - 01:15:44.480] Quedarán mencionadas también como los siguientes pasos, ¿sí?
+[01:15:45.540 - 01:15:46.300] Muy bien.
+[01:15:46.580 - 01:15:52.080] Entonces, ahora, como ya hemos hecho los ejemplos,
+[01:15:52.080 - 01:15:54.120] ya tenemos prácticamente la empresa descrita,
+[01:15:54.220 - 01:15:55.700] cómo se debería describir, ¿no?
+[01:15:55.780 - 01:15:57.960] El equipo y los principios.
+[01:15:58.300 - 01:15:59.560] Eso es lo que hemos aprendido hasta ahora.
+[01:16:00.140 - 01:16:01.200] ¿Qué nos falta, no?
+[01:16:01.480 - 01:16:06.200] Para que la alta dirección diga, sí, adelante con el proyecto,
+[01:16:06.600 - 01:16:06.820] ¿no?
+[01:16:06.880 - 01:16:07.320] El go.
+[01:16:07.980 - 01:16:21.100] Pues aqu la respuesta es bueno pr nos falta mostrarle qu ganar la empresa Para que nos d el go d llegar el proyecto y con qu limitaciones
+[01:16:21.660 - 01:16:21.920] ¿Cierto?
+[01:16:22.800 - 01:16:23.720] Eso es lo que nos falta.
+[01:16:24.420 - 01:16:32.160] Entonces, la alta dirección aprueba cuando entiende qué objetivos estratégicos se van a mover.
+[01:16:33.360 - 01:16:33.840] ¿No?
+[01:16:33.840 - 01:16:37.800] Eso es lo que evalúa el comité de inversiones.
+[01:16:37.800 - 01:16:40.020] todos los proyectos pasan por el comité
+[01:16:40.020 - 01:16:42.300] la última etapa donde prácticamente te dicen
+[01:16:42.300 - 01:16:44.360] te suelto el dinero o no te sueltes
+[01:16:44.360 - 01:16:45.960] el dinero, ¿no? Para eso tienes que
+[01:16:45.960 - 01:16:48.680] estar súper claro qué objetivos
+[01:16:48.680 - 01:16:50.480] a nivel estratégico
+[01:16:50.480 - 01:16:51.600] a nivel de negocio
+[01:16:51.600 - 01:16:54.380] vamos a
+[01:16:54.380 - 01:16:56.220] mover con el proyecto, ¿sí? Pero lo tengan
+[01:16:56.220 - 01:16:57.480] clarito para su proyecto
+[01:16:57.480 - 01:17:00.460] ahora que les mande la documentación
+[01:17:00.460 - 01:17:02.240] ahí van a poder avanzar con la
+[01:17:02.240 - 01:17:04.040] siguiente actividad y seguramente van a hacer
+[01:17:04.040 - 01:17:05.160] una muy buena actividad
+[01:17:05.160 - 01:17:23.740] Entonces, recuerden, ¿no? Hay que saber estos objetivos, ¿no? Las metas que van a mover, que se esperan lograr, qué incluye y qué no, las restricciones también que existen, ¿no? Y quiénes serán los afectados, ¿no? Los stakeholders, claro, ¿no?
+[01:17:23.740 - 01:17:34.660] Ese es exactamente el contenido de la fase A Visi de la arquitectura Que veremos en este momento
+[01:17:35.080 - 01:17:39.160] A ver, cuando hablamos de la visión de la arquitectura, ¿sí?
+[01:17:39.600 - 01:17:43.140] Aborda prácticamente el establecimiento del proyecto e
+[01:17:43.140 - 01:17:47.200] inicia una iteración del ciclo, ¿sí?
+[01:17:48.200 - 01:17:53.100] Sus objetivos principales son 2, desarrollar una visión de alto
+[01:17:53.100 - 01:17:57.100] nivel de las capacidades y del valor del negocio.
+[01:17:58.200 - 01:18:00.660] Del valor del negocio que deseamos obtener, ¿no?
+[01:18:01.040 - 01:18:06.020] Y prácticamente vamos a obtener la aprobación del desarrollo de
+[01:18:06.020 - 01:18:07.240] la arquitectura, ¿no?
+[01:18:07.280 - 01:18:08.600] Por parte de la alta dirección.
+[01:18:08.740 - 01:18:09.940] Eso es lo primero que se aprueba.
+[01:18:10.460 - 01:18:11.700] Antes de ir al comité de inversiones,
+[01:18:11.780 - 01:18:13.620] hay otro comité de arquitectura, ¿no?
+[01:18:13.940 - 01:18:15.780] Donde dicen, esta arquitectura me hace sentido,
+[01:18:15.880 - 01:18:17.160] no me hace sentido.
+[01:18:18.280 - 01:18:19.780] Tiene evolución, ¿no?
+[01:18:19.900 - 01:18:22.060] Y se aprueba también previamente, ¿no?
+[01:18:22.940 - 01:18:26.400] Y recuerden que lo que dice el manual, ¿no?
+[01:18:26.760 - 01:18:28.760] De cara a las certificaciones también.
+[01:18:29.580 - 01:18:33.200] La fase A se considera la primera fase del ciclo, ¿no?
+[01:18:33.260 - 01:18:34.280] Del ADN.
+[01:18:34.440 - 01:18:36.300] Es importante hacer las certificaciones, ¿no?
+[01:18:37.480 - 01:18:52.740] Ahora cuando hablamos de esta fase A que es la visi de la arquitectura establece el proyecto de arquitectura justamente identificando los stakeholders
+[01:18:55.100 - 01:18:59.100] Aquí confirman y elaboran los objetivos del negocio,
+[01:18:59.560 - 01:19:01.320] porque estos stakeholders son los interesados.
+[01:19:02.100 - 01:19:03.980] También hay que tener claro las motivaciones.
+[01:19:03.980 - 01:19:06.420] Las limitaciones.
+[01:19:07.120 - 01:19:09.560] Y evaluar las capacidades también del negocio.
+[01:19:09.560 - 01:19:25.360] Tenemos que tener claro, ya lo hemos repasado, definir el alcance, confirmar y elaborar los principios, desarrollar la visión de la arquitectura, definir sí o sí la propuesta de valor y los indicadores que vamos a mover.
+[01:19:26.580 - 01:19:36.340] Hay que tenerlo bastante claro, no quiere decir que nosotros lo definamos del lado de tecnología, sino de la mano con negocio, para validar justamente si el proyecto va a ser exitoso o no.
+[01:19:36.340 - 01:19:42.680] identificar también los riesgos que se puede tener con esta transformación según la iniciativa
+[01:19:42.680 - 01:19:49.780] y sus actividades que hay que tener, esas actividades de mitigación, si se requieren.
+[01:19:50.700 - 01:19:57.160] Y claro, desarrollar también la declaración de trabajo de arquitectura para obtener los respaldos necesarios.
+[01:19:57.720 - 01:20:00.000] Hay que hacer esa declaración del transformador.
+[01:20:00.000 - 01:20:01.000] trabajo de arquitectura, ¿no?
+[01:20:01.660 - 01:20:05.160] Y se preguntarán, ¿y qué es esa declaración de arquitectura,
+[01:20:05.240 - 01:20:05.340] no?
+[01:20:05.620 - 01:20:06.620] ¿Qué es, no?
+[01:20:06.920 - 01:20:10.640] Y según el manual, es un documento que define el alcance,
+[01:20:11.580 - 01:20:14.160] los criterios de aceptación, los stakeholders,
+[01:20:14.700 - 01:20:17.200] las responsabilidades, el plan de comunicaciones.
+[01:20:17.820 - 01:20:22.260] También está los entregables de cada fase, los riesgos,
+[01:20:22.260 - 01:20:26.120] el plan de trabajo y el cronograma a alto nivel.
+[01:20:26.880 - 01:20:27.260] Este es cronograma.
+[01:20:27.980 - 01:20:29.700] Hace un momento vimos el organigrama.
+[01:20:30.000 - 01:20:34.420] ¿Sí? De personas, de cronogramas, a nivel de actividades y tiempo a alto nivel.
+[01:20:35.160 - 01:20:41.700] En su propuesta, ¿no? Empieza prácticamente, bueno, una vez que se aprueba, ¿no?
+[01:20:43.420 - 01:20:49.840] Ya el proyecto, ¿no? Empieza el trabajo fuerte, ¿no? Prácticamente ya viene el ciclo, ¿no? De iteración.
+[01:20:50.560 - 01:20:55.700] Entonces, en el mundo de proyectos, que alguno de ustedes seguramente conoce,
+[01:20:55.700 - 01:21:00.680] se parece mucho al acta de constitución de un proyecto.
+[01:21:02.020 - 01:21:02.840] Se parece bastante.
+[01:21:03.460 - 01:21:08.520] Entonces, se tiene que trabajar justamente ese documento, ¿sí?
+[01:21:08.740 - 01:21:18.680] Que es la declaraci del trabajo de arquitectura Esto significa que la fase A es una fase de negociaci y de compromiso
+[01:21:20.000 - 01:21:31.180] al terminarla si todos saben que se va a hacer para qué hasta dónde y bajo qué condiciones eso
+[01:21:31.180 - 01:21:39.920] tiene que estar más que claro sí y aquí vamos con los casos para justamente aterrizar a ver
+[01:21:39.920 - 01:21:46.840] A ver, este caso aquí en Perú de Págalo.p, no sé si algunos lo han usado,
+[01:21:47.700 - 01:21:53.980] esta plataforma que ha sido desarrollado justamente para hacer los pagos del Banco de la Nación.
+[01:21:53.980 - 01:21:58.120] Y el valor de no hacer colas, ese es el valor.
+[01:21:58.500 - 01:22:00.960] ¿Por qué se creó ya? A ver, les explico, les doy contexto.
+[01:22:02.420 - 01:22:06.040] El Banco de la Nación lanzó esta plataforma de Págalo.p,
+[01:22:06.040 - 01:22:08.840] una plataforma justamente para pagar
+[01:22:08.840 - 01:22:09.700] en línea
+[01:22:09.700 - 01:22:12.540] tasas, a ver qué más
+[01:22:12.540 - 01:22:14.740] trámites del Estado
+[01:22:14.740 - 01:22:16.540] sin acudir a una agencia
+[01:22:16.540 - 01:22:18.760] eso me pareció, es la maravilla para mí
+[01:22:18.760 - 01:22:20.360] bueno, hace poco también quería
+[01:22:20.360 - 01:22:22.260] ponerle lunas polarizadas a mi auto
+[01:22:22.260 - 01:22:24.980] y lo he pagado por esta plataforma
+[01:22:24.980 - 01:22:35.180] y he hecho muchos pagos tambi para sacar un acta de nacimiento Es por digital pero es espectacular Bueno el Estado Per est avanzando bien por ese lado
+[01:22:35.180 - 01:22:35.940] En digitalizar.
+[01:22:36.200 - 01:22:37.120] Y está en ese camino.
+[01:22:37.880 - 01:22:40.320] Pero bueno, el Banco de la Nación lanzó esta plataforma.
+[01:22:41.080 - 01:22:43.560] Entonces ya no se acude a las agencias.
+[01:22:43.660 - 01:22:44.540] Ya no voy al Banco de la Nación.
+[01:22:44.680 - 01:22:46.220] Para mí es un alivio, ¿no?
+[01:22:46.700 - 01:22:47.900] Porque hay colas.
+[01:22:48.780 - 01:22:51.060] Entonces, justamente el caso trata de eso, ¿no?
+[01:22:51.060 - 01:22:55.720] Pagalo.pe y el valor que genera el no hacer cola.
+[01:22:56.280 - 01:23:03.060] Entonces, aquí la visión, la visión de valor es sencilla de decirlo,
+[01:23:03.180 - 01:23:08.260] o sea, anunciarles que el ciudadano no tenga que hacer colas para pagar una tasa.
+[01:23:08.260 - 01:23:13.140] Y a partir de esa visión se definen objetivos medibles,
+[01:23:13.340 - 01:23:19.220] como el porcentaje de pagos que migran al canal digital.
+[01:23:19.220 - 01:23:24.700] Bueno, ellos lo pueden medir desde la web cuántos pagos se van haciendo de manera diaria.
+[01:23:25.560 - 01:23:32.080] Y los stakeholders muy diversos que vienen a ser los ciudadanos, las entidades que cobran las tasas,
+[01:23:32.700 - 01:23:39.460] el propio banco también, ¿no? Y las áreas de seguridad, que son las que están constantemente viendo esos pagos, ¿no?
+[01:23:39.460 - 01:23:52.040] Porque se ingresan tarjetas bueno ahora se utilizan las billeteras digitales Entonces es la misma l que el caso de Jim Fitz Eliminar la cola del proceso de inscripci Vean ese es
+[01:23:52.040 - 01:23:54.040] un caso real, ¿sí?
+[01:23:55.940 - 01:23:56.420] Entonces,
+[01:23:56.740 - 01:23:59.940] dicho esto, con este caso,
+[01:24:00.620 - 01:24:01.740] espero que haya quedado bastante claro,
+[01:24:02.020 - 01:24:04.020] clase, si no me avisan, si no, para contarles otro caso,
+[01:24:04.320 - 01:24:06.060] compartirles también por mensaje directo
+[01:24:06.060 - 01:24:07.880] otros casos, hablamos
+[01:24:07.880 - 01:24:09.720] del siguiente bloque, que son los objetivos,
+[01:24:09.720 - 01:24:12.700] metas, alcance, restricciones y stakeholders.
+[01:24:14.020 - 01:24:16.720] Aquí, cuando hablamos de un objetivo de negocio,
+[01:24:17.380 - 01:24:19.740] que siempre lo hemos mencionado desde la semana pasada,
+[01:24:21.220 - 01:24:24.520] hablamos justamente de listar los objetivos, ¿no?
+[01:24:24.660 - 01:24:26.880] ¿Cuáles son los objetivos de negocio que se persiguen?
+[01:24:27.800 - 01:24:30.300] Que son los mismos objetivos estratégicos de la organización,
+[01:24:30.940 - 01:24:32.380] no son otros, son los mismos.
+[01:24:33.140 - 01:24:37.500] Y que debemos asegurar de que al fin del proyecto,
+[01:24:37.500 - 01:24:39.600] ayude, finalmente el proyecto
+[01:24:39.600 - 01:24:41.780] nos cumpla, ¿no? Al finalizar todo el proyecto.
+[01:24:42.900 - 01:24:43.800] En caso del
+[01:24:43.800 - 01:24:44.860] de
+[01:24:44.860 - 01:24:47.240] GFIT, los objetivos
+[01:24:47.240 - 01:24:49.840] son seis, ¿no? Facilitar
+[01:24:49.840 - 01:24:51.320] los negocios
+[01:24:51.320 - 01:24:53.580] virtuales, ¿no? Mediante un
+[01:24:53.580 - 01:24:55.780] aplicativo móvil, ¿no? Que le permite ingresar
+[01:24:55.780 - 01:24:56.420] al mercado
+[01:24:56.420 - 01:25:00.000] globalizado,
+[01:25:00.000 - 01:25:01.540] y mejorar sus ventas.
+[01:25:02.420 - 01:25:04.940] También otro objetivo era aumentar el número de clientes.
+[01:25:05.800 - 01:25:08.280] Luego había otro objetivo de eliminar las colas
+[01:25:08.280 - 01:25:10.420] por la aglomeración de los nuevos clientes.
+[01:25:11.140 - 01:25:13.940] Otro objetivo era optimizar el proceso de inscripción.
+[01:25:15.960 - 01:25:19.780] Entonces, mover el uso de tecnologías de información
+[01:25:19.780 - 01:25:21.600] mediante un software de gestión,
+[01:25:21.600 - 01:25:24.640] que también es uno de sus objetivos,
+[01:25:24.720 - 01:25:27.660] y mostrar la eficiencia, que es lo que se busca,
+[01:25:27.660 - 01:25:30.660] eficiencia y eficacia del software en la inscripción.
+[01:25:31.480 - 01:25:33.340] Es un indicador a nivel de tecnología, ¿no?
+[01:25:34.120 - 01:25:39.660] Entonces, es importante, ¿no?
+[01:25:40.100 - 01:25:41.800] Definir claramente esos objetivos.
+[01:25:42.000 - 01:25:44.120] No se alejan de los objetivos estratégicos,
+[01:25:44.200 - 01:25:45.460] ni mucho menos de la organización.
+[01:25:46.720 - 01:25:49.120] Conversan y están bien alineados, ¿sí?
+[01:25:49.920 - 01:25:55.220] Entonces, cuando ustedes definan esos objetivos,
+[01:25:55.220 - 01:26:01.140] y así ya los tienen definidos, excelente, igual también les voy a dar feedback sobre ello.
+[01:26:02.920 - 01:26:22.920] Que de alguna otra manera esta mejora de poder entender c poder definir correctamente los objetivos o identificarlos les va a servir a sus trabajos o sus proyectos y en la evaluaci Hagan que los objetivos sean medibles as de simple En simple
+[01:26:23.520 - 01:26:27.440] Evitar, por ejemplo, en estos casos que hemos venido hablando, evitar las colas,
+[01:26:27.820 - 01:26:30.540] es una intención, por ejemplo, ¿no? Si lo decimos así.
+[01:26:31.380 - 01:26:32.320] Muy genérico.
+[01:26:32.980 - 01:26:37.540] Entonces, diferente a decir, reducir el tiempo de inscripción de 15,
+[01:26:37.540 - 01:26:42.300] No, a ver, de 25 a 8 minutos en 6 meses, ¿no?
+[01:26:42.800 - 01:26:45.660] Recuerden de los objetivos SMART, ¿no?
+[01:26:45.700 - 01:26:49.940] Tienen que ser alcanzables, medibles, ¿no?
+[01:26:50.380 - 01:26:52.800] Y cuantificados, o sea, tienen que tener un tiempo.
+[01:26:53.780 - 01:26:57.220] Entonces, traten de que los objetivos no sean genéricos.
+[01:26:57.760 - 01:26:59.680] No solamente me digan evitar las colas, ¿no?
+[01:27:00.060 - 01:27:02.040] Hay que ser más específicos, ¿no?
+[01:27:02.340 - 01:27:07.400] Reducir el tiempo de inscripción de 25 a 8 minutos en 6 meses,
+[01:27:07.400 - 01:27:08.540] Le ponen un tiempo.
+[01:27:09.280 - 01:27:13.100] Es un adjetivo que se puede medir, verificar, ¿no?
+[01:27:13.780 - 01:27:14.260] Probar.
+[01:27:16.080 - 01:27:20.100] Entonces, y cuando ya lo tengan armado, ¿no?
+[01:27:20.360 - 01:27:23.900] Se tiene que controlar, vigilar, que ese número sea razonable,
+[01:27:23.980 - 01:27:24.920] alcanzable, ¿no?
+[01:27:25.280 - 01:27:38.820] Y que tenga una l base O sea d partir Si partimos de 25 minutos hay que medir c vamos bajando a 8 minutos Ser de manera progresiva
+[01:27:40.420 - 01:27:44.660] Entonces, hay que medir también en cuánto tiempo llegamos a esos 8 minutos.
+[01:27:44.800 - 01:27:47.080] A veces no en 6 meses, llegamos en un año y sí fuimos, ¿no?
+[01:27:47.460 - 01:27:50.020] Tendría que ser en menos de 6 meses, como lo hemos declarado, ¿no?
+[01:27:50.540 - 01:27:52.600] Si, bueno, llegamos a 6 meses, bueno, hemos cumplido.
+[01:27:52.600 - 01:27:55.800] Pero si llegamos en 5 meses, estamos hablando de una eficiencia, ¿no?
+[01:27:56.480 - 01:27:58.660] Entonces, para que lo tengan claro,
+[01:27:58.960 - 01:28:01.520] cómo se van a definir estos objetivos en negocio, ¿no?
+[01:28:01.580 - 01:28:04.620] O sea, tienen que estar bastante alineados los objetivos estratégicos
+[01:28:04.620 - 01:28:05.440] y de la organización.
+[01:28:06.740 - 01:28:10.140] Ahora, cuando hablamos de metas y motivaciones, ¿sí?
+[01:28:10.220 - 01:28:12.120] Aquí es una lista, ¿no?
+[01:28:12.160 - 01:28:15.060] Las metas que debemos cumplir, ¿no?
+[01:28:15.160 - 01:28:16.700] A nivel de la organización.
+[01:28:17.020 - 01:28:20.260] Y los principales motores de motivación, ¿no?
+[01:28:20.260 - 01:28:21.040] Para lograrnos.
+[01:28:21.040 - 01:28:27.760] Y hay que precisar que las metas las define el directorio,
+[01:28:27.980 - 01:28:29.180] la junta de accionistas,
+[01:28:29.920 - 01:28:32.600] que además establecen las bonificaciones también,
+[01:28:32.740 - 01:28:34.040] que se va a perseguir.
+[01:28:35.000 - 01:28:38.020] Si nosotros cumplimos metas, objetivos, nos bonifican.
+[01:28:38.720 - 01:28:39.580] Así hacen las empresas.
+[01:28:40.040 - 01:28:49.920] En caso de GenFit seguimos con este caso las metas estaban enfocadas en optimizar la atenci Del cliente con la herramienta tecnol
+[01:28:50.860 - 01:28:53.460] ¿No? Minimizar justamente las tareas manuales del personal,
+[01:28:54.320 - 01:28:55.140] que no eran menores.
+[01:28:56.020 - 01:29:00.660] También hablaba el caso de velar por el bienestar del cliente fidelizado,
+[01:29:00.760 - 01:29:02.240] ¿no? Que esté cada vez más satisfecho.
+[01:29:03.180 - 01:29:06.180] Y también integrar un sistema de información de inscripción, ¿no?
+[01:29:06.180 - 01:29:09.180] Que haga más rápida la matrícula, ¿no? Velocidad.
+[01:29:10.000 - 01:29:15.780] Entonces, nos preguntamos, ¿cuál es la diferencia entre un objetivo, una meta, motivación?
+[01:29:15.920 - 01:29:17.480] Les he hablado de tres términos.
+[01:29:19.020 - 01:29:24.640] Pues el objetivo, clase, a ver, dice hacia dónde vamos.
+[01:29:24.820 - 01:29:25.680] Recuerden esto, ¿ah?
+[01:29:25.700 - 01:29:27.860] El objetivo dice hacia dónde vamos.
+[01:29:28.860 - 01:29:30.480] La meta, ¿no?
+[01:29:30.580 - 01:29:32.040] La meta es concreta.
+[01:29:32.040 - 01:29:34.600] Lo que hay que alcanzar.
+[01:29:34.600 - 01:29:41.000] y cuando hablamos de lo que nos va a motivar, ¿no?
+[01:29:41.000 - 01:29:47.260] El motivador explica qué nos empuja a hacerlo, ¿no?
+[01:29:47.400 - 01:29:51.840] En GFIT, el motivador está en el caso, ¿no?
+[01:29:51.840 - 01:29:55.920] Dice la insatisfacción de los clientes y la pérdida de ingresos,
+[01:29:55.940 - 01:29:56.960] es un gran motivador.
+[01:29:57.420 - 01:29:58.260] Obviamente, ¿no?
+[01:29:58.380 - 01:30:00.000] Estamos perdiendo clientes, estamos perdiendo...
+[01:30:00.000 - 01:30:09.940] ingresos más que motivación es una preocupación entonces un motivador puede ser interno no como
+[01:30:09.940 - 01:30:17.700] los costos altos o extremos como también puede ser un competidor o una ley también no aunque
+[01:30:17.700 - 01:30:25.380] lo tengan en cuenta cuando hablamos del alcance de requerimientos y restricciones sí
+[01:30:25.380 - 01:30:31.240] Y con este bloque ya prácticamente terminamos.
+[01:30:33.060 - 01:30:35.980] Claro, nos falta la matriz de Steve Haller, que ahorita la vamos a mencionar.
+[01:30:36.160 - 01:30:38.440] Pero cuando hablamos del alcance, requerimientos y restricciones,
+[01:30:39.240 - 01:30:44.840] aquí el alcance, recuerden que está enfocado en la visión de la arquitectura, ¿no?
+[01:30:45.480 - 01:30:50.300] Que será bastante alineada el proyecto con los objetivos, las metas organizacionales, ¿no?
+[01:30:50.300 - 01:30:54.100] Para justamente maximizar el valor de la arquitectura, ¿no?
+[01:30:54.100 - 01:30:57.280] Y tener una arquitectura más eficaz, efectiva, ¿no?
+[01:30:58.060 - 01:31:04.140] En Gimp Fit, el alcance está orientado a optimizar el proceso de inscripción, ¿no?
+[01:31:05.020 - 01:31:09.520] Del área de atención al cliente, mediante un proyecto tecnológico con Tobaf.
+[01:31:09.780 - 01:31:20.040] Eso es Ese es el alcance Y dentro del alcance van los requerimientos Que justifican a nivel de negocio el proyecto
+[01:31:21.680 - 01:31:22.160] GymFit,
+[01:31:22.820 - 01:31:23.980] ¿no? Lo que nos dice es requiere
+[01:31:23.980 - 01:31:26.000] una plataforma tecnológica que integre un
+[01:31:26.000 - 01:31:27.040] software, ¿no?
+[01:31:27.780 - 01:31:29.500] Integre este software los procesos
+[01:31:29.500 - 01:31:32.100] de áreas. Empezando
+[01:31:32.100 - 01:31:34.040] por la atención al cliente y que
+[01:31:34.040 - 01:31:36.180] permita a los clientes justamente escribirse
+[01:31:36.180 - 01:31:37.740] de forma remota,
+[01:31:37.740 - 01:31:40.060] digital y obtener
+[01:31:40.060 - 01:31:41.060] su membresía digital.
+[01:31:42.180 - 01:31:43.820] Y luego las restricciones
+[01:31:43.820 - 01:31:45.820] que son las condiciones
+[01:31:45.820 - 01:31:47.220] dentro de las cuales
+[01:31:47.220 - 01:31:50.140] estarían
+[01:31:50.140 - 01:31:52.080] suscritos el proyecto.
+[01:31:52.360 - 01:31:53.880] Por ejemplo, en caso de GeneFit
+[01:31:53.880 - 01:31:55.640] reconoce 5
+[01:31:55.640 - 01:31:57.940] restricciones. Les estoy dando
+[01:31:57.940 - 01:31:59.640] el ejemplo de GeneFit para que
+[01:31:59.640 - 01:32:00.760] no perdamos el hilo.
+[01:32:01.780 - 01:32:03.600] ¿Qué pasa con GeneFit?
+[01:32:04.220 - 01:32:05.520] Nos dice sus restricciones son
+[01:32:05.520 - 01:32:09.020] No cuenta con suficientes recursos financieros.
+[01:32:09.300 - 01:32:10.200] Esa es una restricción.
+[01:32:11.000 - 01:32:11.780] ¿Cuál más?
+[01:32:12.600 - 01:32:15.340] La falta de conocimiento del tema de la organización.
+[01:32:16.620 - 01:32:17.760] ¿Tiene otra restricción?
+[01:32:17.920 - 01:32:18.080] Sí.
+[01:32:18.480 - 01:32:20.660] El personal es poco flexible al cambio.
+[01:32:21.440 - 01:32:22.960] Eso pasa en todas las organizaciones, ¿no?
+[01:32:22.960 - 01:32:23.820] No solamente en este caso.
+[01:32:25.020 - 01:32:34.760] restricci No todos los procesos est documentados Cr s cr Y otra restricci falta personal especializado en arquitectura
+[01:32:35.600 - 01:32:39.020] Esas son las restricciones, por poner el caso, ¿no?
+[01:32:39.780 - 01:32:44.040] Y aquí, justamente las empresas también tienen un punto de
+[01:32:44.040 - 01:32:44.780] inflexión, ¿no?
+[01:32:45.480 - 01:32:48.800] Esconden las restricciones para que el proyecto se apruebe.
+[01:32:49.820 - 01:32:51.240] Y eso no está bien, ¿no?
+[01:32:51.560 - 01:32:54.060] Fíjense en el valor de la honestidad, ¿no?
+[01:32:54.060 - 01:32:55.380] De este caso de Jim Fitz.
+[01:32:56.300 - 01:33:00.480] Si se sabe desde el inicio que el personal es poco flexible al
+[01:33:00.480 - 01:33:01.860] cambio, ¿no?
+[01:33:01.960 - 01:33:05.580] El plan debería incluir capacitación y acompañamiento,
+[01:33:05.680 - 01:33:05.860] ¿no?
+[01:33:06.400 - 01:33:07.000] Continua.
+[01:33:08.380 - 01:33:11.980] Si se sabe que no hay suficiente dinero, ¿no?
+[01:33:11.980 - 01:33:14.920] La solución debe ser modular o de bajo costo.
+[01:33:16.620 - 01:33:18.860] Entonces, una restricción, clase,
+[01:33:18.860 - 01:33:24.980] prácticamente declara un riesgo, ¿sí?
+[01:33:25.060 - 01:33:25.840] Es un riesgo.
+[01:33:26.480 - 01:33:30.700] Miren, la restricción declara un riesgo que se puede gestionar.
+[01:33:30.700 - 01:33:30.820] ¿Sí?
+[01:33:32.520 - 01:33:35.580] Una restricción escondida prácticamente es una sorpresa
+[01:33:35.580 - 01:33:38.280] negativa, ¿no?
+[01:33:38.840 - 01:33:53.420] Entonces para que lo puedan identificar una restricci es un riesgo Entonces un consejo pr para la actividad que van a desarrollar el alcance gana mucha m claridad si se
+[01:33:53.420 - 01:33:56.180] describe también que queda fuera.
+[01:33:56.860 - 01:34:00.420] Por ejemplo, no incluye el proceso de cobranzas de
+[01:34:00.420 - 01:34:05.100] membresía vencidas ni la gestión, ¿no?, de entrenadores.
+[01:34:05.360 - 01:34:06.120] Por ejemplo.
+[01:34:06.660 - 01:34:07.200] No está mal.
+[01:34:07.580 - 01:34:09.260] Hay que dejar bien claro lo que no incluye.
+[01:34:10.000 - 01:34:12.820] Será otro proyecto seguramente, pero hay que dejarlo bien claro.
+[01:34:13.440 - 01:34:13.560] ¿Sí?
+[01:34:15.680 - 01:34:17.660] Entonces, cuando hablamos de una matriz de stakeholder,
+[01:34:17.780 - 01:34:20.180] y esto es el último tema, con esto ya terminamos clase,
+[01:34:21.180 - 01:34:23.180] y paso a explicarles la actividad.
+[01:34:23.980 - 01:34:25.460] Cuando hablamos de una matriz de stakeholder,
+[01:34:25.740 - 01:34:27.920] no es una tabla de dos columnas, ¿no?
+[01:34:28.340 - 01:34:29.920] Stakeholder y las necesidades, ¿no?
+[01:34:30.320 - 01:34:35.000] En GIMP Fit, el supervisor necesita integrar procesos
+[01:34:35.000 - 01:34:37.100] que estén optimizados, ¿no?
+[01:34:37.100 - 01:34:42.980] Con la tecnología de información y contar con información real para decidir con mayor rapidez.
+[01:34:43.380 - 01:34:44.160] Eso es, ¿no?
+[01:34:44.160 - 01:34:48.660] Entonces, el cliente necesita mantener una vida saludable.
+[01:34:48.820 - 01:34:49.840] Eso es lo que necesita.
+[01:34:50.940 - 01:35:00.000] La recepcionista necesita proporcionar a los usuarios información y soporte sobre el servicio de manera objetiva, puntual, rápida, ¿no?
+[01:35:00.000 - 01:35:06.760] ¿no? El gestor de recursos humanos necesita realizar, ¿no? Los procesos de selección del
+[01:35:06.760 - 01:35:12.540] talento, porque esa es su función. El director del proyecto necesita información para futuros
+[01:35:12.540 - 01:35:18.820] proyectos, definitivamente, ¿no? Saber si es que va a seguir abordando más proyectos. Y el
+[01:35:18.820 - 01:35:25.920] consultor necesita generar ingresos por el servicio que presta, ¿no? Entonces, debemos tener claro cuál
+[01:35:25.920 - 01:35:29.720] es el rol de cada uno de los stakeholders, ¿sí?
+[01:35:30.160 - 01:35:33.040] Esta matriz responde a una pregunta, ¿no?
+[01:35:33.160 - 01:35:34.140] ¿Para qué hacemos esa matriz?
+[01:35:34.220 - 01:35:34.600] Me preguntará.
+[01:35:36.020 - 01:35:39.560] Esta matriz responde a la pregunta,
+[01:35:39.760 - 01:35:42.300] es ¿qué busca cada parte interesada al realizar el
+[01:35:42.300 - 01:35:42.720] proyecto?
+[01:35:43.400 - 01:35:44.840] Eso es lo que responde la matriz.
+[01:35:45.020 - 01:35:45.980] ¿Por qué se tiene que hacer?
+[01:35:45.980 - 01:35:50.840] Para justamente saber qué busca cada parte interesada al llevar
+[01:35:50.840 - 01:35:51.820] a cabo este proyecto.
+[01:35:52.760 - 01:35:58.360] Y es valiosa, sí, porque obliga a pensar en necesidades distintas, ¿no?
+[01:35:58.760 - 01:36:01.420] Y a veces opuestas, ¿no?
+[01:36:01.580 - 01:36:05.900] Aquí les dejo dos ejemplos para la, dos consejos, mejor dicho, para la actividad.
+[01:36:06.500 - 01:36:21.400] Primero redacten la necesidad en relaci con el proyecto Por ejemplo la necesidad del cliente frente a la inscripci No es solo vida saludable sino tambi inscribirse r sin colas y desde el celular
+[01:36:22.460 - 01:36:26.960] Segundo, otro consejo, pueden enriquecer la matriz con el
+[01:36:26.960 - 01:36:30.140] nivel de influencia y de interés de cada stakeholder.
+[01:36:30.700 - 01:36:31.740] Alto, bajo.
+[01:36:32.640 - 01:36:38.420] Y lo que les diría a alguien, hay que gestionarlo de cerca,
+[01:36:38.420 - 01:36:39.540] esta matriz.
+[01:36:40.000 - 01:36:43.700] Y a quién hay que mantenerlo informado.
+[01:36:43.780 - 01:36:44.920] Eso también es importante, ¿no?
+[01:36:44.920 - 01:36:58.120] A los stakeholders de alto interés hay que mantenerlos informados posiblemente de manera semanal o quincenal o mensual, ¿no?
+[01:36:58.120 - 01:37:00.100] Dependiendo de los niveles de interés.
+[01:37:00.380 - 01:37:01.060] Eso es importante.
+[01:37:02.120 - 01:37:06.800] Ahora, yendo a los casos, para ponerlo en un caso real.
+[01:37:06.800 - 01:37:11.080] les comento, por ejemplo, el caso de Target,
+[01:37:11.200 - 01:37:16.840] que es una tienda en Canadá y también está en varios países.
+[01:37:18.360 - 01:37:20.640] Y los stakeholders ignorados.
+[01:37:20.980 - 01:37:22.100] ¿Qué pasó en este caso?
+[01:37:22.360 - 01:37:22.580] A ver.
+[01:37:23.620 - 01:37:39.700] Cuando la cadena es una cadena estadounidense de Target Entr justamente a Canad bueno alrededor del 2013 Abri m de 100 cadenas aproximadamente tiendas perd en poco tiempo as como los set Que se reproducen cada vez que
+[01:37:39.700 - 01:38:03.340] Con un sistema nuevo, ¿no? Y datos de productos, ¿no? Cargados de una manera rápida, ¿no? Entonces, los clientes encontraron anaqueles, ¿no? Estos estándares vacíos, mientras los almacenes, ¿no? Los almacenes estaban llenos. O sea, ¿qué pasó aquí, no?
+[01:38:03.340 - 01:38:09.680] En el 2015, la empresa salió de Canadá con pérdidas millonarias.
+[01:38:10.560 - 01:38:12.480] Quiero decir, dos años después, ¿no?
+[01:38:12.580 - 01:38:15.760] Que prácticamente se abrió en cientos de tiendas.
+[01:38:17.640 - 01:38:21.660] Entonces, entre las causas que señala el caso,
+[01:38:22.680 - 01:38:23.900] precisan, ¿no?
+[01:38:24.100 - 01:38:26.500] Que se precisa justamente en un cronograma, ¿no?
+[01:38:26.500 - 01:38:27.480] Muy agresivo.
+[01:38:27.480 - 01:38:37.240] y la poca atención también a quienes cargaban y usaban los datos en la operación.
+[01:38:38.220 - 01:38:49.600] Entonces un alcance miren un alcance y unas restricciones honestas como la que est justamente conversando hace un momento declarados en la fase A
+[01:38:50.100 - 01:38:53.560] podrían haber cambiado la velocidad del despliegue, ¿no?
+[01:38:53.800 - 01:38:57.320] Y no hubiera ocasionado esta pérdida de millones.
+[01:38:59.900 - 01:39:05.480] Entonces, miren cómo realmente el poder tener claro el alcance
+[01:39:05.480 - 01:39:09.700] y ver que estas restricciones son riesgos y hay que declararlos, ¿no?
+[01:39:10.000 - 01:39:16.680] nos podría dar visibilidad de que el proyecto podría no ser
+[01:39:16.680 - 01:39:17.780] exitoso, ¿no?
+[01:39:17.780 - 01:39:20.240] Como pasó aquí en Target de Canadá, que es un caso real.
+[01:39:21.820 - 01:39:22.340] ¿OK?
+[01:39:22.600 - 01:39:23.000] Muy bien.
+[01:39:23.960 - 01:39:27.460] Dicho esto, clase, les hago una pregunta para ver cómo estamos,
+[01:39:27.540 - 01:39:28.600] ya siendo las 9 y media.
+[01:39:30.960 - 01:39:36.600] Como hemos podido escuchar y les he podido introducir al caso de
+[01:39:36.600 - 01:39:43.540] Jim Fitt en todo lo que hemos aprendido hoy, les hago una pregunta en base al caso. A ver,
+[01:39:45.020 - 01:39:51.760] el supervisor, ¿no? Sabemos que Jim Fitt tiene un supervisor, ¿no? A ver, este supervisor requiere
+[01:39:51.760 - 01:40:00.000] información real para decidir, tomar una decisión rápida, ¿sí? Y la recesionista quiere dar una
+[01:40:00.000 - 01:40:02.220] atención. Esa va la pregunta.
+[01:40:03.480 - 01:40:04.000] ¿Pueden entrar
+[01:40:04.000 - 01:40:05.540] en conflicto sus necesidades?
+[01:40:07.180 - 01:40:08.020] ¿Cómo lo
+[01:40:08.020 - 01:40:10.100] resolvería el arquitecto? ¿Qué ustedes
+[01:40:10.100 - 01:40:10.640] piensan?
+[01:40:14.060 - 01:40:15.820] Recordando el caso de
+[01:40:15.820 - 01:40:18.060] Jim Fitz, ¿no? Y todo lo que hemos
+[01:40:18.060 - 01:40:19.760] venido relatando en ejemplos en
+[01:40:19.760 - 01:40:22.220] todos los bloques. Les decía, les repito,
+[01:40:22.460 - 01:40:23.460] ¿ah? El supervisor,
+[01:40:23.460 - 01:40:25.320] como sabemos, quiere
+[01:40:25.320 - 01:40:27.640] información real para tomar decisiones
+[01:40:27.640 - 01:40:29.280] rápidas, ¿no? Y la
+[01:40:29.280 - 01:40:30.920] reaccionista, ¿no? Quiere
+[01:40:30.920 - 01:40:33.440] definitivamente dar una muy buena atención.
+[01:40:34.740 - 01:40:35.400] Les pregunto,
+[01:40:36.780 - 01:40:37.240] ¿creen ustedes
+[01:40:37.240 - 01:40:39.220] que pueden entrar en conflicto
+[01:40:39.220 - 01:40:39.900] sus necesidades?
+[01:40:41.640 - 01:40:43.600] ¿Y cómo lo resolvería
+[01:40:43.600 - 01:40:44.300] el arquitecto?
+[01:40:47.520 - 01:40:48.900] Mientras van pensando,
+[01:40:50.040 - 01:40:50.980] algunos me dirán,
+[01:40:51.520 - 01:40:53.160] sí, Miss, sí pueden
+[01:40:53.160 - 01:40:54.140] entrar en conflicto.
+[01:40:55.100 - 01:40:56.660] Y seguramente me dirán,
+[01:40:57.440 - 01:40:58.540] si el supervisor pide,
+[01:40:59.280 - 01:41:01.720] en cada inscripción, ¿no?
+[01:41:02.360 - 01:41:07.260] Que se registren muchos datos para tener reportes detallados, ¿no?
+[01:41:07.260 - 01:41:09.020] Porque eso es lo que quiere el supervisor, ¿no?
+[01:41:09.760 - 01:41:20.980] La recepcionista tardar m En atender y la cola crecer obviamente Que es justamente el dolor que se quiere eliminar
+[01:41:22.060 - 01:41:28.100] Entonces, el arquitecto, a ver, ¿cómo lo resolvería?
+[01:41:29.460 - 01:41:37.460] Lo resolvería volviendo, o sea, tendría que regresar a los objetivos del negocio, ¿no?
+[01:41:37.460 - 01:41:39.000] Y a los principios, ¿cierto?
+[01:41:39.160 - 01:41:39.880] Me dirán eso.
+[01:41:40.000 - 01:41:41.800] O algunos lo pensaron, ¿no, clase?
+[01:41:42.080 - 01:41:43.040] Me escriben aquí en el chat.
+[01:41:43.340 - 01:41:46.060] Sé que están pensando, pero ahí los espero en el chat para
+[01:41:46.060 - 01:41:46.780] poder leerlos.
+[01:41:48.120 - 01:41:49.220] Algunos me dirán eso, ¿no?
+[01:41:49.280 - 01:41:51.560] Sí, Miss, tiene que regresar nuevamente a revisar los
+[01:41:51.560 - 01:41:54.280] objetivos del negocio, a los principios, ¿no?
+[01:41:54.500 - 01:41:57.900] Si el objetivo prioritario, ¿no?
+[01:41:57.900 - 01:41:59.980] Es reducir el tiempo de inscripción, ¿no?
+[01:42:00.180 - 01:42:01.140] Tendrán que revisarlo.
+[01:42:02.840 - 01:42:05.940] Si fuese así, se registrará, se va a registrar, ¿no?
+[01:42:05.940 - 01:42:07.920] se registra en la recepción
+[01:42:07.920 - 01:42:10.380] solo lo indispensable
+[01:42:10.380 - 01:42:11.240] me dirán, ¿no?
+[01:42:11.280 - 01:42:12.860] Si ese es el objetivo, ¿no?
+[01:42:13.240 - 01:42:14.220] Y el resto de los datos
+[01:42:14.220 - 01:42:15.640] se completará después, ¿no?
+[01:42:15.880 - 01:42:16.480] Es como que
+[01:42:16.480 - 01:42:17.800] le decimos al cliente
+[01:42:17.800 - 01:42:19.180] solamente los datos principales.
+[01:42:19.340 - 01:42:19.640] Listo.
+[01:42:19.800 - 01:42:21.840] No afectamos a la recepción
+[01:42:21.840 - 01:42:23.080] con sus tiempos, ¿cierto?
+[01:42:23.940 - 01:42:35.840] Y le dir al cliente que luego ingrese a la web ingrese al app y que luego llene los dem datos adicionales Eso ser lo m l Pues eso podr ser una soluci
+[01:42:36.840 - 01:42:43.800] Por ejemplo, a ver, por el propio cliente que podría hacerlo, ¿no?
+[01:42:43.820 - 01:42:45.640] Desde los diferentes canales.
+[01:42:46.140 - 01:42:48.960] O también puede hacerlo por WhatsApp, dependiendo de los canales que tenga, ¿no?
+[01:42:48.960 - 01:42:54.320] Tal vez por WhatsApp la atención le brinda los datos y los llena automáticamente, ¿no?
+[01:42:54.320 - 01:42:54.880] También puede ser.
+[01:42:55.000 - 01:43:13.900] Entonces, la matriz de stakeholder, clase, sirve precisamente para ver esos conflictos a tiempo, ¿no? Y decidir con criterio qué hacer, ¿no? Y no por quién tiene la mayor autoridad, ¿no? Eso es.
+[01:43:13.900 - 01:43:23.440] Eso es prácticamente, con este ejemplo quería que quede bastante claro por qué es tan importante la matriz de stakeholders.
+[01:43:25.740 - 01:43:31.240] Clase, ¿cómo vamos? ¿Vamos bien hasta aquí? Porque ya hemos terminado con los temas que teníamos para el día de hoy.
+[01:43:31.860 - 01:43:34.620] ¿Todo bien? Vamos entendiendo.
+[01:43:36.220 - 01:43:37.840] Nos leo por aquí en el chat.
+[01:43:41.040 - 01:43:50.640] Muy bien Quiero proyectarles la actividad Listo Esta actividad que tambi la pueden descargar clase
+[01:43:50.920 - 01:43:53.120] tienen tiempo para poder compartírmela hasta el día
+[01:43:53.120 - 01:43:54.080] viernes.
+[01:43:54.540 - 01:43:57.640] Este fin de semana sí se me complicó porque normalmente
+[01:43:57.640 - 01:43:59.560] siempre les doy feedback el día sábado, ¿no?
+[01:43:59.900 - 01:44:01.680] O el domingo a más tardar.
+[01:44:01.940 - 01:44:02.500] O sea, no fallo.
+[01:44:02.580 - 01:44:05.200] Se me ha complicado un montón por el tema que les acabo de
+[01:44:05.200 - 01:44:06.460] comentar de salud de mi mami, ¿no?
+[01:44:06.560 - 01:44:08.540] Pero solamente es algo puntual, ¿OK?
+[01:44:10.000 - 01:44:12.240] Esta actividad que me la van a compartir el día viernes,
+[01:44:12.920 - 01:44:15.480] voy a procurar dárselas el feedback el día sábado.
+[01:44:15.820 - 01:44:16.120] ¿De acuerdo?
+[01:44:17.620 - 01:44:22.300] Entonces, aquí prácticamente les he puesto bien detalladito,
+[01:44:22.460 - 01:44:22.660] ¿no?
+[01:44:22.780 - 01:44:24.860] El objetivo que hay que hacer, ¿no?
+[01:44:24.860 - 01:44:27.940] Que es aplicar justamente la fase preliminar, la fase A,
+[01:44:28.160 - 01:44:30.500] la visión directa, todo lo que hemos aprendido hoy día, ¿sí?
+[01:44:31.080 - 01:44:32.880] Para su proyecto, ojo, ¿no?
+[01:44:33.540 - 01:44:34.740] Entonces, acá les pongo, ¿no?
+[01:44:34.740 - 01:44:37.480] Trabajar sobre la organización o la empresa que ustedes ya han
+[01:44:37.480 - 01:44:38.860] elegido, ¿no?
+[01:44:40.000 - 01:45:00.000] Bueno, acá les pongo el caso de GINFIT que hemos repasado todos, ¿no? En la clase lo hemos mencionado en todos los ejemplos, ¿no?
+[01:45:00.000 - 01:45:03.760] La fase A, acá les he puesto muy detalladito para que lo puedan hacer,
+[01:45:04.580 - 01:45:07.700] la visión de la arquitectura, objetivos de negocio, las metas,
+[01:45:07.860 - 01:45:09.500] todo lo que hemos aprendido hoy, ¿sí?
+[01:45:09.900 - 01:45:11.120] Y eso es, eso es.
+[01:45:11.160 - 01:45:14.620] Acá les pongo una breve calificación para que sepan cómo vamos.
+[01:45:15.500 - 01:45:18.600] Y siempre les recomiendo leer el caso de Smart Fit,
+[01:45:18.680 - 01:45:21.480] porque les va a ser bastante familiar a todo lo que hemos aprendido el día de hoy.
+[01:45:21.860 - 01:45:22.060] ¿OK?
+[01:45:22.720 - 01:45:23.260] Muy bien.
+[01:45:23.580 - 01:45:24.240] Hasta aquí clase.
+[01:45:24.560 - 01:45:25.340] Acá los leo.
+[01:45:25.400 - 01:45:26.760] A ver, ya los vi más activos.
+[01:45:27.680 - 01:45:28.000] ¿OK?
+[01:45:28.620 - 01:45:29.860] Aldair, ¿cómo estás?
+[01:45:30.000 - 01:45:35.940] Muy bien, excelente. Acá está nuestro flamante delegado. Gracias a ti por pasarme los grupos, te agradezco un montón.
+[01:45:36.920 - 01:45:42.740] Bien, acá nos dice, a ver, Emerson, todo bien, Marco Antonio, ya, bien.
+[01:45:42.740 - 01:45:50.120] Sí, acá dice si la atención de la reaccionista no se encuentra alineada con los requerimientos del supervisor.
+[01:45:50.120 - 01:45:52.420] si abre, claro, por supuesto
+[01:45:52.420 - 01:45:54.100] que sí, excelente
+[01:45:54.100 - 01:45:56.140] pero se me ocurre
+[01:45:56.140 - 01:45:58.280] que el gimnasio podría tener
+[01:45:58.280 - 01:45:59.580] un proceso de
+[01:45:59.580 - 01:46:02.500] excelente, muy bien
+[01:46:02.500 - 01:46:04.300] eso es, efectivamente
+[01:46:04.300 - 01:46:06.360] ok, acá nos ha compartido
+[01:46:06.360 - 01:46:08.220] el grupo de whatsapp, por favor
+[01:46:08.220 - 01:46:09.700] únanse los que les falta
+[01:46:09.700 - 01:46:32.440] s es el grupo de whatsapp por favor los que no tienen grupo es el momento Estamos todav a tiempo Porque la siguiente semana es la semana 3 La semana 3 pr es la primera evaluaci si no me equivoco La primera evaluaci que es la T1 Esta evaluaci va a ser en grupo No se preocupen Van a ser casos
+[01:46:32.440 - 01:46:33.320] ¿sí?
+[01:46:35.420 - 01:46:36.880] Ok, muy bien
+[01:46:36.880 - 01:46:38.360] seguimos a ver leyendo
+[01:46:38.360 - 01:46:40.300] Andréa, empezando la consulta
+[01:46:40.300 - 01:46:42.480] entonces si habría como un proyecto
+[01:46:42.480 - 01:46:44.580] en la exposición y todo
+[01:46:44.580 - 01:46:45.960] lo que viene al final, ok
+[01:46:45.960 - 01:46:49.140] en realidad, este proyecto
+[01:46:49.140 - 01:46:52.700] que estamos, o sea, el curso
+[01:46:52.700 - 01:46:54.140] no tiene un proyecto como tal
+[01:46:54.140 - 01:46:55.960] ¿sí? porque si vemos
+[01:46:55.960 - 01:46:58.720] no hay una rúbrica, ¿cierto?
+[01:46:58.720 - 01:47:00.260] también yo quería darles una rúbrica, ¿cierto?
+[01:47:00.280 - 01:47:02.380] ahora que me acuerdo, me avisan si se me olvida
+[01:47:02.380 - 01:47:03.680] algún punto, clase, ¿ah?
+[01:47:04.060 - 01:47:06.240] Al de ir ahí, atento para que me hagas recordar lo que falta
+[01:47:06.240 - 01:47:06.820] enviarles.
+[01:47:07.660 - 01:47:14.280] Por lo tanto, la evaluación de la T1 va a ser casos, ¿sí?
+[01:47:14.340 - 01:47:17.060] Van a ser casos relacionados a los temas que estamos
+[01:47:17.060 - 01:47:19.460] aprendiendo el día de hoy, en estas 2 semanas.
+[01:47:20.320 - 01:47:22.840] La segunda evaluación, que es la T2,
+[01:47:23.320 - 01:47:35.680] lo que puedo hacer clase es que ustedes me compartan el avance de su proyecto y lo podemos evaluar como si fuera la T2 Y la evaluaci final
+[01:47:36.760 - 01:47:38.540] Me pueden entregar, ¿no?
+[01:47:38.800 - 01:47:40.560] El trabajo final.
+[01:47:40.940 - 01:47:42.080] Si les parece bien, ¿no?
+[01:47:42.760 - 01:47:43.980] Si no, hacemos todos casos.
+[01:47:44.420 - 01:47:47.040] La idea es que ustedes puedan armar un proyecto,
+[01:47:47.360 - 01:47:48.340] que esa es la idea principal.
+[01:47:48.460 - 01:47:50.040] Y para mí, si me preguntan como docente,
+[01:47:50.500 - 01:47:54.080] es que ustedes puedan hacer un proyecto con todo lo aprendido,
+[01:47:54.400 - 01:47:54.580] ¿no?
+[01:47:54.580 - 01:47:59.960] más allá de casos y todo que vamos aprendiendo para ver cómo aterrizamos los conceptos, que eso está bien,
+[01:48:00.780 - 01:48:07.640] me genera mayor valor para ustedes como profesionales que puedan presentarme un proyecto con todo lo aprendido.
+[01:48:07.740 - 01:48:09.560] Yo les voy a compartir la rúbrica, ¿sí?
+[01:48:10.220 - 01:48:14.960] Que prácticamente forma parte de las actividades que estamos realizando.
+[01:48:15.020 - 01:48:16.720] Es prácticamente un rompecabezas, ¿sí?
+[01:48:17.020 - 01:48:19.900] Las actividades que ustedes realizan lo van armando, ¿no?
+[01:48:19.940 - 01:48:21.500] En esa rúbrica que les voy a compartir.
+[01:48:22.000 - 01:48:23.640] No es que van a hacer algo de cero, no.
+[01:48:23.640 - 01:48:26.040] Es en base a las actividades, ¿no?
+[01:48:26.540 - 01:48:31.820] Entonces, decime que genera valor que ustedes me puedan presentar en la T2 el avance del proyecto, ¿sí?
+[01:48:31.840 - 01:48:32.460] De su proyecto.
+[01:48:32.840 - 01:48:57.940] Y en la evaluaci final me presentan ya el proyecto final con lo dem con lo que hemos aprendido en la semana 6 7 En la semana 5 y 6 Si les parece ustedes me dicen ac los voy leyendo a ver para responderle andrea despu me dice yo el nuestro grupo me envi por correo la fecha por decir yo ok no
+[01:48:57.940 - 01:49:03.820] te preocupes yo yo hoy les respondo si yo lo voy a considerar de acuerdo no te preocupes gracias
+[01:49:03.820 - 01:49:04.500] más bien por avisar.
+[01:49:04.740 - 01:49:05.540] Voy a revisar mi correo.
+[01:49:06.580 - 01:49:10.760] A ver, Aldair nos dice, a ver, permítanme ver.
+[01:49:11.880 - 01:49:12.320] No se lee.
+[01:49:12.460 - 01:49:12.900] Ahora sí, ya.
+[01:49:15.780 - 01:49:16.800] Sí, claro que sí.
+[01:49:16.860 - 01:49:18.200] Vamos a revisar los grupos de trabajo.
+[01:49:18.420 - 01:49:18.640] OK.
+[01:49:18.640 - 01:49:23.240] Ya, Carlos, únete al grupo de WhatsApp, por favor,
+[01:49:23.380 - 01:49:25.400] para que puedas ingresar a uno de los grupos.
+[01:49:25.520 - 01:49:27.300] Porque hay grupos que son de 3.
+[01:49:27.840 - 01:49:29.920] Les pido, por favor, que sean máximo 6.
+[01:49:29.920 - 01:49:34.140] Agrega a Carlos, por favor, a uno de los grupos.
+[01:49:34.300 - 01:49:35.120] Te lo agradecería mucho.
+[01:49:35.980 - 01:49:38.600] Ah, acá está, que nos compartió Aldair el grupo.
+[01:49:38.740 - 01:49:39.000] Listo.
+[01:49:39.180 - 01:49:41.540] Entonces, Carlos, súmate a uno de los grupos, por favor.
+[01:49:42.600 - 01:49:45.440] A ver, Karen nos dice, Sara le envía tres mensajes.
+[01:49:45.560 - 01:49:46.580] Uy, Karen, perdóname.
+[01:49:46.680 - 01:49:48.160] Sí, que estaba con este tema familiar,
+[01:49:48.320 - 01:49:49.400] como les estaba explicando en la clase,
+[01:49:49.480 - 01:49:50.320] por eso me desconectaba.
+[01:49:50.480 - 01:49:51.260] Discúlpenme, más bien.
+[01:49:51.780 - 01:49:53.980] No te preocupes, ahora te respondo, Karen.
+[01:49:54.080 - 01:49:54.900] No te preocupes.
+[01:49:55.240 - 01:49:56.920] Hoy o mañana temprano, pero te respondo.
+[01:49:57.620 - 01:49:57.740] ¿Sí?
+[01:49:57.740 - 01:50:00.000] a ver, ni
+[01:50:00.000 - 01:50:03.320] Nilsson, envíe el trabajo, el mensaje y el blog.
+[01:50:03.660 - 01:50:06.480] Ya, yo lo reviso, Nilsson, no te preocupes, ahora les respondo.
+[01:50:07.060 - 01:50:09.420] Gracias más bien por su preocupación, clase.
+[01:50:09.660 - 01:50:10.420] Les agradezco mucho.
+[01:50:11.060 - 01:50:12.080] OK, listo.
+[01:50:12.140 - 01:50:13.840] Entonces, vamos a revisar los grupos.
+[01:50:14.160 - 01:50:15.680] Me imagino que ya está actualizado, ¿no?
+[01:50:15.740 - 01:50:16.400] A ver, vamos a ver.
+[01:50:17.960 - 01:50:19.200] A ver, vamos a cargarlos.
+[01:50:19.880 - 01:50:20.760] Tenemos 8 grupos.
+[01:50:21.200 - 01:50:23.000] Guau, yo prefería que sean menos.
+[01:50:23.000 - 01:50:46.400] A ver, me parece bien los grupos que son más de cuatro, al menos, ¿no? A ver, el grupo dos faltan, que se unan, ¿ah? Son tres, deberían ser cuatro o cinco, ¿ah? El grupo dos, a ver, uno, dos, tres, cuatro, bueno, el de Milson, Joel, Giancarlo, ok, y Elvis, bueno, son cuatro, ok.
+[01:50:47.120 - 01:50:47.980] El grupo 3.
+[01:50:48.240 - 01:50:48.860] A ver, ¿cuántos son?
+[01:50:48.960 - 01:50:50.280] Uno, dos, tres, cinco.
+[01:50:50.340 - 01:50:51.060] Está excelente.
+[01:50:51.140 - 01:50:56.120] Este grupo de, a ver, José Luis, nuestro compañero Orellana,
+[01:50:56.740 - 01:50:58.540] a ver, Barrientos, Martínez.
+[01:50:58.720 - 01:50:59.120] Excelente.
+[01:50:59.280 - 01:50:59.720] Bien, Andrea.
+[01:50:59.940 - 01:51:00.340] Perfecto.
+[01:51:00.420 - 01:51:01.640] Me parece genial el grupo 3.
+[01:51:02.380 - 01:51:03.140] El grupo 4.
+[01:51:03.240 - 01:51:04.480] Uy, acá hay 3 también.
+[01:51:05.240 - 01:51:07.420] Tal vez se puedan sumar a otro grupo, ¿no?
+[01:51:08.140 - 01:51:09.540] Para no hacer tantos grupos.
+[01:51:10.780 - 01:51:33.080] A ver el grupo 4 Est observado Son 3 nom Tiene que ser m 5 O 6 ya A ver el grupo 4 est observado son 3 no m tiene que ser m 5 O 6 ya A ver el grupo 5 son 4 bueno ya es pasable El grupo 6 a ver 1 2 3 4 5 ah est excelente el grupo 6 justo 6 6 Muy bien as como el grupo 6 deber ser Ah justo est nuestro delegado excelente
+[01:51:33.080 - 01:51:37.800] Jair, Gerson, Manuel, compañero Ramiro, Rosario, Marco,
+[01:51:37.840 - 01:51:38.200] Antonio.
+[01:51:38.360 - 01:51:38.800] Excelente.
+[01:51:39.460 - 01:51:40.120] Grupo 7.
+[01:51:40.340 - 01:51:42.060] A ver, acá son 4.
+[01:51:42.940 - 01:51:43.160] OK.
+[01:51:43.660 - 01:51:45.080] Me preocupa el grupo 8, ¿ah?
+[01:51:45.220 - 01:51:48.400] El grupo 8 puede juntarse con el grupo 4, ¿ah?
+[01:51:49.520 - 01:51:51.820] A ver, Aldair, ¿nos puedes ayudar a ver si se pueden
+[01:51:51.820 - 01:51:52.400] juntar?
+[01:51:52.980 - 01:51:53.720] Máximo 6.
+[01:51:55.240 - 01:51:55.700] ¿Sí?
+[01:51:55.880 - 01:51:57.780] Me preocupan los que son de 3, más que todo.
+[01:51:57.780 - 01:52:01.480] El grupo, me preocupa el grupo 1.
+[01:52:03.080 - 01:52:04.360] El grupo 2.
+[01:52:05.900 - 01:52:07.680] El grupo 4.
+[01:52:08.780 - 01:52:09.740] Y el grupo 8.
+[01:52:10.480 - 01:52:12.360] Si pueden juntarse, les agradecería.
+[01:52:13.240 - 01:52:14.260] Por favor.
+[01:52:16.840 - 01:52:20.060] A ver, si nos ayudas, sería excelente.
+[01:52:24.240 - 01:52:32.500] Se puedan unir A ver ac los leo Mejor grupo 9
+[01:52:35.500 - 01:52:36.140] OK.
+[01:52:36.480 - 01:52:41.860] Entonces, si se pueden unir el grupo 1, a ver,
+[01:52:41.860 - 01:52:49.040] con el grupo 4, o se pueden unir con el grupo 8,
+[01:52:49.540 - 01:52:50.520] les agradecería mucho.
+[01:52:51.120 - 01:52:53.020] El grupo, hay un grupo 9 también.
+[01:52:53.020 - 01:52:58.240] Bien, tratemos de que sean de 6 integrantes como máximo.
+[01:52:58.420 - 01:52:58.860] ¿Les parece?
+[01:53:02.540 - 01:53:06.020] Traten de hacerlo ustedes, si no yo lo voy a hacer al dedo.
+[01:53:07.420 - 01:53:08.640] Mejor prefiero que ustedes lo hagan.
+[01:53:09.200 - 01:53:12.420] Traten de unirse en un solo grupo, o sea, un grupo de 6, ¿no?
+[01:53:13.100 - 01:53:14.340] Más que todos los que tienen de 3.
+[01:53:17.340 - 01:53:21.700] Sí, grupo 8, que están nuestros compañeros Vázquez,
+[01:53:21.700 - 01:53:23.540] sueldos, porras
+[01:53:23.540 - 01:53:25.360] podrían unirse
+[01:53:25.360 - 01:53:26.680] con el grupo 4
+[01:53:26.680 - 01:53:28.380] con nuestro compañero
+[01:53:28.380 - 01:53:31.780] Harold, Luis Arturo, Martín
+[01:53:31.780 - 01:53:33.200] si les parece
+[01:53:33.200 - 01:53:34.020] pueden unirse
+[01:53:34.020 - 01:53:37.720] cuantos más cerebros
+[01:53:37.720 - 01:53:39.060] mejor sale ese proyecto
+[01:53:39.060 - 01:53:49.700] aprovechen la din que estoy realizando porque esta din es una din elegida por el docente No todos los docentes hacen ese tipo de din
+[01:53:50.340 - 01:53:53.960] sino para que ustedes aprendan y compartan sus ideas,
+[01:53:54.100 - 01:53:57.380] que eso es lo más importante y que tiene mayor valor.
+[01:54:04.300 - 01:54:05.480] De acuerdo, profesora.
+[01:54:06.240 - 01:54:07.660] Muy bien, ya, genial.
+[01:54:08.060 - 01:54:08.600] Genial, genial.
+[01:54:08.600 - 01:54:11.060] Por favor, ayúdenme a que seamos menos grupos.
+[01:54:12.020 - 01:54:13.440] No, nueve, es demasiado.
+[01:54:15.780 - 01:54:17.900] A ver, ¿quién más se puede unir?
+[01:54:18.640 - 01:54:18.860] Ya.
+[01:54:19.760 - 01:54:20.220] Vamos a ver.
+[01:54:20.400 - 01:54:21.480] Acá les voy a poner un comentario.
+[01:54:25.400 - 01:54:25.840] Unirse.
+[01:54:29.380 - 01:54:31.560] Con otro grupo.
+[01:54:32.900 - 01:54:34.240] No, no sé con otro grupo.
+[01:54:34.360 - 01:54:35.680] Unirse con el grupo.
+[01:54:35.680 - 01:54:37.380] Voy a poner el grupo.
+[01:54:37.380 - 01:54:55.380] ¿Quién tiene tres? El grupo dos, o el grupo cuatro, o el grupo ocho. Ocho y nueve. Ocho, o...
+[01:54:55.380 - 01:54:57.380] Ocho y nueve.
+[01:55:00.000 - 01:55:06.880] ¿Cuál mensaje va para el grupo 2?
+[01:55:08.180 - 01:55:12.780] Bueno, esa es la que se va a repetir, pero voy a duplicar nada más,
+[01:55:12.780 - 01:55:20.700] pero ya saben a qué me refiero para que puedan buscar con qué grupo unirse.
+[01:55:23.000 - 01:55:27.040] Sí, grupo 2, 4, 8 y 9, ¿ok?
+[01:55:30.000 - 01:55:30.520] Listo.
+[01:55:34.840 - 01:55:39.020] Aldair, ¿tú nos ayudas a poder unir a los grupos?
+[01:55:42.520 - 01:55:43.800] ¿No me comentas?
+[01:55:44.800 - 01:55:45.080] A ver.
+[01:55:46.620 - 01:55:48.280] La actividad, ya la revisé.
+[01:55:49.720 - 01:55:52.180] Sí, ya la revisé y se las voy a compartir ahora.
+[01:55:52.540 - 01:55:53.160] No se preocupen.
+[01:55:53.420 - 01:55:55.140] Ahora o máximo mañana en la mañana.
+[01:55:55.860 - 01:55:57.480] Les va a llegar la retroalimentación.
+[01:55:57.480 - 01:56:00.900] Los que no me han enviado su actividad y me la van a enviar, enviénmela.
+[01:56:01.000 - 01:56:03.420] No se preocupen, yo lo recibo, yo lo reviso.
+[01:56:03.640 - 01:56:06.220] No se preocupen, la idea es que ustedes me puedan enviar la actividad.
+[01:56:07.680 - 01:56:18.143] En grupo claro Listo te lo agradecer un mont Aldaira
+[01:56:18.983 - 01:56:19.383] Buenísimo.
+[01:56:19.803 - 01:56:20.343] Listo, clase.
+[01:56:20.503 - 01:56:21.583] Dicho eso, muy bien.
+[01:56:22.223 - 01:56:23.043] Hemos terminado.
+[01:56:23.183 - 01:56:24.043] Les agradezco mucho.
+[01:56:24.263 - 01:56:26.323] O sea, no saben cómo les agradezco la espera.
+[01:56:26.443 - 01:56:28.083] La verdad, ha sido bastante complicado para mí,
+[01:56:28.223 - 01:56:34.523] pero no quería que nos quedemos sin tener la clase o reprogramar
+[01:56:34.523 - 01:56:35.763] la clase, que sería lo peor, ¿no?
+[01:56:36.063 - 01:56:37.103] Perjudicarnos ustedes jamás.
+[01:56:37.403 - 01:56:37.763] ¿Sí?
+[01:56:37.763 - 01:56:39.243] Entonces, les agradezco mucho, clase.
+[01:56:39.863 - 01:56:40.743] Espero sus actividades.
+[01:56:41.123 - 01:56:45.303] Hoy yo me quedo hasta la hora que sea terminando no solamente su
+[01:56:45.303 - 01:56:47.503] grupo de ustedes, sino mis otros grupos también que tengo que
+[01:56:47.503 - 01:56:49.843] calificar para ponerme el día.
+[01:56:50.223 - 01:56:50.303] ¿Sí?
+[01:56:50.943 - 01:56:52.023] Muchísimas gracias a todos.
+[01:56:52.103 - 01:56:53.623] Que tengan muy buenas noches.
+[01:56:53.703 - 01:56:55.263] Nos vemos la siguiente sesión.
+[01:56:55.583 - 01:56:55.703] ¿Sí?
+[01:56:56.623 - 01:56:59.403] A ver, en cabeza de los compañeros que tengan problemas
+[01:56:59.403 - 01:57:00.283] de encontrar un grupo.
+[01:57:00.603 - 01:57:02.143] Sí, por favor, contáctense con Aldair.
+[01:57:02.143 - 01:57:07.743] Yo reviso nuevamente estos grupos hasta el día viernes,
+[01:57:07.763 - 01:57:09.703] máximo, sería bueno que lo
+[01:57:09.703 - 01:57:11.883] ordenen hoy día, ¿no? Para que ya queden los grupos
+[01:57:11.883 - 01:57:12.983] finales, ¿sí?
+[01:57:14.303 - 01:57:14.743] Listo.
+[01:57:16.083 - 01:57:17.703] Muy buenas noches a todos. Cuídense
+[01:57:17.703 - 01:57:19.863] mucho. Muchísimas gracias.
+
+SHA-256 del audio: 2ef33ef72407f74bff5af010561b3031bf49059cd97877e8fb8641f774cef2ac

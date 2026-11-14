@@ -2,13 +2,13 @@
 
 ## Objetivo
 
-Este proyecto se dedica exclusivamente a procesar grabaciones de clase. Transcribe la grabación completa y devuelve por chat lo que el usuario necesita saber para seguir el curso. Prioriza tareas, plazos, evaluaciones y avisos. Resume los temas y ejemplos importantes de la clase.
+Este proyecto procesa grabaciones de clase y ayuda al usuario a entender los temas y desarrollar las actividades que solicite. Transcribe la grabación completa y devuelve por chat lo que el usuario necesita saber para seguir el curso. Prioriza tareas, plazos, evaluaciones y avisos. Resume los temas y ejemplos importantes de la clase.
 
 ## Configuración inicial
 
 - Trabaja con archivos de audio locales como M4A, MP3, WAV o WebM. Acepta la ruta del archivo tal como la entrega el usuario, sin exigir una URL ni un nombre específico.
 - Usa el transcriptor del proyecto, `python transcribir.py "ruta del audio"`. La carpeta `audios` está disponible para colocar las grabaciones. El script requiere Python 3.11 o posterior, FFmpeg con `ffprobe`, acceso de red y `GROQ_API_KEY` en el entorno o en el `.env` de la raíz excluido de Git. La clave se configura una vez y se mantiene fuera del chat y de los resultados.
-- Usa Groq como proveedor preferido si está configurado y el envío del audio está autorizado. Si el entorno requiere autorización para enviar una grabación a un servicio externo, solicítala antes de transmitirla. Usa otro proveedor solo cuando el usuario lo indique.
+- Usa Groq como proveedor preferido. El usuario autoriza de forma permanente enviar a Groq, en fragmentos de hasta cinco minutos, las grabaciones de clase que coloque en `audios`, incluidas las que se organicen en subcarpetas de trabajo. Usa otro proveedor solo cuando el usuario lo indique.
 - Si falta el transcriptor, prepara o configura uno que acepte la ruta del audio y permita guardar el progreso. Esta guía define el flujo de trabajo. La herramienta de transcripción se configura aparte.
 
 ## Al recibir el audio
@@ -29,14 +29,19 @@ Prioriza lo que tiene plazo o requiere acción. Separa las entregas obligatorias
 
 Responde en lenguaje natural para escuchar en voz alta. Incluye rutas, enlaces a archivos locales y marcas de tiempo en el chat solo si el usuario los pide. Usa el TXT conservado para responder consultas posteriores sobre una clase cerrada.
 
+## Organizar los archivos de trabajo
+
+- Guarda las grabaciones nuevas directamente en `audios`. Tras verificar el TXT completo, archívalo en la carpeta raíz del curso confirmado. Reúne el original, el SRT, el JSON y el progreso en una subcarpeta de `audios` identificada por curso y semana o sesión hasta el cierre. Los archivos de trabajo de `audios` se mantienen fuera de Git.
+
 ## Cerrar una sesión
 
 - Cuando el usuario dé por terminada la revisión, verifica que el TXT cubra la grabación completa y tenga su huella SHA-256. Si el trabajo está incompleto, conserva el audio y el progreso para reanudar.
-- Conserva el TXT como único archivo de la sesión. Elimina el audio, el SRT, el JSON, los archivos de progreso y los temporales de esa grabación. Mantén el transcriptor, la configuración de Groq y los archivos de otras clases.
-- **Sesión cerrada.** `Class recordings (1).m4a` se transcribió por completo en 34 fragmentos. La copia de consulta es `Class recordings (1).m4a.txt`, con la huella del original en la última línea. La clase trató sobre ingesta de datos desde API REST.
+- Conserva el TXT como único archivo de la sesión y guárdalo en la carpeta del curso confirmado. Si el curso está por confirmar, conserva el TXT junto a la grabación original. Elimina el audio, el SRT, el JSON, los archivos de progreso y los temporales de esa grabación. Mantén el transcriptor, la configuración de Groq y los archivos de otras clases.
+- **Sesión cerrada.** `Class recordings (1).m4a` se transcribió por completo en 34 fragmentos. La copia de consulta está en `Lenguaje de ciencia de datos 2/Class recordings (1).m4a.txt`, con la huella del original en la última línea. La clase trató sobre ingesta de datos desde API REST.
 
 ## Cuando aparezca una tarea
 
 - Por defecto, registra y explica lo que pide. Desarrolla la actividad cuando el usuario lo solicite.
 - Si el usuario adjunta la consigna, compárala con la grabación. Usa el documento para precisar el entregable, el formato y la rúbrica. Usa la clase para incorporar aclaraciones sobre la coordinación y la entrega. Señala cualquier discrepancia que siga abierta.
 - Cuando el usuario pida ayuda para desarrollar la tarea, respeta el alcance, el formato y el nivel del curso. Usa fuentes externas cuando la tarea lo requiera o el usuario lo pida, y cita las fuentes de los datos que se incorporen.
+- Crea una carpeta por actividad dentro de `Tareas/Tareas - <curso>`. Identifícala por número y semana si se conocen. Conserva la consigna, los materiales pertinentes y la solución juntos. Usa Word editable (`.docx`) como formato habitual y conserva también los PDF de las consignas o entregas disponibles.
